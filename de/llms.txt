@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2927 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2929 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2700 pages)
+### Blog Articles (2701 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1317,6 +1317,7 @@
 - [Inter Meisterschaft 2026 Auswirkungen Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/inter-meisterschaft-2026-auswirkungen-grenzgaenger)
 - [Inter Meisterschaft Chivu 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/inter-meisterschaft-chivu-2026)
 - [Inter Meisterschaft Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/inter-meisterschaft-varese-2026)
+- [Interim Agenturen Lugano Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/interim-agenturen-lugano-tessin-grenzgaenger)
 - [Internationale Paddel Grisonen Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/internationale-paddel-grisonen-tessin-2026)
 - [Internationale Ticino 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/internationale-ticino-2026)
 - [Interne Kantonale Ascona Porto Ronco Arbeitsunannehmlichkeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/interne-kantonale-ascona-porto-ronco-arbeitsunannehmlichkeiten)
@@ -2898,7 +2899,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (82 pages)
+### Other Pages (83 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2937,6 +2938,7 @@
 - [Einwanderungsblock Tessin](https://frontaliereticino.ch/de/schweiz-artikel/einwanderungsblock-tessin)
 - [Gesundheitsabgabe Grenzgaenger Gewerkschaften](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsabgabe-grenzgaenger-gewerkschaften)
 - [Gesundheitsversicherungsinitiativen 2026](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsversicherungsinitiativen-2026)
+- [Grenzaer Blockieren Verringern Erstattung Roma](https://frontaliereticino.ch/de/schweiz-artikel/grenzaer-blockieren-verringern-erstattung-roma)
 - [Grenzgaenger Endgueltig Ja Smartworking](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-endgueltig-ja-smartworking)
 - [Grenzueberschreitende Arbeitslosigkeit Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/grenzueberschreitende-arbeitslosigkeit-schweiz)
 - [Kantonale Abstimmungen Juni Mindestlohn](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-abstimmungen-juni-mindestlohn)
