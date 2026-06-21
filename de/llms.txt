@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2936 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2937 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2899,7 +2899,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (90 pages)
+### Other Pages (91 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2937,6 +2937,7 @@
 - [Eine Blockierung Von Restaurants Eine Verstandliche Reaktion](https://frontaliereticino.ch/de/schweiz-artikel/eine-blockierung-von-restaurants-eine-verstandliche-reaktion)
 - [Einwanderungsblock Tessin](https://frontaliereticino.ch/de/schweiz-artikel/einwanderungsblock-tessin)
 - [Gesundheitsabgabe Grenzgaenger Gewerkschaften](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsabgabe-grenzgaenger-gewerkschaften)
+- [Gesundheitssteuer Grenzarbeiter Verschiebung Rom](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitssteuer-grenzarbeiter-verschiebung-rom)
 - [Gesundheitsversicherungsinitiativen 2026](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsversicherungsinitiativen-2026)
 - [Grenzaer Blockieren Verringern Erstattung Roma](https://frontaliereticino.ch/de/schweiz-artikel/grenzaer-blockieren-verringern-erstattung-roma)
 - [Grenze Chiasso Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/grenze-chiasso-schweiz)
