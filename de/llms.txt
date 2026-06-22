@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2937 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2938 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2899,7 +2899,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (91 pages)
+### Other Pages (92 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2936,6 +2936,7 @@
 - [Bce Zinssatz Inflation 2023](https://frontaliereticino.ch/de/schweiz-artikel/bce-zinssatz-inflation-2023)
 - [Eine Blockierung Von Restaurants Eine Verstandliche Reaktion](https://frontaliereticino.ch/de/schweiz-artikel/eine-blockierung-von-restaurants-eine-verstandliche-reaktion)
 - [Einwanderungsblock Tessin](https://frontaliereticino.ch/de/schweiz-artikel/einwanderungsblock-tessin)
+- [Gehaltsdaten Frontalieri Tessin](https://frontaliereticino.ch/de/schweiz-artikel/gehaltsdaten-frontalieri-tessin)
 - [Gesundheitsabgabe Grenzgaenger Gewerkschaften](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsabgabe-grenzgaenger-gewerkschaften)
 - [Gesundheitssteuer Grenzarbeiter Verschiebung Rom](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitssteuer-grenzarbeiter-verschiebung-rom)
 - [Gesundheitsversicherungsinitiativen 2026](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsversicherungsinitiativen-2026)
