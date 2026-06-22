@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2941 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2942 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2701 pages)
+### Blog Articles (2702 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1493,6 +1493,7 @@
 - [Kuhne Nagel Stellenabbau Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kuhne-nagel-stellenabbau-tessin-2026)
 - [Kunstausstellung Geliehene Koerper Agno Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/kunstausstellung-geliehene-koerper-agno-tessin)
 - [Kunstaustellung Tessin Gefuehl Beobachtung Lac Lugano](https://frontaliereticino.ch/de/grenzgaenger-artikel/kunstaustellung-tessin-gefuehl-beobachtung-lac-lugano)
+- [Kunstgras Schulen Tessin Gesundheitsrisiken](https://frontaliereticino.ch/de/grenzgaenger-artikel/kunstgras-schulen-tessin-gesundheitsrisiken)
 - [Kunstliches Erdbeben Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kunstliches-erdbeben-tessin-2026)
 - [Kvg Vs Nhs Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/kvg-vs-nhs-grenzgaenger)
 - [Kvg Vs Ssn Entscheidungshilfe Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/kvg-vs-ssn-entscheidungshilfe-grenzgaenger)
