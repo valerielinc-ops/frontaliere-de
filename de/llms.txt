@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2940 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2941 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2899,7 +2899,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (94 pages)
+### Other Pages (95 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2934,6 +2934,7 @@
 - [Ahv Rente Ausland Bedingungen](https://frontaliereticino.ch/de/schweiz-artikel/ahv-rente-ausland-bedingungen)
 - [Arbeitslosigkeit Schweiz Mai 2026](https://frontaliereticino.ch/de/schweiz-artikel/arbeitslosigkeit-schweiz-mai-2026)
 - [Ausland Aufenthalt Vermeiden Avs Luecke](https://frontaliereticino.ch/de/schweiz-artikel/ausland-aufenthalt-vermeiden-avs-luecke)
+- [Auswandern Schweiz Steueraspekte](https://frontaliereticino.ch/de/schweiz-artikel/auswandern-schweiz-steueraspekte)
 - [Bce Zinssatz Inflation 2023](https://frontaliereticino.ch/de/schweiz-artikel/bce-zinssatz-inflation-2023)
 - [Eine Blockierung Von Restaurants Eine Verstandliche Reaktion](https://frontaliereticino.ch/de/schweiz-artikel/eine-blockierung-von-restaurants-eine-verstandliche-reaktion)
 - [Einwanderungsblock Tessin](https://frontaliereticino.ch/de/schweiz-artikel/einwanderungsblock-tessin)
