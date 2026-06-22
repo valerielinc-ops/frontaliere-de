@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2942 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2943 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2702 pages)
+### Blog Articles (2703 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -2013,6 +2013,7 @@
 - [Prozess Quadroni Ex Polizeichef Bestreitet Vorwurfe](https://frontaliereticino.ch/de/grenzgaenger-artikel/prozess-quadroni-ex-polizeichef-bestreitet-vorwurfe)
 - [Prozess Versuchter Mord Chiasso 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/prozess-versuchter-mord-chiasso-2026)
 - [Prozess Vip Makler Ruckvergutungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/prozess-vip-makler-ruckvergutungen)
+- [Public Eye Loehne On Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/public-eye-loehne-on-ticino)
 - [Putin Ukraine Ende Frontalieri](https://frontaliereticino.ch/de/grenzgaenger-artikel/putin-ukraine-ende-frontalieri)
 - [Quadri Fragt Bundesrat Ueber Grenzen Und Steuern](https://frontaliereticino.ch/de/grenzgaenger-artikel/quadri-fragt-bundesrat-ueber-grenzen-und-steuern)
 - [Quartier Gera Iragna Planung](https://frontaliereticino.ch/de/grenzgaenger-artikel/quartier-gera-iragna-planung)
