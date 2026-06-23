@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2947 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2948 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2902,7 +2902,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (98 pages)
+### Other Pages (99 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2970,6 +2970,7 @@
 - [Schweizer Grenzarbeiter Nettolohnberechnung](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-grenzarbeiter-nettolohnberechnung)
 - [Schweizer Parlament Pension Uebernahme](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-parlament-pension-uebernahme)
 - [Schweizer Rentner Im Ausland](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-rentner-im-ausland)
+- [Schweizer Residenzoptionen Italien 2026 Einziger](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-residenzoptionen-italien-2026-einziger)
 - [Schweizerischer Grenz Beitrag Avs Inps 2026 Familienmit Kindern](https://frontaliereticino.ch/de/schweiz-artikel/schweizerischer-grenz-beitrag-avs-inps-2026-familienmit-kindern)
 - [Teilfinanzierung 13 Rente](https://frontaliereticino.ch/de/schweiz-artikel/teilfinanzierung-13-rente)
 - [Trump Zolle 2026](https://frontaliereticino.ch/de/schweiz-artikel/trump-zolle-2026)
