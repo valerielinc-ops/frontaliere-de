@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2948 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2949 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2902,7 +2902,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (99 pages)
+### Other Pages (100 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2965,6 +2965,7 @@
 - [Sac Huetten Reservierungsgebuehr Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/sac-huetten-reservierungsgebuehr-schweiz)
 - [Schwarzarbeit Lohn Dumping 2025 Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/schwarzarbeit-lohn-dumping-2025-schweiz)
 - [Schweiz Italien Steuerabkommen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-italien-steuerabkommen)
+- [Schweizer Bankgeheimnis](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-bankgeheimnis)
 - [Schweizer Bvg Leistungen Besteuerung](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-bvg-leistungen-besteuerung)
 - [Schweizer Flughafen Aufschwung Passagiere](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-flughafen-aufschwung-passagiere)
 - [Schweizer Grenzarbeiter Nettolohnberechnung](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-grenzarbeiter-nettolohnberechnung)
