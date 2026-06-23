@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2943 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2944 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2703 pages)
+### Blog Articles (2704 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -2853,6 +2853,7 @@
 - [Zwei Festnahmen Chiasso Brogeda Drogen Smuggel 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/zwei-festnahmen-chiasso-brogeda-drogen-smuggel-2024)
 - [Zwei Schulen Zwei Welten Eine Verbindung](https://frontaliereticino.ch/de/grenzgaenger-artikel/zwei-schulen-zwei-welten-eine-verbindung)
 - [Zwei Tessin Schweizer Garden 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/zwei-tessin-schweizer-garden-2026)
+- [Zweiter Gleis Locarno Meilenstein Erreicht](https://frontaliereticino.ch/de/grenzgaenger-artikel/zweiter-gleis-locarno-meilenstein-erreicht)
 - [Zweiter Saule Geteilt Frontalieri Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/zweiter-saule-geteilt-frontalieri-ticino)
 - [äRzte Mangelverbano Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/ärzte-mangelverbano-ticino)
 
