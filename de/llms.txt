@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2964 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2967 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2905,7 +2905,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (112 pages)
+### Other Pages (115 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2960,7 +2960,10 @@
 - [Grenzgaenger Gehaelter Einkaufszentrum](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-gehaelter-einkaufszentrum)
 - [Grenzganger Daten Systemfehler](https://frontaliereticino.ch/de/schweiz-artikel/grenzganger-daten-systemfehler)
 - [Grenzganger Italien Schweiz Firmenstandort](https://frontaliereticino.ch/de/schweiz-artikel/grenzganger-italien-schweiz-firmenstandort)
+- [Grenzkontrollen G7 Einreiseverbote](https://frontaliereticino.ch/de/schweiz-artikel/grenzkontrollen-g7-einreiseverbote)
 - [Grenzueberschreitende Arbeitslosigkeit Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/grenzueberschreitende-arbeitslosigkeit-schweiz)
+- [Hitze Auswirkung Auf Eisenbahnverkehr](https://frontaliereticino.ch/de/schweiz-artikel/hitze-auswirkung-auf-eisenbahnverkehr)
+- [Iva Erhoehung Regierungsentscheidung Geplant](https://frontaliereticino.ch/de/schweiz-artikel/iva-erhoehung-regierungsentscheidung-geplant)
 - [Kantonale Abstimmungen Juni Mindestlohn](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-abstimmungen-juni-mindestlohn)
 - [Kassenservice Pramien Tessin](https://frontaliereticino.ch/de/schweiz-artikel/kassenservice-pramien-tessin)
 - [Kernenergie 13avs Loehne Abstimmungen](https://frontaliereticino.ch/de/schweiz-artikel/kernenergie-13avs-loehne-abstimmungen)
