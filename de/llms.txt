@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2977 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2978 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2707 pages)
+### Blog Articles (2708 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -389,6 +389,7 @@
 - [Balerna 2025 In Schwarz Frontalieri](https://frontaliereticino.ch/de/grenzgaenger-artikel/balerna-2025-in-schwarz-frontalieri)
 - [Balerna Gemeinderats Jahrhundertfeier](https://frontaliereticino.ch/de/grenzgaenger-artikel/balerna-gemeinderats-jahrhundertfeier)
 - [Balerna Planungszone 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/balerna-planungszone-2026)
+- [Banca Etica Freiwillige Sportbucher Varesenews](https://frontaliereticino.ch/de/grenzgaenger-artikel/banca-etica-freiwillige-sportbucher-varesenews)
 - [Bancastato Walking Mendrisio 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bancastato-walking-mendrisio-2026)
 - [Bandecchi Viertelfinale Chiasso 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bandecchi-viertelfinale-chiasso-2026)
 - [Bankauszug Interpretation 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bankauszug-interpretation-2026)
