@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2972 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2973 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2905,7 +2905,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (120 pages)
+### Other Pages (121 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2966,6 +2966,7 @@
 - [Grenzkontrollen G7 Einreiseverbote](https://frontaliereticino.ch/de/schweiz-artikel/grenzkontrollen-g7-einreiseverbote)
 - [Grenzueberschreitende Arbeitslosigkeit Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/grenzueberschreitende-arbeitslosigkeit-schweiz)
 - [Hitze Auswirkung Auf Eisenbahnverkehr](https://frontaliereticino.ch/de/schweiz-artikel/hitze-auswirkung-auf-eisenbahnverkehr)
+- [Hitzeeinfluss Schweizer Bahnen](https://frontaliereticino.ch/de/schweiz-artikel/hitzeeinfluss-schweizer-bahnen)
 - [Iva Erhoehung Regierungsentscheidung Geplant](https://frontaliereticino.ch/de/schweiz-artikel/iva-erhoehung-regierungsentscheidung-geplant)
 - [Kantonale Abstimmungen Juni Mindestlohn](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-abstimmungen-juni-mindestlohn)
 - [Kassenservice Pramien Tessin](https://frontaliereticino.ch/de/schweiz-artikel/kassenservice-pramien-tessin)
