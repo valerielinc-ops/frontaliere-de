@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2982 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2983 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2908,7 +2908,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (127 pages)
+### Other Pages (128 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2985,6 +2985,7 @@
 - [Naspi Arbeitslosengeld Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/naspi-arbeitslosengeld-grenzgaenger)
 - [Neutralisierung Der Schaetzungen 2026 Schutz Fuer Mittelschicht Und Wohneigentum](https://frontaliereticino.ch/de/schweiz-artikel/neutralisierung-der-schaetzungen-2026-schutz-fuer-mittelschicht-und-wohneigentum)
 - [Parlament Avs Adozione Schutz](https://frontaliereticino.ch/de/schweiz-artikel/parlament-avs-adozione-schutz)
+- [Pemsa Lugano Arbeitsmarkt](https://frontaliereticino.ch/de/schweiz-artikel/pemsa-lugano-arbeitsmarkt)
 - [Piero Marchesi Claudio Zali Eigene Liste](https://frontaliereticino.ch/de/schweiz-artikel/piero-marchesi-claudio-zali-eigene-liste)
 - [Quelle Steuer Basel](https://frontaliereticino.ch/de/schweiz-artikel/quelle-steuer-basel)
 - [Quellensteuer Grenzgaenger Tessin](https://frontaliereticino.ch/de/schweiz-artikel/quellensteuer-grenzgaenger-tessin)
