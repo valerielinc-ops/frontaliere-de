@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2983 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2984 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2908,7 +2908,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (128 pages)
+### Other Pages (129 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2979,6 +2979,7 @@
 - [Kassenservice Pramien Tessin](https://frontaliereticino.ch/de/schweiz-artikel/kassenservice-pramien-tessin)
 - [Kernenergie 13avs Loehne Abstimmungen](https://frontaliereticino.ch/de/schweiz-artikel/kernenergie-13avs-loehne-abstimmungen)
 - [Kosten Des Autos Fur Pendler Tessin](https://frontaliereticino.ch/de/schweiz-artikel/kosten-des-autos-fur-pendler-tessin)
+- [Krankenkasse Neuchatel Jugendliche](https://frontaliereticino.ch/de/schweiz-artikel/krankenkasse-neuchatel-jugendliche)
 - [Krankenversicherung Schweizer Ausland Wahl](https://frontaliereticino.ch/de/schweiz-artikel/krankenversicherung-schweizer-ausland-wahl)
 - [Lamal Oder Kvg Grenzgaenger Was Lohnt Sich 2026](https://frontaliereticino.ch/de/schweiz-artikel/lamal-oder-kvg-grenzgaenger-was-lohnt-sich-2026)
 - [Mindestlohn Wd Ja Aber Der Sechste Kanton](https://frontaliereticino.ch/de/schweiz-artikel/mindestlohn-wd-ja-aber-der-sechste-kanton)
