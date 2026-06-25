@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2980 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2981 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2709 pages)
+### Blog Articles (2710 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1468,6 +1468,7 @@
 - [Krankenhaus Erba Krebsversorgung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenhaus-erba-krebsversorgung-2026)
 - [Krankenhaus Varese Heisses Wasser Onkologie](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenhaus-varese-heisses-wasser-onkologie)
 - [Krankenhauser Varese Veranderungen 20 Jahre](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenhauser-varese-veranderungen-20-jahre)
+- [Krankenkasse Neuchatel Junge Erwachsene](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkasse-neuchatel-junge-erwachsene)
 - [Krankenkassen Aufteilung Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassen-aufteilung-tessin)
 - [Krankenkassen Dado Aufteilung Dossier](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassen-dado-aufteilung-dossier)
 - [Krankenkassen Grenzgaenger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassen-grenzgaenger-tessin)
