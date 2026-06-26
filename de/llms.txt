@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2993 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2995 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2910,7 +2910,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (136 pages)
+### Other Pages (138 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2952,6 +2952,7 @@
 - [Berechnung Lpp Rente Ubs](https://frontaliereticino.ch/de/schweiz-artikel/berechnung-lpp-rente-ubs)
 - [Besteuerung Grenzgaenger Jenseits 20km](https://frontaliereticino.ch/de/schweiz-artikel/besteuerung-grenzgaenger-jenseits-20km)
 - [Bewilligung G Vor Und Nachteile Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/bewilligung-g-vor-und-nachteile-grenzgaenger)
+- [Brand Autostrada Piotta](https://frontaliereticino.ch/de/schweiz-artikel/brand-autostrada-piotta)
 - [Chiasso Brogeda Wartezeiten Heute](https://frontaliereticino.ch/de/schweiz-artikel/chiasso-brogeda-wartezeiten-heute)
 - [Daten Steuern Frontalieri Italien](https://frontaliereticino.ch/de/schweiz-artikel/daten-steuern-frontalieri-italien)
 - [Deutsche Bahn Bahnverkehr Stopp Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/deutsche-bahn-bahnverkehr-stopp-deutschland)
@@ -3019,6 +3020,7 @@
 - [Trump Zolle 2026](https://frontaliereticino.ch/de/schweiz-artikel/trump-zolle-2026)
 - [Ubs Neues Altersvorsorge Modell](https://frontaliereticino.ch/de/schweiz-artikel/ubs-neues-altersvorsorge-modell)
 - [Verzoegerte Zuege Stabio Gallarate Regionale Unfahigkeit](https://frontaliereticino.ch/de/schweiz-artikel/verzoegerte-zuege-stabio-gallarate-regionale-unfahigkeit)
+- [Viareggio Zugunglueck Verurteilungen](https://frontaliereticino.ch/de/schweiz-artikel/viareggio-zugunglueck-verurteilungen)
 - [Wiederaufnahme Zugverkehr Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/wiederaufnahme-zugverkehr-deutschland)
 - [Wirtschaftexperten Anpassen Wachstumsprognosen 2026](https://frontaliereticino.ch/de/schweiz-artikel/wirtschaftexperten-anpassen-wachstumsprognosen-2026)
 - [Zoll Gaggiolo Stabio](https://frontaliereticino.ch/de/schweiz-artikel/zoll-gaggiolo-stabio)
