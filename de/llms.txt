@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2986 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2987 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2710 pages)
+### Blog Articles (2711 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1213,6 +1213,7 @@
 - [Grune Wiederbelebung Tessin Airola Rodi](https://frontaliereticino.ch/de/grenzgaenger-artikel/grune-wiederbelebung-tessin-airola-rodi)
 - [GrüNe RäUme In StäDten Entspannung](https://frontaliereticino.ch/de/grenzgaenger-artikel/grüne-räume-in-städten-entspannung)
 - [Guasto Tra Parabiago E Rho](https://frontaliereticino.ch/de/grenzgaenger-artikel/guasto-tra-parabiago-e-rho)
+- [Guess Stabio Merchandiser Stelle](https://frontaliereticino.ch/de/grenzgaenger-artikel/guess-stabio-merchandiser-stelle)
 - [Gutscheine Restaurant Mutter Einkind Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/gutscheine-restaurant-mutter-einkind-ticino)
 - [Gysin Bewirbt Sich Als Grunen Fraktion](https://frontaliereticino.ch/de/grenzgaenger-artikel/gysin-bewirbt-sich-als-grunen-fraktion)
 - [GüNstiger Benzin Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/günstiger-benzin-tessin)
