@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2988 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2989 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2909,7 +2909,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (132 pages)
+### Other Pages (133 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3012,6 +3012,7 @@
 - [Steuerberechnung Grenzganger Innerhalb 20km](https://frontaliereticino.ch/de/schweiz-artikel/steuerberechnung-grenzganger-innerhalb-20km)
 - [Steuererklaerung Frontalieri 730 Fuehrer](https://frontaliereticino.ch/de/schweiz-artikel/steuererklaerung-frontalieri-730-fuehrer)
 - [Teilfinanzierung 13 Rente](https://frontaliereticino.ch/de/schweiz-artikel/teilfinanzierung-13-rente)
+- [Telearbeit Grenzgaenger Tage 2026](https://frontaliereticino.ch/de/schweiz-artikel/telearbeit-grenzgaenger-tage-2026)
 - [Trump Zolle 2026](https://frontaliereticino.ch/de/schweiz-artikel/trump-zolle-2026)
 - [Ubs Neues Altersvorsorge Modell](https://frontaliereticino.ch/de/schweiz-artikel/ubs-neues-altersvorsorge-modell)
 - [Verzoegerte Zuege Stabio Gallarate Regionale Unfahigkeit](https://frontaliereticino.ch/de/schweiz-artikel/verzoegerte-zuege-stabio-gallarate-regionale-unfahigkeit)
