@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2985 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2986 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2908,7 +2908,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (130 pages)
+### Other Pages (131 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2958,6 +2958,7 @@
 - [Erhohung Mwst Armee 2024](https://frontaliereticino.ch/de/schweiz-artikel/erhohung-mwst-armee-2024)
 - [Erhohung Wohn Und Mobilitatskosten Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/erhohung-wohn-und-mobilitatskosten-schweiz)
 - [Ethos Ceo Gehalt Nachhaltigkeit](https://frontaliereticino.ch/de/schweiz-artikel/ethos-ceo-gehalt-nachhaltigkeit)
+- [Freiburg Spital Arbeit Pflegefachmann](https://frontaliereticino.ch/de/schweiz-artikel/freiburg-spital-arbeit-pflegefachmann)
 - [Frontaliere Wahl Schweiz Arbeit Gehalt Steuern Verkehr Italien Vergleich](https://frontaliereticino.ch/de/schweiz-artikel/frontaliere-wahl-schweiz-arbeit-gehalt-steuern-verkehr-italien-vergleich)
 - [Gehaltsdaten Frontalieri Tessin](https://frontaliereticino.ch/de/schweiz-artikel/gehaltsdaten-frontalieri-tessin)
 - [Gesundheitsabgabe Grenzgaenger Gewerkschaften](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsabgabe-grenzgaenger-gewerkschaften)
