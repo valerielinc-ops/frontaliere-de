@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2996 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2998 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2712 pages)
+### Blog Articles (2713 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -2592,6 +2592,7 @@
 - [Tutor Sapiens Drittstufe Lehre](https://frontaliereticino.ch/de/grenzgaenger-artikel/tutor-sapiens-drittstufe-lehre)
 - [Twint Konto Betrug Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/twint-konto-betrug-grenzgaenger)
 - [TöDlicher Unfall Frontaliere](https://frontaliereticino.ch/de/grenzgaenger-artikel/tödlicher-unfall-frontaliere)
+- [U Boldo Lucio Dalla Tribut](https://frontaliereticino.ch/de/grenzgaenger-artikel/u-boldo-lucio-dalla-tribut)
 - [Uberfall Mailand Tessin Pendler 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/uberfall-mailand-tessin-pendler-2026)
 - [Uboldo Dach Beschadigt Sturm 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/uboldo-dach-beschadigt-sturm-2026)
 - [Ubs Credit Suisse Integration Ergebnisse 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/ubs-credit-suisse-integration-ergebnisse-2026)
@@ -2910,7 +2911,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (139 pages)
+### Other Pages (140 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2953,6 +2954,7 @@
 - [Besteuerung Grenzgaenger Jenseits 20km](https://frontaliereticino.ch/de/schweiz-artikel/besteuerung-grenzgaenger-jenseits-20km)
 - [Bewilligung G Vor Und Nachteile Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/bewilligung-g-vor-und-nachteile-grenzgaenger)
 - [Brand Autostrada Piotta](https://frontaliereticino.ch/de/schweiz-artikel/brand-autostrada-piotta)
+- [Charles Iii Einkommen Steuern 2026](https://frontaliereticino.ch/de/schweiz-artikel/charles-iii-einkommen-steuern-2026)
 - [Chiasso Brogeda Wartezeiten Heute](https://frontaliereticino.ch/de/schweiz-artikel/chiasso-brogeda-wartezeiten-heute)
 - [Daten Steuern Frontalieri Italien](https://frontaliereticino.ch/de/schweiz-artikel/daten-steuern-frontalieri-italien)
 - [Deutsche Bahn Bahnverkehr Stopp Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/deutsche-bahn-bahnverkehr-stopp-deutschland)
