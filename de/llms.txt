@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2989 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2991 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2711 pages)
+### Blog Articles (2712 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1912,6 +1912,7 @@
 - [Opferhilfe 142 Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/opferhilfe-142-tessin-2026)
 - [Orchestra Le Nove Konzerte Lugano Bellinzona](https://frontaliereticino.ch/de/grenzgaenger-artikel/orchestra-le-nove-konzerte-lugano-bellinzona)
 - [Organisierte Kriminalitaet Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/organisierte-kriminalitaet-schweiz-2026)
+- [Orientation Tage Aslam Busto Arsizio](https://frontaliereticino.ch/de/grenzgaenger-artikel/orientation-tage-aslam-busto-arsizio)
 - [Orientierungslauf Weltcup Locarno 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/orientierungslauf-weltcup-locarno-2026)
 - [Ossolaner Frontarbeiter Tod Visp Obduktion](https://frontaliereticino.ch/de/grenzgaenger-artikel/ossolaner-frontarbeiter-tod-visp-obduktion)
 - [Ostern Botschaft Der Zukunft](https://frontaliereticino.ch/de/grenzgaenger-artikel/ostern-botschaft-der-zukunft)
@@ -2909,7 +2910,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (133 pages)
+### Other Pages (134 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2965,6 +2966,7 @@
 - [Gesundheitsabgabe Grenzgaenger Gewerkschaften](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsabgabe-grenzgaenger-gewerkschaften)
 - [Gesundheitssteuer Grenzarbeiter Verschiebung Rom](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitssteuer-grenzarbeiter-verschiebung-rom)
 - [Gesundheitsversicherungsinitiativen 2026](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsversicherungsinitiativen-2026)
+- [Giro Drei Laender Strassensperrungen 2026](https://frontaliereticino.ch/de/schweiz-artikel/giro-drei-laender-strassensperrungen-2026)
 - [Grenzaer Blockieren Verringern Erstattung Roma](https://frontaliereticino.ch/de/schweiz-artikel/grenzaer-blockieren-verringern-erstattung-roma)
 - [Grenze Chiasso Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/grenze-chiasso-schweiz)
 - [Grenzgaenger Besteuerung 2026 Neues Abkommen](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-besteuerung-2026-neues-abkommen)
