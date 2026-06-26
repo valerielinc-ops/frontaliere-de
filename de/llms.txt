@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2991 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2992 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2910,7 +2910,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (134 pages)
+### Other Pages (135 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2954,6 +2954,7 @@
 - [Bewilligung G Vor Und Nachteile Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/bewilligung-g-vor-und-nachteile-grenzgaenger)
 - [Chiasso Brogeda Wartezeiten Heute](https://frontaliereticino.ch/de/schweiz-artikel/chiasso-brogeda-wartezeiten-heute)
 - [Daten Steuern Frontalieri Italien](https://frontaliereticino.ch/de/schweiz-artikel/daten-steuern-frontalieri-italien)
+- [Deutsche Bahn Bahnverkehr Stopp Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/deutsche-bahn-bahnverkehr-stopp-deutschland)
 - [Dritte Saeule Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/dritte-saeule-grenzgaenger)
 - [Eine Blockierung Von Restaurants Eine Verstandliche Reaktion](https://frontaliereticino.ch/de/schweiz-artikel/eine-blockierung-von-restaurants-eine-verstandliche-reaktion)
 - [Einwanderungsblock Tessin](https://frontaliereticino.ch/de/schweiz-artikel/einwanderungsblock-tessin)
