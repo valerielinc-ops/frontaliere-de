@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3005 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3006 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2914,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (144 pages)
+### Other Pages (145 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3017,6 +3017,7 @@
 - [Schweizer Grenzarbeiter Nettolohnberechnung](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-grenzarbeiter-nettolohnberechnung)
 - [Schweizer Parlament Kaempft Avs Vereinbarungen](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-parlament-kaempft-avs-vereinbarungen)
 - [Schweizer Parlament Pension Uebernahme](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-parlament-pension-uebernahme)
+- [Schweizer Postbote Nach 42 Jahren Entlassen Bern Greift Nicht Ein](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-postbote-nach-42-jahren-entlassen-bern-greift-nicht-ein)
 - [Schweizer Rentner Im Ausland](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-rentner-im-ausland)
 - [Schweizer Residenzoptionen Italien 2026 Einziger](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-residenzoptionen-italien-2026-einziger)
 - [Schweizerischer Grenz Beitrag Avs Inps 2026 Familienmit Kindern](https://frontaliereticino.ch/de/schweiz-artikel/schweizerischer-grenz-beitrag-avs-inps-2026-familienmit-kindern)
