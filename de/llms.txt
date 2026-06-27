@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2999 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3003 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2713 pages)
+### Blog Articles (2716 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -562,6 +562,7 @@
 - [Cardada Cimetta Wiedereroffnet Fuer Biker 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/cardada-cimetta-wiedereroffnet-fuer-biker-2024)
 - [Cardano Oekologische Woche Raee 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/cardano-oekologische-woche-raee-2026)
 - [Cargo Chiasso Arbeitsfaehigkeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/cargo-chiasso-arbeitsfaehigkeiten)
+- [Cargotrailers Uebernahme Lonate Pozzolo](https://frontaliereticino.ch/de/grenzgaenger-artikel/cargotrailers-uebernahme-lonate-pozzolo)
 - [Carnago Forza Italia Pendelverkehr](https://frontaliereticino.ch/de/grenzgaenger-artikel/carnago-forza-italia-pendelverkehr)
 - [Caronno Varesino Neuer Sportplatz Dante Mercanti](https://frontaliereticino.ch/de/grenzgaenger-artikel/caronno-varesino-neuer-sportplatz-dante-mercanti)
 - [Carpooling Cantello Reservierte Parkplaetze Grenzuebergaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/carpooling-cantello-reservierte-parkplaetze-grenzuebergaenger)
@@ -1325,6 +1326,7 @@
 - [Interim Agenturen Lugano Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/interim-agenturen-lugano-tessin-grenzgaenger)
 - [Internationale Paddel Grisonen Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/internationale-paddel-grisonen-tessin-2026)
 - [Internationale Ticino 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/internationale-ticino-2026)
+- [Internationaler Rotkreuz Austausch Varese](https://frontaliereticino.ch/de/grenzgaenger-artikel/internationaler-rotkreuz-austausch-varese)
 - [Interne Kantonale Ascona Porto Ronco Arbeitsunannehmlichkeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/interne-kantonale-ascona-porto-ronco-arbeitsunannehmlichkeiten)
 - [Internet Blackout Im Iran 70 Tage](https://frontaliereticino.ch/de/grenzgaenger-artikel/internet-blackout-im-iran-70-tage)
 - [Interroll Uebernimmt Royal Apollo Group](https://frontaliereticino.ch/de/grenzgaenger-artikel/interroll-uebernimmt-royal-apollo-group)
@@ -2421,6 +2423,7 @@
 - [Swissminiatur Goldmine Sessa 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/swissminiatur-goldmine-sessa-2026)
 - [Swissquote Trading Day Lugano 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/swissquote-trading-day-lugano-2026)
 - [Syndicom Vsm Vereinbarung Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/syndicom-vsm-vereinbarung-tessin-2026)
+- [Taegliche Mobilitat Varese Umfragedaten](https://frontaliereticino.ch/de/grenzgaenger-artikel/taegliche-mobilitat-varese-umfragedaten)
 - [Tag Der Arbeit 2026 Tessin Gewerkschaften](https://frontaliereticino.ch/de/grenzgaenger-artikel/tag-der-arbeit-2026-tessin-gewerkschaften)
 - [Tag Der Arbeit Tessin Loehne 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/tag-der-arbeit-tessin-loehne-2024)
 - [Tag Der Arbeit Turin Spannungen Askatasuna](https://frontaliereticino.ch/de/grenzgaenger-artikel/tag-der-arbeit-turin-spannungen-askatasuna)
@@ -2911,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (141 pages)
+### Other Pages (142 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3021,6 +3024,7 @@
 - [Steuererklaerung Frontalieri 730 Fuehrer](https://frontaliereticino.ch/de/schweiz-artikel/steuererklaerung-frontalieri-730-fuehrer)
 - [Teilfinanzierung 13 Rente](https://frontaliereticino.ch/de/schweiz-artikel/teilfinanzierung-13-rente)
 - [Telearbeit Grenzgaenger Tage 2026](https://frontaliereticino.ch/de/schweiz-artikel/telearbeit-grenzgaenger-tage-2026)
+- [Tizino Gehalt Lucke Frontalieri](https://frontaliereticino.ch/de/schweiz-artikel/tizino-gehalt-lucke-frontalieri)
 - [Trump Zolle 2026](https://frontaliereticino.ch/de/schweiz-artikel/trump-zolle-2026)
 - [Ubs Neues Altersvorsorge Modell](https://frontaliereticino.ch/de/schweiz-artikel/ubs-neues-altersvorsorge-modell)
 - [Verzoegerte Zuege Stabio Gallarate Regionale Unfahigkeit](https://frontaliereticino.ch/de/schweiz-artikel/verzoegerte-zuege-stabio-gallarate-regionale-unfahigkeit)
