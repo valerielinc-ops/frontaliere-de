@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3004 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3005 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2914,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (143 pages)
+### Other Pages (144 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3033,6 +3033,7 @@
 - [Wiederaufnahme Zugverkehr Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/wiederaufnahme-zugverkehr-deutschland)
 - [Wirtschaftexperten Anpassen Wachstumsprognosen 2026](https://frontaliereticino.ch/de/schweiz-artikel/wirtschaftexperten-anpassen-wachstumsprognosen-2026)
 - [Zoll Gaggiolo Stabio](https://frontaliereticino.ch/de/schweiz-artikel/zoll-gaggiolo-stabio)
+- [Zweite Saeule Bvg Grenzgaenger Bezug](https://frontaliereticino.ch/de/schweiz-artikel/zweite-saeule-bvg-grenzgaenger-bezug)
 - [Schweizer Arbeitsvertraege](https://frontaliereticino.ch/de/schweizer-arbeitsvertraege)
 - [Schweizer Steuern Grenzgaenger](https://frontaliereticino.ch/de/schweizer-steuern-grenzgaenger)
 - [Seitenplan](https://frontaliereticino.ch/de/seitenplan)
