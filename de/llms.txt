@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2998 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2999 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2911,7 +2911,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (140 pages)
+### Other Pages (141 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3016,6 +3016,7 @@
 - [Schweizer Rentner Im Ausland](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-rentner-im-ausland)
 - [Schweizer Residenzoptionen Italien 2026 Einziger](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-residenzoptionen-italien-2026-einziger)
 - [Schweizerischer Grenz Beitrag Avs Inps 2026 Familienmit Kindern](https://frontaliereticino.ch/de/schweiz-artikel/schweizerischer-grenz-beitrag-avs-inps-2026-familienmit-kindern)
+- [Steuer Ruckerstattungen Fur Grenzpendler Wie Sie Funktionieren](https://frontaliereticino.ch/de/schweiz-artikel/steuer-ruckerstattungen-fur-grenzpendler-wie-sie-funktionieren)
 - [Steuerberechnung Grenzganger Innerhalb 20km](https://frontaliereticino.ch/de/schweiz-artikel/steuerberechnung-grenzganger-innerhalb-20km)
 - [Steuererklaerung Frontalieri 730 Fuehrer](https://frontaliereticino.ch/de/schweiz-artikel/steuererklaerung-frontalieri-730-fuehrer)
 - [Teilfinanzierung 13 Rente](https://frontaliereticino.ch/de/schweiz-artikel/teilfinanzierung-13-rente)
