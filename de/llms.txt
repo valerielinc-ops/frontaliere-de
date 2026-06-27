@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3008 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3011 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2914,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (147 pages)
+### Other Pages (150 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2969,6 +2969,7 @@
 - [Erhohung Mwst Armee 2024](https://frontaliereticino.ch/de/schweiz-artikel/erhohung-mwst-armee-2024)
 - [Erhohung Wohn Und Mobilitatskosten Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/erhohung-wohn-und-mobilitatskosten-schweiz)
 - [Ethos Ceo Gehalt Nachhaltigkeit](https://frontaliereticino.ch/de/schweiz-artikel/ethos-ceo-gehalt-nachhaltigkeit)
+- [Forfait Tarif E Commerce](https://frontaliereticino.ch/de/schweiz-artikel/forfait-tarif-e-commerce)
 - [Freiburg Spital Arbeit Pflegefachmann](https://frontaliereticino.ch/de/schweiz-artikel/freiburg-spital-arbeit-pflegefachmann)
 - [Frontaliere Wahl Schweiz Arbeit Gehalt Steuern Verkehr Italien Vergleich](https://frontaliereticino.ch/de/schweiz-artikel/frontaliere-wahl-schweiz-arbeit-gehalt-steuern-verkehr-italien-vergleich)
 - [Gehaltsdaten Frontalieri Tessin](https://frontaliereticino.ch/de/schweiz-artikel/gehaltsdaten-frontalieri-tessin)
@@ -2981,6 +2982,8 @@
 - [Grenzgaenger Besteuerung 2026 Neues Abkommen](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-besteuerung-2026-neues-abkommen)
 - [Grenzgaenger Doppelbesteuerung Steuergutschrift](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-doppelbesteuerung-steuergutschrift)
 - [Grenzgaenger Endgueltig Ja Smartworking](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-endgueltig-ja-smartworking)
+- [Grenzgaenger Euro Franken Tausch](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-euro-franken-tausch)
+- [Grenzgaenger Euro Franken Wechsel](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-euro-franken-wechsel)
 - [Grenzgaenger Gehaelter Einkaufszentrum](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-gehaelter-einkaufszentrum)
 - [Grenzgaenger Rentenfehler 2026](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-rentenfehler-2026)
 - [Grenzganger Daten Systemfehler](https://frontaliereticino.ch/de/schweiz-artikel/grenzganger-daten-systemfehler)
