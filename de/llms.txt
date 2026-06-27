@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3003 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3004 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2914,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (142 pages)
+### Other Pages (143 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2955,6 +2955,7 @@
 - [Bce Zinssatz Inflation 2023](https://frontaliereticino.ch/de/schweiz-artikel/bce-zinssatz-inflation-2023)
 - [Berechnung Lpp Rente Ubs](https://frontaliereticino.ch/de/schweiz-artikel/berechnung-lpp-rente-ubs)
 - [Besteuerung Grenzgaenger Jenseits 20km](https://frontaliereticino.ch/de/schweiz-artikel/besteuerung-grenzgaenger-jenseits-20km)
+- [Besteuerung Grenzgaenger Ueber 20km](https://frontaliereticino.ch/de/schweiz-artikel/besteuerung-grenzgaenger-ueber-20km)
 - [Bewilligung G Vor Und Nachteile Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/bewilligung-g-vor-und-nachteile-grenzgaenger)
 - [Brand Autostrada Piotta](https://frontaliereticino.ch/de/schweiz-artikel/brand-autostrada-piotta)
 - [Charles Iii Einkommen Steuern 2026](https://frontaliereticino.ch/de/schweiz-artikel/charles-iii-einkommen-steuern-2026)
