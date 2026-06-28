@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3014 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3015 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2914,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (153 pages)
+### Other Pages (154 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2997,6 +2997,7 @@
 - [Kantonale Abstimmungen Juni Mindestlohn](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-abstimmungen-juni-mindestlohn)
 - [Kassenservice Pramien Tessin](https://frontaliereticino.ch/de/schweiz-artikel/kassenservice-pramien-tessin)
 - [Kernenergie 13avs Loehne Abstimmungen](https://frontaliereticino.ch/de/schweiz-artikel/kernenergie-13avs-loehne-abstimmungen)
+- [Kinderbetreuer Tessin Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/kinderbetreuer-tessin-leitfaden)
 - [Kosten Des Autos Fur Pendler Tessin](https://frontaliereticino.ch/de/schweiz-artikel/kosten-des-autos-fur-pendler-tessin)
 - [Krankenkasse Neuchatel Jugendliche](https://frontaliereticino.ch/de/schweiz-artikel/krankenkasse-neuchatel-jugendliche)
 - [Krankenversicherung Familie Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/krankenversicherung-familie-grenzgaenger)
