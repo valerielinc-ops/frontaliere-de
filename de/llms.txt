@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3015 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3016 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2914,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (154 pages)
+### Other Pages (155 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3014,6 +3014,7 @@
 - [Quelle Steuer Basel](https://frontaliereticino.ch/de/schweiz-artikel/quelle-steuer-basel)
 - [Quellensteuer Grenzgaenger Tessin](https://frontaliereticino.ch/de/schweiz-artikel/quellensteuer-grenzgaenger-tessin)
 - [Quellensteuer Grenzganger Tessin](https://frontaliereticino.ch/de/schweiz-artikel/quellensteuer-grenzganger-tessin)
+- [Quellensteuer Tessin Rechner](https://frontaliereticino.ch/de/schweiz-artikel/quellensteuer-tessin-rechner)
 - [Rente Berechnung Grenzgaenger Avs Italienisch](https://frontaliereticino.ch/de/schweiz-artikel/rente-berechnung-grenzgaenger-avs-italienisch)
 - [Rentenberechnung Grenzgaenger Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/rentenberechnung-grenzgaenger-schweiz)
 - [Sac Huetten Reservierungsgebuehr Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/sac-huetten-reservierungsgebuehr-schweiz)
