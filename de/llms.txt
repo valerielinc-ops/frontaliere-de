@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3016 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3017 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2914,7 +2914,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (155 pages)
+### Other Pages (156 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2978,6 +2978,7 @@
 - [Gesundheitsversicherungsinitiativen 2026](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsversicherungsinitiativen-2026)
 - [Giro Drei Laender Strassensperrungen 2026](https://frontaliereticino.ch/de/schweiz-artikel/giro-drei-laender-strassensperrungen-2026)
 - [Grenzaer Blockieren Verringern Erstattung Roma](https://frontaliereticino.ch/de/schweiz-artikel/grenzaer-blockieren-verringern-erstattung-roma)
+- [Grenzarbeiter Rente Avs Inps 2026](https://frontaliereticino.ch/de/schweiz-artikel/grenzarbeiter-rente-avs-inps-2026)
 - [Grenze Chiasso Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/grenze-chiasso-schweiz)
 - [Grenzgaenger Autoversicherung Schweiz Italien](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-autoversicherung-schweiz-italien)
 - [Grenzgaenger Besteuerung 2026 Neues Abkommen](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-besteuerung-2026-neues-abkommen)
