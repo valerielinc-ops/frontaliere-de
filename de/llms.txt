@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3021 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3022 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2716 pages)
+### Blog Articles (2717 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1258,6 +1258,7 @@
 - [Hilfe Energieunternehmen Verlaengerung Fondskuerzung](https://frontaliereticino.ch/de/grenzgaenger-artikel/hilfe-energieunternehmen-verlaengerung-fondskuerzung)
 - [Hirte Werden Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/hirte-werden-tessin)
 - [Hirtenkurs Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/hirtenkurs-tessin)
+- [Hitze Tessin Schweden](https://frontaliereticino.ch/de/grenzgaenger-artikel/hitze-tessin-schweden)
 - [Hockey Haus Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/hockey-haus-tessin)
 - [Hockey Haus Tessin Nachrichten](https://frontaliereticino.ch/de/grenzgaenger-artikel/hockey-haus-tessin-nachrichten)
 - [Hockey Lugano Neue Spieler 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/hockey-lugano-neue-spieler-2026)
