@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3026 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3027 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2915,7 +2915,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (164 pages)
+### Other Pages (165 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3013,6 +3013,7 @@
 - [Lohn Daten Austausch Italien Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/lohn-daten-austausch-italien-schweiz)
 - [Mindestlohn Wd Ja Aber Der Sechste Kanton](https://frontaliereticino.ch/de/schweiz-artikel/mindestlohn-wd-ja-aber-der-sechste-kanton)
 - [Naspi Arbeitslosengeld Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/naspi-arbeitslosengeld-grenzgaenger)
+- [Neue Grenzpendler Immer Armer](https://frontaliereticino.ch/de/schweiz-artikel/neue-grenzpendler-immer-armer)
 - [Neutralisierung Der Schaetzungen 2026 Schutz Fuer Mittelschicht Und Wohneigentum](https://frontaliereticino.ch/de/schweiz-artikel/neutralisierung-der-schaetzungen-2026-schutz-fuer-mittelschicht-und-wohneigentum)
 - [Pandemie Entschaedigung Schweizer Unternehmen](https://frontaliereticino.ch/de/schweiz-artikel/pandemie-entschaedigung-schweizer-unternehmen)
 - [Parlament Avs Adozione Schutz](https://frontaliereticino.ch/de/schweiz-artikel/parlament-avs-adozione-schutz)
