@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3027 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3036 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2717 pages)
+### Blog Articles (2726 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -168,6 +168,7 @@
 - [13 Ahv Rente Finanzierungsstreit Mwst Beitraege](https://frontaliereticino.ch/de/grenzgaenger-artikel/13-ahv-rente-finanzierungsstreit-mwst-beitraege)
 - [13 Ahv Rente Mischfinanzierung Beitraege Mwst](https://frontaliereticino.ch/de/grenzgaenger-artikel/13-ahv-rente-mischfinanzierung-beitraege-mwst)
 - [13 Ahv Rente Mischfinanzierung Gehalt Mwst](https://frontaliereticino.ch/de/grenzgaenger-artikel/13-ahv-rente-mischfinanzierung-gehalt-mwst)
+- [13 Ahv Rente Mischfinanzierung Gehalt Mwst Vorschlag](https://frontaliereticino.ch/de/grenzgaenger-artikel/13-ahv-rente-mischfinanzierung-gehalt-mwst-vorschlag)
 - [13 Ahv Rente Mwst Erhoehung Lohnbeitraege Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/13-ahv-rente-mwst-erhoehung-lohnbeitraege-grenzgaenger)
 - [13 Avs Mehrwertsteuer Nationalrat](https://frontaliereticino.ch/de/grenzgaenger-artikel/13-avs-mehrwertsteuer-nationalrat)
 - [13 Monatslohn Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/13-monatslohn-grenzgaenger)
@@ -729,6 +730,7 @@
 - [Dfp Bankitalia Margen Schulden Eu 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/dfp-bankitalia-margen-schulden-eu-2026)
 - [Dfp Giorgetti Defizit Verringert](https://frontaliereticino.ch/de/grenzgaenger-artikel/dfp-giorgetti-defizit-verringert)
 - [Dialog Der Voelker Farben Der Welt Busto Arsizio](https://frontaliereticino.ch/de/grenzgaenger-artikel/dialog-der-voelker-farben-der-welt-busto-arsizio)
+- [Die Fuenfte Schweiz Schwaeche Fuer Mailand](https://frontaliereticino.ch/de/grenzgaenger-artikel/die-fuenfte-schweiz-schwaeche-fuer-mailand)
 - [Die Gemeinde Und Unternehmen Sich Besser Kennenlernen](https://frontaliereticino.ch/de/grenzgaenger-artikel/die-gemeinde-und-unternehmen-sich-besser-kennenlernen)
 - [Die Halfte Der Schweiz Unzufrieden Mit Dem System 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/die-halfte-der-schweiz-unzufrieden-mit-dem-system-2026)
 - [Diebe Aufgehalten Lavena Ponte Tresa](https://frontaliereticino.ch/de/grenzgaenger-artikel/diebe-aufgehalten-lavena-ponte-tresa)
@@ -1043,6 +1045,7 @@
 - [Gemeinden Locarno Zukunft](https://frontaliereticino.ch/de/grenzgaenger-artikel/gemeinden-locarno-zukunft)
 - [Gemeindewahlen Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/gemeindewahlen-tessin)
 - [Gemeinschaftshaus Luino Einheitlicher Zugangspunkt](https://frontaliereticino.ch/de/grenzgaenger-artikel/gemeinschaftshaus-luino-einheitlicher-zugangspunkt)
+- [Genehmigung G Vs B Grenzgaenger 2026 Jenseits 20km](https://frontaliereticino.ch/de/grenzgaenger-artikel/genehmigung-g-vs-b-grenzgaenger-2026-jenseits-20km)
 - [Genf Protest Offentliche Angestellte 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/genf-protest-offentliche-angestellte-2026)
 - [Genfersee Reinigung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/genfersee-reinigung-2026)
 - [Genny Zero Rollstuhl Design Preis](https://frontaliereticino.ch/de/grenzgaenger-artikel/genny-zero-rollstuhl-design-preis)
@@ -1152,7 +1155,9 @@
 - [Grenzgaenger Gesundheitssteuer Theater](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gesundheitssteuer-theater)
 - [Grenzgaenger Gesundheitsteuer Konflikt](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gesundheitsteuer-konflikt)
 - [Grenzgaenger Grenzgemeinden Steuerungleichheit](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-grenzgemeinden-steuerungleichheit)
+- [Grenzgaenger Kindergarten Guide 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-kindergarten-guide-2026)
 - [Grenzgaenger Kindergarten Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-kindergarten-schweiz)
+- [Grenzgaenger Muell Cantello Busse](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-muell-cantello-busse)
 - [Grenzgaenger Neue Steuerkarte Grenzgemeinden](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-neue-steuerkarte-grenzgemeinden)
 - [Grenzgaenger Neues Steuerabkommen 2026 Simulation](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-neues-steuerabkommen-2026-simulation)
 - [Grenzgaenger Rente Avs Inps 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rente-avs-inps-2026)
@@ -1193,6 +1198,7 @@
 - [Grenzganger Wohnen Zurich](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-wohnen-zurich)
 - [Grenzgemeinden Entfernung](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgemeinden-entfernung)
 - [Grenzgemeinden Neue Steuerregeln](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgemeinden-neue-steuerregeln)
+- [Grenzgemeinden Steuerliche Auswirkungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgemeinden-steuerliche-auswirkungen)
 - [Grenzgemeinden Steuerungleichheit](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgemeinden-steuerungleichheit)
 - [Grenzgemeinden Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgemeinden-tessin)
 - [Grenzkontrollen Airolo 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzkontrollen-airolo-2026)
@@ -1651,6 +1657,7 @@
 - [Lumen Claro Preistraeger Varese 1989](https://frontaliereticino.ch/de/grenzgaenger-artikel/lumen-claro-preistraeger-varese-1989)
 - [Luve Hyperscaler Ai 100 Mio Vertrag](https://frontaliereticino.ch/de/grenzgaenger-artikel/luve-hyperscaler-ai-100-mio-vertrag)
 - [Luxusautos Diebstahl Murten 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/luxusautos-diebstahl-murten-2026)
+- [Luxushaeuser Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/luxushaeuser-schweiz-2026)
 - [Luxusimmobilien Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/luxusimmobilien-schweiz-2026)
 - [Luzern Neuer Steuerparadies Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/luzern-neuer-steuerparadies-schweiz)
 - [Madchen In Feld Tot Aufgefunden Freundes Haus Durchsucht](https://frontaliereticino.ch/de/grenzgaenger-artikel/madchen-in-feld-tot-aufgefunden-freundes-haus-durchsucht)
@@ -2229,6 +2236,7 @@
 - [Schweizer Italienische Universitaeten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-italienische-universitaeten-tessin)
 - [Schweizer Jobs Zufriedenheit Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-jobs-zufriedenheit-tessin)
 - [Schweizer Klimabeitrag Online Einkauf 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-klimabeitrag-online-einkauf-2026)
+- [Schweizer Kraftstoffvorrate 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-kraftstoffvorrate-2026)
 - [Schweizer Kuriositaten Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-kuriositaten-tessin-2026)
 - [Schweizer Laufhund Ausstellung Malvaglia 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-laufhund-ausstellung-malvaglia-2026)
 - [Schweizer Loehne Gestiegen 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-loehne-gestiegen-2025)
@@ -2313,7 +2321,6 @@
 - [Skigebiete Tessin Beitrage 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/skigebiete-tessin-beitrage-2026)
 - [Slowup Strassen Verkehrsbeschraenkungen 2026 Bellinzona](https://frontaliereticino.ch/de/grenzgaenger-artikel/slowup-strassen-verkehrsbeschraenkungen-2026-bellinzona)
 - [Slowup Ticino 2026 Autofreier Tag](https://frontaliereticino.ch/de/grenzgaenger-artikel/slowup-ticino-2026-autofreier-tag)
-- [Slug De](https://frontaliereticino.ch/de/grenzgaenger-artikel/slug-de)
 - [Slug Deutsch](https://frontaliereticino.ch/de/grenzgaenger-artikel/slug-deutsch)
 - [Slug San Gottardo 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/slug-san-gottardo-2026)
 - [Slug Tessin Schweiz Benzinpreis](https://frontaliereticino.ch/de/grenzgaenger-artikel/slug-tessin-schweiz-benzinpreis)
@@ -2353,6 +2360,7 @@
 - [Ssn Zugang Fuer Grenzgaenger Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/ssn-zugang-fuer-grenzgaenger-tessin-2026)
 - [St Moritz Bezahlbarer Wohnung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/st-moritz-bezahlbarer-wohnung-2026)
 - [Staatsrat Gemischte Loesung 13 Avs](https://frontaliereticino.ch/de/grenzgaenger-artikel/staatsrat-gemischte-loesung-13-avs)
+- [Stabile Arbeitslosigkeit Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/stabile-arbeitslosigkeit-schweiz-2026)
 - [Stabio Ammoniak Austritt Fabrik Rapelli Notfall Verfahren](https://frontaliereticino.ch/de/grenzgaenger-artikel/stabio-ammoniak-austritt-fabrik-rapelli-notfall-verfahren)
 - [Stabio Polizei Unsichere Zukunft](https://frontaliereticino.ch/de/grenzgaenger-artikel/stabio-polizei-unsichere-zukunft)
 - [Stagflation Unternehmen Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/stagflation-unternehmen-varese-2026)
@@ -2460,6 +2468,8 @@
 - [Tessin Invasive Arten Grenzschutz](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-invasive-arten-grenzschutz)
 - [Tessin Mindestlohn Historische Einigung](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-mindestlohn-historische-einigung)
 - [Tessin Oeffentliche Angestellte Zufriedenheit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-oeffentliche-angestellte-zufriedenheit-2026)
+- [Tessin Polizei Aufgegebenes Projekt 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-polizei-aufgegebenes-projekt-2026)
+- [Tessin Polizei Projektaufgabe 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-polizei-projektaufgabe-2026)
 - [Tessin Radar Reduzierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-radar-reduzierung)
 - [Tessin Stimmt Fuer Einwohnerbegrenzung](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-stimmt-fuer-einwohnerbegrenzung)
 - [Tessin Ukraine Mission 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-ukraine-mission-2026)
@@ -2513,7 +2523,6 @@
 - [Ticino No Anti Dumping](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-no-anti-dumping)
 - [Ticino Ostertourismus](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-ostertourismus)
 - [Ticino Parks Vandalismus 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-parks-vandalismus-2026)
-- [Ticino Polizei Projekt Aufgegeben 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-polizei-projekt-aufgegeben-2026)
 - [Ticino Priorisiert Oeffentlichen Verkehr](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-priorisiert-oeffentlichen-verkehr)
 - [Ticino Radar Geschwindigkeitskontrollen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-radar-geschwindigkeitskontrollen-2026)
 - [Ticino Radar Kontrollen](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-radar-kontrollen)
@@ -3041,7 +3050,7 @@
 - [Schweizer Rentner Im Ausland](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-rentner-im-ausland)
 - [Schweizer Residenzoptionen Italien 2026 Einziger](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-residenzoptionen-italien-2026-einziger)
 - [Schweizerischer Grenz Beitrag Avs Inps 2026 Familienmit Kindern](https://frontaliereticino.ch/de/schweiz-artikel/schweizerischer-grenz-beitrag-avs-inps-2026-familienmit-kindern)
-- [Steuer Ruckerstattungen Fur Grenzpendler Wie Sie Funktionieren](https://frontaliereticino.ch/de/schweiz-artikel/steuer-ruckerstattungen-fur-grenzpendler-wie-sie-funktionieren)
+- [Steuer Rueckzahlungen Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/steuer-rueckzahlungen-grenzgaenger)
 - [Steuerberechnung Grenzganger Innerhalb 20km](https://frontaliereticino.ch/de/schweiz-artikel/steuerberechnung-grenzganger-innerhalb-20km)
 - [Steuererklaerung Frontalieri 730 Fuehrer](https://frontaliereticino.ch/de/schweiz-artikel/steuererklaerung-frontalieri-730-fuehrer)
 - [Teilfinanzierung 13 Rente](https://frontaliereticino.ch/de/schweiz-artikel/teilfinanzierung-13-rente)
