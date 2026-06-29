@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3038 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3040 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -1129,6 +1129,7 @@
 - [Gotthard Tunnel Autoschlange](https://frontaliereticino.ch/de/grenzgaenger-artikel/gotthard-tunnel-autoschlange)
 - [Gotthard Tunnel Stau Ostermontag 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gotthard-tunnel-stau-ostermontag-2026)
 - [Gotthard Tunnel Zweiter Tunnel 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gotthard-tunnel-zweiter-tunnel-2026)
+- [Gotthard Verkehr 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gotthard-verkehr-2026)
 - [Gotthardpass Oeffnet Frueh Am 8 Mai](https://frontaliereticino.ch/de/grenzgaenger-artikel/gotthardpass-oeffnet-frueh-am-8-mai)
 - [Grasshopper Zeidler Trainer 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grasshopper-zeidler-trainer-2026)
 - [Grassi 1925 Historische Marke](https://frontaliereticino.ch/de/grenzgaenger-artikel/grassi-1925-historische-marke)
@@ -1468,6 +1469,7 @@
 - [Kraftstoffmangel Schweiz Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/kraftstoffmangel-schweiz-grenzgaenger)
 - [Kraftstoffpreis Kontrollen Como Guardia Finanza](https://frontaliereticino.ch/de/grenzgaenger-artikel/kraftstoffpreis-kontrollen-como-guardia-finanza)
 - [Kraftstoffpreisanstieg Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/kraftstoffpreisanstieg-tessin)
+- [Kraftstoffpreise Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kraftstoffpreise-tessin-2026)
 - [Kraftstoffpreise Tpl Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kraftstoffpreise-tpl-tessin-2026)
 - [Kraftstoffpreiserhoehung Opportunismus](https://frontaliereticino.ch/de/grenzgaenger-artikel/kraftstoffpreiserhoehung-opportunismus)
 - [Kraftstoffpreissteigerung Mai 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kraftstoffpreissteigerung-mai-2026)
@@ -2322,9 +2324,6 @@
 - [Skigebiete Tessin Beitrage 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/skigebiete-tessin-beitrage-2026)
 - [Slowup Strassen Verkehrsbeschraenkungen 2026 Bellinzona](https://frontaliereticino.ch/de/grenzgaenger-artikel/slowup-strassen-verkehrsbeschraenkungen-2026-bellinzona)
 - [Slowup Ticino 2026 Autofreier Tag](https://frontaliereticino.ch/de/grenzgaenger-artikel/slowup-ticino-2026-autofreier-tag)
-- [Slug Deutsch](https://frontaliereticino.ch/de/grenzgaenger-artikel/slug-deutsch)
-- [Slug San Gottardo 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/slug-san-gottardo-2026)
-- [Slug Tessin Schweiz Benzinpreis](https://frontaliereticino.ch/de/grenzgaenger-artikel/slug-tessin-schweiz-benzinpreis)
 - [Smartphone Verbot Schule Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/smartphone-verbot-schule-tessin)
 - [Smartphone Verbot Ticino Schulen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/smartphone-verbot-ticino-schulen-2026)
 - [Smartphones In Schulen Und Neue Richtlinien](https://frontaliereticino.ch/de/grenzgaenger-artikel/smartphones-in-schulen-und-neue-richtlinien)
@@ -2472,6 +2471,7 @@
 - [Tessin Polizei Aufgegebenes Projekt 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-polizei-aufgegebenes-projekt-2026)
 - [Tessin Polizei Projektaufgabe 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-polizei-projektaufgabe-2026)
 - [Tessin Radar Reduzierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-radar-reduzierung)
+- [Tessin Schweiz Benzinpreis](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-schweiz-benzinpreis)
 - [Tessin Stimmt Fuer Einwohnerbegrenzung](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-stimmt-fuer-einwohnerbegrenzung)
 - [Tessin Ukraine Mission 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessin-ukraine-mission-2026)
 - [Tessiner Arbeitsmarkt Verlangsamt 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessiner-arbeitsmarkt-verlangsamt-2025)
@@ -2925,7 +2925,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (166 pages)
+### Other Pages (168 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3005,6 +3005,8 @@
 - [Grenzgaenger Euro Franken Wechsel](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-euro-franken-wechsel)
 - [Grenzgaenger Gehaelter Einkaufszentrum](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-gehaelter-einkaufszentrum)
 - [Grenzgaenger Rentenfehler 2026](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-rentenfehler-2026)
+- [Grenzgaenger Schweiz Steuern 2026](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-schweiz-steuern-2026)
+- [Grenzgaenger Steuern 2026](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-steuern-2026)
 - [Grenzganger Daten Systemfehler](https://frontaliereticino.ch/de/schweiz-artikel/grenzganger-daten-systemfehler)
 - [Grenzganger Italien Schweiz Firmenstandort](https://frontaliereticino.ch/de/schweiz-artikel/grenzganger-italien-schweiz-firmenstandort)
 - [Grenzkontrollen G7 Einreiseverbote](https://frontaliereticino.ch/de/schweiz-artikel/grenzkontrollen-g7-einreiseverbote)
