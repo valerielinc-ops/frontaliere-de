@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3036 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3037 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2726 pages)
+### Blog Articles (2727 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1337,6 +1337,7 @@
 - [Interne Kantonale Ascona Porto Ronco Arbeitsunannehmlichkeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/interne-kantonale-ascona-porto-ronco-arbeitsunannehmlichkeiten)
 - [Internet Blackout Im Iran 70 Tage](https://frontaliereticino.ch/de/grenzgaenger-artikel/internet-blackout-im-iran-70-tage)
 - [Interroll Uebernimmt Royal Apollo Group](https://frontaliereticino.ch/de/grenzgaenger-artikel/interroll-uebernimmt-royal-apollo-group)
+- [Intesa Mps Opas Aktien Bargeld](https://frontaliereticino.ch/de/grenzgaenger-artikel/intesa-mps-opas-aktien-bargeld)
 - [Intesa Sanpaolo Zeichnet 10 Erfolgreiche Unternehmen Aus](https://frontaliereticino.ch/de/grenzgaenger-artikel/intesa-sanpaolo-zeichnet-10-erfolgreiche-unternehmen-aus)
 - [Investitionen Sicherheit Tourismus Valsolda](https://frontaliereticino.ch/de/grenzgaenger-artikel/investitionen-sicherheit-tourismus-valsolda)
 - [Iran Aufrufe Zum Opfer Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/iran-aufrufe-zum-opfer-grenzgaenger-2026)
