@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3042 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3043 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2727 pages)
+### Blog Articles (2728 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -392,6 +392,7 @@
 - [Balerna Planungszone 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/balerna-planungszone-2026)
 - [Banca Etica Freiwillige Sportbucher Varesenews](https://frontaliereticino.ch/de/grenzgaenger-artikel/banca-etica-freiwillige-sportbucher-varesenews)
 - [Bancastato Walking Mendrisio 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bancastato-walking-mendrisio-2026)
+- [Bancomat Prozess Varesenews 2023](https://frontaliereticino.ch/de/grenzgaenger-artikel/bancomat-prozess-varesenews-2023)
 - [Bandecchi Viertelfinale Chiasso 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bandecchi-viertelfinale-chiasso-2026)
 - [Bankauszug Interpretation 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bankauszug-interpretation-2026)
 - [Bankensektor Petruzzella Abt 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bankensektor-petruzzella-abt-2026)
@@ -3056,7 +3057,7 @@
 - [Schweizer Rentner Im Ausland](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-rentner-im-ausland)
 - [Schweizer Residenzoptionen Italien 2026 Einziger](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-residenzoptionen-italien-2026-einziger)
 - [Schweizerischer Grenz Beitrag Avs Inps 2026 Familienmit Kindern](https://frontaliereticino.ch/de/schweiz-artikel/schweizerischer-grenz-beitrag-avs-inps-2026-familienmit-kindern)
-- [Steuer Rueckzahlungen Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/steuer-rueckzahlungen-grenzgaenger)
+- [Steuer Ruckerstattungen Fur Grenzpendler Wie Sie Funktionieren](https://frontaliereticino.ch/de/schweiz-artikel/steuer-ruckerstattungen-fur-grenzpendler-wie-sie-funktionieren)
 - [Steuerberechnung Grenzganger Innerhalb 20km](https://frontaliereticino.ch/de/schweiz-artikel/steuerberechnung-grenzganger-innerhalb-20km)
 - [Steuererklaerung Frontalieri 730 Fuehrer](https://frontaliereticino.ch/de/schweiz-artikel/steuererklaerung-frontalieri-730-fuehrer)
 - [Teilfinanzierung 13 Rente](https://frontaliereticino.ch/de/schweiz-artikel/teilfinanzierung-13-rente)
