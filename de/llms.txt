@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3024 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3026 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2915,7 +2915,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (162 pages)
+### Other Pages (164 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2987,6 +2987,7 @@
 - [Grenze Chiasso Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/grenze-chiasso-schweiz)
 - [Grenzgaenger Autoversicherung Schweiz Italien](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-autoversicherung-schweiz-italien)
 - [Grenzgaenger Besteuerung 2026 Neues Abkommen](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-besteuerung-2026-neues-abkommen)
+- [Grenzgaenger Besteuerung 2026 Neues Steuerabkommen](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-besteuerung-2026-neues-steuerabkommen)
 - [Grenzgaenger Doppelbesteuerung Steuergutschrift](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-doppelbesteuerung-steuergutschrift)
 - [Grenzgaenger Endgueltig Ja Smartworking](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-endgueltig-ja-smartworking)
 - [Grenzgaenger Euro Franken Tausch](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-euro-franken-tausch)
@@ -3016,6 +3017,7 @@
 - [Pandemie Entschaedigung Schweizer Unternehmen](https://frontaliereticino.ch/de/schweiz-artikel/pandemie-entschaedigung-schweizer-unternehmen)
 - [Parlament Avs Adozione Schutz](https://frontaliereticino.ch/de/schweiz-artikel/parlament-avs-adozione-schutz)
 - [Pemsa Lugano Arbeitsmarkt](https://frontaliereticino.ch/de/schweiz-artikel/pemsa-lugano-arbeitsmarkt)
+- [Pension Complement 3 Tenne Pfeiler Frontalier](https://frontaliereticino.ch/de/schweiz-artikel/pension-complement-3-tenne-pfeiler-frontalier)
 - [Piero Marchesi Claudio Zali Eigene Liste](https://frontaliereticino.ch/de/schweiz-artikel/piero-marchesi-claudio-zali-eigene-liste)
 - [Quelle Steuer Basel](https://frontaliereticino.ch/de/schweiz-artikel/quelle-steuer-basel)
 - [Quellensteuer Grenzgaenger Tessin](https://frontaliereticino.ch/de/schweiz-artikel/quellensteuer-grenzgaenger-tessin)
