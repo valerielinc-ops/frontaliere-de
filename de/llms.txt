@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3045 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3046 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2927,7 +2927,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (171 pages)
+### Other Pages (172 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3070,6 +3070,7 @@
 - [Verzoegerte Zuege Stabio Gallarate Regionale Unfahigkeit](https://frontaliereticino.ch/de/schweiz-artikel/verzoegerte-zuege-stabio-gallarate-regionale-unfahigkeit)
 - [Viareggio Zugunglueck Verurteilungen](https://frontaliereticino.ch/de/schweiz-artikel/viareggio-zugunglueck-verurteilungen)
 - [Vorteile Und Funktionen Dritte Saeule](https://frontaliereticino.ch/de/schweiz-artikel/vorteile-und-funktionen-dritte-saeule)
+- [Wartezeiten Zoll Chiasso Strasse](https://frontaliereticino.ch/de/schweiz-artikel/wartezeiten-zoll-chiasso-strasse)
 - [Wiederaufnahme Zugverkehr Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/wiederaufnahme-zugverkehr-deutschland)
 - [Wirtschaftexperten Anpassen Wachstumsprognosen 2026](https://frontaliereticino.ch/de/schweiz-artikel/wirtschaftexperten-anpassen-wachstumsprognosen-2026)
 - [Zoll Gaggiolo Stabio](https://frontaliereticino.ch/de/schweiz-artikel/zoll-gaggiolo-stabio)
