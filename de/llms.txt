@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3055 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3056 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2928,7 +2928,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (180 pages)
+### Other Pages (181 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2961,6 +2961,7 @@
 - [Abzug Und Abhebung Gegen Vertrage Mit Rom](https://frontaliereticino.ch/de/schweiz-artikel/abzug-und-abhebung-gegen-vertrage-mit-rom)
 - [Ahv Finanzierung 13](https://frontaliereticino.ch/de/schweiz-artikel/ahv-finanzierung-13)
 - [Ahv Rente Ausland Bedingungen](https://frontaliereticino.ch/de/schweiz-artikel/ahv-rente-ausland-bedingungen)
+- [Anwendung Von Grenzganger Vereinbarungen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/anwendung-von-grenzganger-vereinbarungen-schweiz)
 - [Arbeit Als Kleinkinderzieher Tessin Gehalt Anforderungen](https://frontaliereticino.ch/de/schweiz-artikel/arbeit-als-kleinkinderzieher-tessin-gehalt-anforderungen)
 - [Arbeitslosengeld Grenzgaenger Italien](https://frontaliereticino.ch/de/schweiz-artikel/arbeitslosengeld-grenzgaenger-italien)
 - [Arbeitslosigkeit Schweiz Mai 2026](https://frontaliereticino.ch/de/schweiz-artikel/arbeitslosigkeit-schweiz-mai-2026)
