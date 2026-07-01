@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3056 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3057 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2928,13 +2928,14 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (181 pages)
+### Other Pages (182 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
 - [Laura Bianchi](https://frontaliereticino.ch/de/autoren/laura-bianchi)
 - [Marco Ferrari](https://frontaliereticino.ch/de/autoren/marco-ferrari)
 - [Redazione](https://frontaliereticino.ch/de/autoren/redazione)
+- [Samuele Valente](https://frontaliereticino.ch/de/autoren/samuele-valente)
 - [Daten Loeschen](https://frontaliereticino.ch/de/daten-loeschen)
 - [Datenschutz](https://frontaliereticino.ch/de/datenschutz)
 - [Dreizehnter Monatslohn Rechner](https://frontaliereticino.ch/de/dreizehnter-monatslohn-rechner)
