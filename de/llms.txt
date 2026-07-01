@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: German (this file) — also available in Italian (primary), English, French
 - **Type**: Free web application, no registration required
-- **Last Updated**: June 2026
+- **Last Updated**: July 2026
 - **Audience**: Deutschsprachige Grenzgänger, die zwischen Italien und der Schweiz (Tessin, Graubünden, Wallis) pendeln
 - **Content Authority**: Original, factual content based on official Swiss and Italian tax regulations, BFS/UST statistics, and UFSP/BAG health insurance data
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3046 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3053 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2729 pages)
+### Blog Articles (2730 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1146,6 +1146,7 @@
 - [Graudio Flash 2 Mai 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/graudio-flash-2-mai-2026)
 - [Grenz Konflikte Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenz-konflikte-tessin)
 - [Grenzarbeiter Arbeitslosigkeit Land Der Arbeit](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzarbeiter-arbeitslosigkeit-land-der-arbeit)
+- [Grenzgaenger Arbeitgebersitz Ausserhalb Grenzgebiet](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-arbeitgebersitz-ausserhalb-grenzgebiet)
 - [Grenzgaenger Cu 2026 Telearbeit 45 Tage Endgueltige Regeln](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-cu-2026-telearbeit-45-tage-endgueltige-regeln)
 - [Grenzgaenger Dokumente Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-dokumente-schweiz)
 - [Grenzgaenger Doppelbesteuerung Steuergutschrift Wie Funktioniert Es](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-doppelbesteuerung-steuergutschrift-wie-funktioniert-es)
@@ -2927,7 +2928,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (172 pages)
+### Other Pages (178 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2973,12 +2974,16 @@
 - [Besteuerung Grenzgaenger Jenseits 20km](https://frontaliereticino.ch/de/schweiz-artikel/besteuerung-grenzgaenger-jenseits-20km)
 - [Besteuerung Grenzgaenger Ueber 20km](https://frontaliereticino.ch/de/schweiz-artikel/besteuerung-grenzgaenger-ueber-20km)
 - [Bewilligung G Vor Und Nachteile Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/bewilligung-g-vor-und-nachteile-grenzgaenger)
+- [Block Ristorni Ticino](https://frontaliereticino.ch/de/schweiz-artikel/block-ristorni-ticino)
 - [Brand Autostrada Piotta](https://frontaliereticino.ch/de/schweiz-artikel/brand-autostrada-piotta)
+- [Brogeda Zollwartezeiten](https://frontaliereticino.ch/de/schweiz-artikel/brogeda-zollwartezeiten)
 - [Charles Iii Einkommen Steuern 2026](https://frontaliereticino.ch/de/schweiz-artikel/charles-iii-einkommen-steuern-2026)
 - [Chiasso Brogeda Wartezeiten Heute](https://frontaliereticino.ch/de/schweiz-artikel/chiasso-brogeda-wartezeiten-heute)
+- [Chiasso Brogeda Zoll Verkehr 2024](https://frontaliereticino.ch/de/schweiz-artikel/chiasso-brogeda-zoll-verkehr-2024)
 - [Daten Steuern Frontalieri Italien](https://frontaliereticino.ch/de/schweiz-artikel/daten-steuern-frontalieri-italien)
 - [Deutsche Bahn Bahnverkehr Stopp Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/deutsche-bahn-bahnverkehr-stopp-deutschland)
 - [Dritte Saeule Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/dritte-saeule-grenzgaenger)
+- [Dunkle Seite Schweizer Eldorado Franzoesische Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/dunkle-seite-schweizer-eldorado-franzoesische-grenzgaenger)
 - [Eine Blockierung Von Restaurants Eine Verstandliche Reaktion](https://frontaliereticino.ch/de/schweiz-artikel/eine-blockierung-von-restaurants-eine-verstandliche-reaktion)
 - [Einwanderungsblock Tessin](https://frontaliereticino.ch/de/schweiz-artikel/einwanderungsblock-tessin)
 - [Erhohung Mwst Armee 2024](https://frontaliereticino.ch/de/schweiz-artikel/erhohung-mwst-armee-2024)
@@ -3048,6 +3053,7 @@
 - [Sac Huetten Reservierungsgebuehr Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/sac-huetten-reservierungsgebuehr-schweiz)
 - [Schwarzarbeit Lohn Dumping 2025 Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/schwarzarbeit-lohn-dumping-2025-schweiz)
 - [Schweiz Italien Steuerabkommen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-italien-steuerabkommen)
+- [Schweiz Permit G](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-permit-g)
 - [Schweizer Bankgeheimnis](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-bankgeheimnis)
 - [Schweizer Bvg Leistungen Besteuerung](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-bvg-leistungen-besteuerung)
 - [Schweizer Flughafen Aufschwung Passagiere](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-flughafen-aufschwung-passagiere)
@@ -3062,6 +3068,7 @@
 - [Steuer Ruckerstattungen Fur Grenzpendler Wie Sie Funktionieren](https://frontaliereticino.ch/de/schweiz-artikel/steuer-ruckerstattungen-fur-grenzpendler-wie-sie-funktionieren)
 - [Steuerberechnung Grenzganger Innerhalb 20km](https://frontaliereticino.ch/de/schweiz-artikel/steuerberechnung-grenzganger-innerhalb-20km)
 - [Steuererklaerung Frontalieri 730 Fuehrer](https://frontaliereticino.ch/de/schweiz-artikel/steuererklaerung-frontalieri-730-fuehrer)
+- [Stop Ristorni Frontiera](https://frontaliereticino.ch/de/schweiz-artikel/stop-ristorni-frontiera)
 - [Teilfinanzierung 13 Rente](https://frontaliereticino.ch/de/schweiz-artikel/teilfinanzierung-13-rente)
 - [Telearbeit Grenzgaenger Tage 2026](https://frontaliereticino.ch/de/schweiz-artikel/telearbeit-grenzgaenger-tage-2026)
 - [Tizino Gehalt Lucke Frontalieri](https://frontaliereticino.ch/de/schweiz-artikel/tizino-gehalt-lucke-frontalieri)
