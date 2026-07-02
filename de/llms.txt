@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3066 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3067 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2732 pages)
+### Blog Articles (2733 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -496,6 +496,7 @@
 - [Blaue Parkplaetze Como Einwohner](https://frontaliereticino.ch/de/grenzgaenger-artikel/blaue-parkplaetze-como-einwohner)
 - [Block Reruns Ticino De Rosa Offen Zu Bewerten](https://frontaliereticino.ch/de/grenzgaenger-artikel/block-reruns-ticino-de-rosa-offen-zu-bewerten)
 - [Block Ruckerstattung Tessin Italien 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/block-ruckerstattung-tessin-italien-2026)
+- [Block Rueckzahlung Tessin Lombardei](https://frontaliereticino.ch/de/grenzgaenger-artikel/block-rueckzahlung-tessin-lombardei)
 - [Blockaden Rueckfluesse Berne Italien](https://frontaliereticino.ch/de/grenzgaenger-artikel/blockaden-rueckfluesse-berne-italien)
 - [Blumenstadt Orticolario Tricolor 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/blumenstadt-orticolario-tricolor-2026)
 - [Blutspendezentrum Locarno Schliesst Am 24 Juni](https://frontaliereticino.ch/de/grenzgaenger-artikel/blutspendezentrum-locarno-schliesst-am-24-juni)
