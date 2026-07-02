@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3061 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3062 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2928,7 +2928,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (186 pages)
+### Other Pages (187 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3002,6 +3002,7 @@
 - [Gehaltsdaten Frontalieri Tessin](https://frontaliereticino.ch/de/schweiz-artikel/gehaltsdaten-frontalieri-tessin)
 - [Gesundheitsabgabe Grenzgaenger Gewerkschaften](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsabgabe-grenzgaenger-gewerkschaften)
 - [Gesundheitssteuer Grenzarbeiter Verschiebung Rom](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitssteuer-grenzarbeiter-verschiebung-rom)
+- [Gesundheitssteuer Rueckerstattungen Tessin](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitssteuer-rueckerstattungen-tessin)
 - [Gesundheitsversicherungsinitiativen 2026](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsversicherungsinitiativen-2026)
 - [Giro Drei Laender Strassensperrungen 2026](https://frontaliereticino.ch/de/schweiz-artikel/giro-drei-laender-strassensperrungen-2026)
 - [Graubuenden Basler Modell Verkehr](https://frontaliereticino.ch/de/schweiz-artikel/graubuenden-basler-modell-verkehr)
