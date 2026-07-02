@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3063 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3066 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2730 pages)
+### Blog Articles (2732 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1165,6 +1165,7 @@
 - [Grenzgaenger Neues Steuerabkommen 2026 Simulation](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-neues-steuerabkommen-2026-simulation)
 - [Grenzgaenger Rente Avs Inps 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rente-avs-inps-2026)
 - [Grenzgaenger Rentenberechnung Ahv Inps Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rentenberechnung-ahv-inps-leitfaden)
+- [Grenzgaenger Ristorni Pellicini Arbeitsgruppe](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-ristorni-pellicini-arbeitsgruppe)
 - [Grenzgaenger Rueckerstattung Lombardei Reaktion Tessin Motion](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rueckerstattung-lombardei-reaktion-tessin-motion)
 - [Grenzgaenger Rueckerstattungen Udc Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rueckerstattungen-udc-tessin)
 - [Grenzgaenger Rueckgang Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rueckgang-tessin)
@@ -2175,6 +2176,7 @@
 - [Schweiz Grenzarbeiter Franken](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweiz-grenzarbeiter-franken)
 - [Schweiz Hybride Russische Bedrohung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweiz-hybride-russische-bedrohung-2026)
 - [Schweiz Individualbesteuerung Auswirkungen Arbeitsmarkt Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweiz-individualbesteuerung-auswirkungen-arbeitsmarkt-tessin-grenzgaenger)
+- [Schweiz Italien Grenzgaenger Berne Bedauert Stop Des Kantons Will Aber Eine Loes](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweiz-italien-grenzgaenger-berne-bedauert-stop-des-kantons-will-aber-eine-loes)
 - [Schweiz Italien Kongress Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweiz-italien-kongress-varese-2026)
 - [Schweiz Italien Neue Phasen Beziehungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweiz-italien-neue-phasen-beziehungen)
 - [Schweiz Italien Pasta 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweiz-italien-pasta-2026)
@@ -2928,7 +2930,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (188 pages)
+### Other Pages (189 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -3014,6 +3016,7 @@
 - [Grenzgaenger Besteuerung 2026 Neues Steuerabkommen](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-besteuerung-2026-neues-steuerabkommen)
 - [Grenzgaenger Doppelbesteuerung Steuergutschrift](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-doppelbesteuerung-steuergutschrift)
 - [Grenzgaenger Endgueltig Ja Smartworking](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-endgueltig-ja-smartworking)
+- [Grenzgaenger Entschaedigungen Gesperrt Alfieri Pd](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-entschaedigungen-gesperrt-alfieri-pd)
 - [Grenzgaenger Euro Franken Tausch](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-euro-franken-tausch)
 - [Grenzgaenger Euro Franken Wechsel](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-euro-franken-wechsel)
 - [Grenzgaenger Gehaelter Einkaufszentrum](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-gehaelter-einkaufszentrum)
