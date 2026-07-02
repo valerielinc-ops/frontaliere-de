@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3067 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3070 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2733 pages)
+### Blog Articles (2736 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -1032,6 +1032,7 @@
 - [Gavirate Unfall Frontalieri 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gavirate-unfall-frontalieri-2026)
 - [Gaza Flottille Varese Solidaritatsprotest](https://frontaliereticino.ch/de/grenzgaenger-artikel/gaza-flottille-varese-solidaritatsprotest)
 - [Gebetswache Gegen Homophobie Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gebetswache-gegen-homophobie-tessin-2026)
+- [Geblockte Frontalier Ruckerstattungen Reina](https://frontaliereticino.ch/de/grenzgaenger-artikel/geblockte-frontalier-ruckerstattungen-reina)
 - [Gehalter Fur Absolventen Schweiz Osterreich Deutschland](https://frontaliereticino.ch/de/grenzgaenger-artikel/gehalter-fur-absolventen-schweiz-osterreich-deutschland)
 - [Gehalter Spezialisten Schweiz 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/gehalter-spezialisten-schweiz-2024)
 - [Gehaltserhoehung Grenzganger Inflation Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/gehaltserhoehung-grenzganger-inflation-tessin)
@@ -1366,6 +1367,7 @@
 - [Italienische Bank Varese 10 Jahre Spater](https://frontaliereticino.ch/de/grenzgaenger-artikel/italienische-bank-varese-10-jahre-spater)
 - [Italienische Forschung Genf 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/italienische-forschung-genf-2026)
 - [Italienische Gesundheitssteuer Grenzganger Lombardei 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/italienische-gesundheitssteuer-grenzganger-lombardei-2026)
+- [Italienische Grenzgaenger Oil Beschwerde Diskriminierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/italienische-grenzgaenger-oil-beschwerde-diskriminierung)
 - [Italienischer Botschafter Berner Rueckkehr](https://frontaliereticino.ch/de/grenzgaenger-artikel/italienischer-botschafter-berner-rueckkehr)
 - [Italienischer Botschafter Schweiz Cassis Cornado Crans Montana](https://frontaliereticino.ch/de/grenzgaenger-artikel/italienischer-botschafter-schweiz-cassis-cornado-crans-montana)
 - [Italo Schweizer Galerie Enigmast](https://frontaliereticino.ch/de/grenzgaenger-artikel/italo-schweizer-galerie-enigmast)
@@ -2358,6 +2360,7 @@
 - [Sozialer Mindestlohn Tessin Debatte Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/sozialer-mindestlohn-tessin-debatte-grenzgaenger)
 - [Spargelmesse Cantello 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/spargelmesse-cantello-2026)
 - [Sperrung Der Uberweisungen Tessin Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sperrung-der-uberweisungen-tessin-grenzgaenger-2026)
+- [Sperrung Ristorni Ticino Pd Reaktion](https://frontaliereticino.ch/de/grenzgaenger-artikel/sperrung-ristorni-ticino-pd-reaktion)
 - [Spital Zurich Mangel Kardiochirurgie](https://frontaliereticino.ch/de/grenzgaenger-artikel/spital-zurich-mangel-kardiochirurgie)
 - [Spitex Druck Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/spitex-druck-tessin)
 - [Spring Giubiasco Sport Gemuetlichkeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/spring-giubiasco-sport-gemuetlichkeit-2026)
