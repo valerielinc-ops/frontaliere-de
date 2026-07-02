@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3070 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3074 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -150,7 +150,7 @@
 
 - [Jobs Im Tessin](https://frontaliereticino.ch/de/jobs-im-tessin)
 
-### Blog Articles (2736 pages)
+### Blog Articles (2738 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative)
@@ -378,6 +378,7 @@
 - [Avis Lombardei Blutspende Privat 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/avis-lombardei-blutspende-privat-2026)
 - [Avs 13 Parlament Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-13-parlament-grenzgaenger)
 - [Avs 2030 Grenzganger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-2030-grenzganger-tessin)
+- [Avs Ai Finanzprognosen Verschlechtern Sich](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-ai-finanzprognosen-verschlechtern-sich)
 - [Avs Ausgleichskasse Betrug Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-ausgleichskasse-betrug-ticino)
 - [Avs Digitale Daten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-digitale-daten-grenzgaenger)
 - [Avs Morgen Um 11 Angelo Bonelli Live Bei Adnkronos](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-morgen-um-11-angelo-bonelli-live-bei-adnkronos)
@@ -2526,6 +2527,7 @@
 - [Ticino Landwirtschaft Alarm 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-landwirtschaft-alarm-2024)
 - [Ticino Landwirtschaft Lokale Produkte Veranstaltungen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-landwirtschaft-lokale-produkte-veranstaltungen-2026)
 - [Ticino Lega Solidaritaet Heimat 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-lega-solidaritaet-heimat-2026)
+- [Ticino Lombardei Rueckueberweisungen Loesung](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-lombardei-rueckueberweisungen-loesung)
 - [Ticino Milchkrise Politik Verspaetung](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-milchkrise-politik-verspaetung)
 - [Ticino Mindestlohn 2027 2029 Neue Regeln](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-mindestlohn-2027-2029-neue-regeln)
 - [Ticino Neugeborenen Tests Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/ticino-neugeborenen-tests-schweiz)
@@ -2934,7 +2936,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs)
 
-### Other Pages (189 pages)
+### Other Pages (191 pages)
 
 - [De](https://frontaliereticino.ch/de)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano)
@@ -2976,6 +2978,7 @@
 - [Ausland Aufenthalt Vermeiden Avs Luecke](https://frontaliereticino.ch/de/schweiz-artikel/ausland-aufenthalt-vermeiden-avs-luecke)
 - [Austausch Gehaltsdaten Italien](https://frontaliereticino.ch/de/schweiz-artikel/austausch-gehaltsdaten-italien)
 - [Auswandern Schweiz Steueraspekte](https://frontaliereticino.ch/de/schweiz-artikel/auswandern-schweiz-steueraspekte)
+- [Avs Ai Finanzielle Aussichten](https://frontaliereticino.ch/de/schweiz-artikel/avs-ai-finanzielle-aussichten)
 - [Bahnverkehr Angehalten Deutschland Technisches Problem](https://frontaliereticino.ch/de/schweiz-artikel/bahnverkehr-angehalten-deutschland-technisches-problem)
 - [Bce Zinssatz Inflation 2023](https://frontaliereticino.ch/de/schweiz-artikel/bce-zinssatz-inflation-2023)
 - [Berechnung Lpp Rente Ubs](https://frontaliereticino.ch/de/schweiz-artikel/berechnung-lpp-rente-ubs)
@@ -3023,6 +3026,7 @@
 - [Grenzgaenger Entschaedigungen Gesperrt Alfieri Pd](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-entschaedigungen-gesperrt-alfieri-pd)
 - [Grenzgaenger Euro Franken Tausch](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-euro-franken-tausch)
 - [Grenzgaenger Euro Franken Wechsel](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-euro-franken-wechsel)
+- [Grenzgaenger Fruehzeitige Rentenplanung 2026 Ueber 20km](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-fruehzeitige-rentenplanung-2026-ueber-20km)
 - [Grenzgaenger Gehaelter Einkaufszentrum](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-gehaelter-einkaufszentrum)
 - [Grenzgaenger Gehaltsdaten Privacy 2024](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-gehaltsdaten-privacy-2024)
 - [Grenzgaenger Rente Avs Inps 2026 Innerhalb 20km](https://frontaliereticino.ch/de/schweiz-artikel/grenzgaenger-rente-avs-inps-2026-innerhalb-20km)
