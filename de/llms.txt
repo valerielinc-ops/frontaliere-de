@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4845 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4840 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3221 pages)
+### Blog Articles (3223 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1892,6 +1892,7 @@
 - [Grenzganger Arbeitslosigkeit Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-arbeitslosigkeit-schweiz-2026/)
 - [Grenzganger Arbeitslosigkeit Tessin Eu Abkommen](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-arbeitslosigkeit-tessin-eu-abkommen/)
 - [Grenzganger Astuti Grundvergleich](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-astuti-grundvergleich/)
+- [Grenzganger Berufliche Ausbildung Umsatzschulung 2026 Innerhalb 20 Km](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-berufliche-ausbildung-umsatzschulung-2026-innerhalb-20-km/)
 - [Grenzganger Bewegung Sirica Tessin 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-bewegung-sirica-tessin-2024/)
 - [Grenzganger Brianza Klage Gegen Italien](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-brianza-klage-gegen-italien/)
 - [Grenzganger Chf Eur Wechselkurs Strategie 2026 Praktische Simulation](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-chf-eur-wechselkurs-strategie-2026-praktische-simulation/)
@@ -1942,6 +1943,7 @@
 - [Grenzverkehr Como Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzverkehr-como-tessin/)
 - [Grenzverkehr Ponte Tresa Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzverkehr-ponte-tresa-leitfaden/)
 - [Grigioni 1 6 Millionen 1479 Italienische Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/grigioni-1-6-millionen-1479-italienische-grenzgaenger/)
+- [Grigioni Grenzganger Reduzieren](https://frontaliereticino.ch/de/grenzgaenger-artikel/grigioni-grenzganger-reduzieren/)
 - [Grigioni üBerschwemmung Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/grigioni-überschwemmung-ticino/)
 - [Grosser Plan Verkehr Lago Como 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grosser-plan-verkehr-lago-como-2026/)
 - [Grossrazzia Atlantik 30 Tonnen Kokain](https://frontaliereticino.ch/de/grenzgaenger-artikel/grossrazzia-atlantik-30-tonnen-kokain/)
@@ -3974,35 +3976,28 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (924 pages)
+### Other Pages (917 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano/)
-- [Arbeit Tessin Apotheker](https://frontaliereticino.ch/de/arbeit-tessin-apotheker/)
 - [Arbeit Tessin Arbeiter](https://frontaliereticino.ch/de/arbeit-tessin-arbeiter/)
 - [Arbeit Tessin Architekt](https://frontaliereticino.ch/de/arbeit-tessin-architekt/)
 - [Arbeit Tessin Buchhalter](https://frontaliereticino.ch/de/arbeit-tessin-buchhalter/)
-- [Arbeit Tessin Dentalassistent](https://frontaliereticino.ch/de/arbeit-tessin-dentalassistent/)
 - [Arbeit Tessin Elektriker](https://frontaliereticino.ch/de/arbeit-tessin-elektriker/)
 - [Arbeit Tessin Erzieher](https://frontaliereticino.ch/de/arbeit-tessin-erzieher/)
 - [Arbeit Tessin Fage](https://frontaliereticino.ch/de/arbeit-tessin-fage/)
 - [Arbeit Tessin Fahrer](https://frontaliereticino.ch/de/arbeit-tessin-fahrer/)
 - [Arbeit Tessin Hebamme](https://frontaliereticino.ch/de/arbeit-tessin-hebamme/)
 - [Arbeit Tessin Ingenieur](https://frontaliereticino.ch/de/arbeit-tessin-ingenieur/)
-- [Arbeit Tessin Kellner](https://frontaliereticino.ch/de/arbeit-tessin-kellner/)
 - [Arbeit Tessin Koch](https://frontaliereticino.ch/de/arbeit-tessin-koch/)
 - [Arbeit Tessin Krankenpfleger](https://frontaliereticino.ch/de/arbeit-tessin-krankenpfleger/)
-- [Arbeit Tessin Logopaede](https://frontaliereticino.ch/de/arbeit-tessin-logopaede/)
 - [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
 - [Arbeit Tessin Metzger](https://frontaliereticino.ch/de/arbeit-tessin-metzger/)
-- [Arbeit Tessin Optiker Optometrist](https://frontaliereticino.ch/de/arbeit-tessin-optiker-optometrist/)
 - [Arbeit Tessin Physiotherapeut](https://frontaliereticino.ch/de/arbeit-tessin-physiotherapeut/)
 - [Arbeit Tessin Psychologe](https://frontaliereticino.ch/de/arbeit-tessin-psychologe/)
-- [Arbeit Tessin Radiologiefachmann](https://frontaliereticino.ch/de/arbeit-tessin-radiologiefachmann/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
 - [Arbeit Tessin Schweisser](https://frontaliereticino.ch/de/arbeit-tessin-schweisser/)
-- [Arbeit Tessin Sozialarbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sozialarbeiter/)
 - [Laura Bianchi](https://frontaliereticino.ch/de/autoren/laura-bianchi/)
 - [Marco Ferrari](https://frontaliereticino.ch/de/autoren/marco-ferrari/)
 - [Redazione](https://frontaliereticino.ch/de/autoren/redazione/)
@@ -4879,7 +4874,6 @@
 - [Juni 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/juni-2026/)
 - [Maerz 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/maerz-2026/)
 - [Mai 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/mai-2026/)
-- [Woche 19 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-19-2026/)
 - [Woche 20 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-20-2026/)
 - [Woche 21 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-21-2026/)
 - [Woche 22 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-22-2026/)
@@ -4891,6 +4885,7 @@
 - [Woche 29 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-29-2026/)
 - [Woche 30 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-30-2026/)
 - [Woche 31 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-31-2026/)
+- [Woche 32 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-32-2026/)
 - [Tessiner Dialekt](https://frontaliereticino.ch/de/tessiner-dialekt/)
 - [Tfr Abfindung Grenzgaenger Rechner](https://frontaliereticino.ch/de/tfr-abfindung-grenzgaenger-rechner/)
 - [Ueber Uns](https://frontaliereticino.ch/de/ueber-uns/)
