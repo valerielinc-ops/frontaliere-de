@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4842 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4843 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -3977,7 +3977,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (918 pages)
+### Other Pages (919 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4838,6 +4838,7 @@
 - [Zwangsarbeit In Schweizer Lieferketten](https://frontaliereticino.ch/de/schweiz-artikel/zwangsarbeit-in-schweizer-lieferketten/)
 - [Zweite Saeule Bvg Grenzgaenger Bezug](https://frontaliereticino.ch/de/schweiz-artikel/zweite-saeule-bvg-grenzgaenger-bezug/)
 - [Zweite Saeule Bvg Kompletter Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/zweite-saeule-bvg-kompletter-leitfaden/)
+- [Zweite Saeule Bvg Schweiz Leitfaden 2026 Zurich](https://frontaliereticino.ch/de/schweiz-artikel/zweite-saeule-bvg-schweiz-leitfaden-2026-zurich/)
 - [Zweites Pillar Lpp Frontalier Abhebung](https://frontaliereticino.ch/de/schweiz-artikel/zweites-pillar-lpp-frontalier-abhebung/)
 - [Schweizer Arbeitsvertraege](https://frontaliereticino.ch/de/schweizer-arbeitsvertraege/)
 - [Schweizer Steuern Grenzgaenger](https://frontaliereticino.ch/de/schweizer-steuern-grenzgaenger/)
