@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4844 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4845 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -3974,7 +3974,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (923 pages)
+### Other Pages (924 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4286,6 +4286,7 @@
 - [Durchschnittsgehaelter Zuerich 2026 Vergleich](https://frontaliereticino.ch/de/schweiz-artikel/durchschnittsgehaelter-zuerich-2026-vergleich/)
 - [Durchschnittsgehalt Bern 2026](https://frontaliereticino.ch/de/schweiz-artikel/durchschnittsgehalt-bern-2026/)
 - [Durchschnittsgehalt Berufe Schweiz Zuerich 2026](https://frontaliereticino.ch/de/schweiz-artikel/durchschnittsgehalt-berufe-schweiz-zuerich-2026/)
+- [Durchschnittslohn Berufe Schweiz 2026 Basel](https://frontaliereticino.ch/de/schweiz-artikel/durchschnittslohn-berufe-schweiz-2026-basel/)
 - [Durre Bauern Mobilisieren](https://frontaliereticino.ch/de/schweiz-artikel/durre-bauern-mobilisieren/)
 - [Easyjet Apollon Ubernahme](https://frontaliereticino.ch/de/schweiz-artikel/easyjet-apollon-ubernahme/)
 - [Ehe Steuer Gerechtigkeit Vierzig Jahre](https://frontaliereticino.ch/de/schweiz-artikel/ehe-steuer-gerechtigkeit-vierzig-jahre/)
@@ -4878,6 +4879,7 @@
 - [Juni 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/juni-2026/)
 - [Maerz 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/maerz-2026/)
 - [Mai 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/mai-2026/)
+- [Woche 19 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-19-2026/)
 - [Woche 20 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-20-2026/)
 - [Woche 21 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-21-2026/)
 - [Woche 22 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-22-2026/)
@@ -4889,7 +4891,6 @@
 - [Woche 29 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-29-2026/)
 - [Woche 30 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-30-2026/)
 - [Woche 31 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-31-2026/)
-- [Woche 32 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-32-2026/)
 - [Tessiner Dialekt](https://frontaliereticino.ch/de/tessiner-dialekt/)
 - [Tfr Abfindung Grenzgaenger Rechner](https://frontaliereticino.ch/de/tfr-abfindung-grenzgaenger-rechner/)
 - [Ueber Uns](https://frontaliereticino.ch/de/ueber-uns/)
