@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4840 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4841 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3223 pages)
+### Blog Articles (3224 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1877,6 +1877,7 @@
 - [Grenzgaenger Steuerrueckerstattung Lombardei Reaktion Gesundheitssteuer](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuerrueckerstattung-lombardei-reaktion-gesundheitssteuer/)
 - [Grenzgaenger Steuerrueckerstattung Streit Tessin Bern Gesundheitssteuer](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuerrueckerstattung-streit-tessin-bern-gesundheitssteuer/)
 - [Grenzgaenger Steuerrueckerstattung Streit Tessin Lombardei Gesundheitssteuer](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuerrueckerstattung-streit-tessin-lombardei-gesundheitssteuer/)
+- [Grenzgaenger Tagesbulletin 2026 08 08](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-08-08/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
