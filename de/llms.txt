@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5551 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5556 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3449 pages)
+### Blog Articles (3450 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2428,6 +2428,7 @@
 - [Leben Chiuro Arbeiten Grigioni Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-chiuro-arbeiten-grigioni-frontalier/)
 - [Leben Como Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-como-arbeiten-tessin-grenzgaenger/)
 - [Leben Crevoladossola Arbeiten Ticino Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-crevoladossola-arbeiten-ticino-frontalier/)
+- [Leben Faloppio Arbeiten Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-faloppio-arbeiten-ticino-als-frontalier/)
 - [Leben Im Herzen Von Bellinzona](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-im-herzen-von-bellinzona/)
 - [Leben In Besano Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-besano-arbeiten-im-tessin/)
 - [Leben In Bisuschio Arbeiten In Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-bisuschio-arbeiten-in-ticino/)
@@ -4202,7 +4203,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1402 pages)
+### Other Pages (1406 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4982,6 +4983,7 @@
 - [Kohle Rekordtief Elektrizitat](https://frontaliereticino.ch/de/schweiz-artikel/kohle-rekordtief-elektrizitat/)
 - [Kompass Initiative Regierung Ablehnung](https://frontaliereticino.ch/de/schweiz-artikel/kompass-initiative-regierung-ablehnung/)
 - [Konten Banken Schweiz Residenten](https://frontaliereticino.ch/de/schweiz-artikel/konten-banken-schweiz-residenten/)
+- [Kosten Asyl Transfers Blockade](https://frontaliereticino.ch/de/schweiz-artikel/kosten-asyl-transfers-blockade/)
 - [Kosten Des Autos Fur Pendler Tessin](https://frontaliereticino.ch/de/schweiz-artikel/kosten-des-autos-fur-pendler-tessin/)
 - [Kostenvoranschlag Kv Bern Kanton](https://frontaliereticino.ch/de/schweiz-artikel/kostenvoranschlag-kv-bern-kanton/)
 - [Kostenvoranschlage Fur Krankenversicherung Nach Kanton](https://frontaliereticino.ch/de/schweiz-artikel/kostenvoranschlage-fur-krankenversicherung-nach-kanton/)
@@ -5118,6 +5120,7 @@
 - [Oeffentliche Verkehr Schweiz Abos Rabatte](https://frontaliereticino.ch/de/schweiz-artikel/oeffentliche-verkehr-schweiz-abos-rabatte/)
 - [Oeffentliche Verkehrsmittel Kanton Solothurn Fahrkarten](https://frontaliereticino.ch/de/schweiz-artikel/oeffentliche-verkehrsmittel-kanton-solothurn-fahrkarten/)
 - [Oeffentlicher Verkehr Glauis](https://frontaliereticino.ch/de/schweiz-artikel/oeffentlicher-verkehr-glauis/)
+- [Oeffentlicher Verkehrspflicht Zur Akzeptierung Von Baremid](https://frontaliereticino.ch/de/schweiz-artikel/oeffentlicher-verkehrspflicht-zur-akzeptierung-von-baremid/)
 - [Oev Abonnemente Kanton Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/oev-abonnemente-kanton-schwyz/)
 - [Offentliche Verkehr Abonnements Kanton Zurich](https://frontaliereticino.ch/de/schweiz-artikel/offentliche-verkehr-abonnements-kanton-zurich/)
 - [Offentliche Verkehrskarten Uri Kanton](https://frontaliereticino.ch/de/schweiz-artikel/offentliche-verkehrskarten-uri-kanton/)
@@ -5428,6 +5431,7 @@
 - [Gesundheit Krankenkasse](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-3/)
+- [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-4/)
 - [Grenze Und Zoll](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/page-3/)
@@ -5444,6 +5448,7 @@
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-5/)
+- [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-6/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-2/)
 - [Wohnen Und Miete](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/)
