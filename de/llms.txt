@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5558 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5561 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4203,7 +4203,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1408 pages)
+### Other Pages (1411 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4219,6 +4219,7 @@
 - [Arbeit Tessin Kellner](https://frontaliereticino.ch/de/arbeit-tessin-kellner/)
 - [Arbeit Tessin Koch](https://frontaliereticino.ch/de/arbeit-tessin-koch/)
 - [Arbeit Tessin Krankenpfleger](https://frontaliereticino.ch/de/arbeit-tessin-krankenpfleger/)
+- [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
 - [Arbeit Tessin Physiotherapeut](https://frontaliereticino.ch/de/arbeit-tessin-physiotherapeut/)
 - [Arbeit Tessin Psychologe](https://frontaliereticino.ch/de/arbeit-tessin-psychologe/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
@@ -4772,6 +4773,7 @@
 - [Gazzetta Ufficiale Legge 30 Dicembre 2024 N 207](https://frontaliereticino.ch/de/schweiz-artikel/gazzetta-ufficiale-legge-30-dicembre-2024-n-207/)
 - [Geburt Kind Frontalier 2026](https://frontaliereticino.ch/de/schweiz-artikel/geburt-kind-frontalier-2026/)
 - [Gehaelter Arbeitsmarkt Kanton Zuerich](https://frontaliereticino.ch/de/schweiz-artikel/gehaelter-arbeitsmarkt-kanton-zuerich/)
+- [Gehaelter Radiologen Bonus Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/gehaelter-radiologen-bonus-schweiz/)
 - [Gehalt Grenzgaenger 6250 Monat](https://frontaliereticino.ch/de/schweiz-artikel/gehalt-grenzgaenger-6250-monat/)
 - [Gehalt Mechaniker Grenzganger Tessin](https://frontaliereticino.ch/de/schweiz-artikel/gehalt-mechaniker-grenzganger-tessin/)
 - [Gehalte Arbeitsmarkt Luzern Sektoren Stufen](https://frontaliereticino.ch/de/schweiz-artikel/gehalte-arbeitsmarkt-luzern-sektoren-stufen/)
@@ -5501,6 +5503,7 @@
 - [Verkehr Schweiz Zunehmend Kosten Steigen](https://frontaliereticino.ch/de/schweiz-artikel/verkehr-schweiz-zunehmend-kosten-steigen/)
 - [Verkehrspolitik Ticino Am Rand](https://frontaliereticino.ch/de/schweiz-artikel/verkehrspolitik-ticino-am-rand/)
 - [Verlangsamung Schweizer Boerse Juli](https://frontaliereticino.ch/de/schweiz-artikel/verlangsamung-schweizer-boerse-juli/)
+- [Vermoegens Schwellen Schweizer Banken](https://frontaliereticino.ch/de/schweiz-artikel/vermoegens-schwellen-schweizer-banken/)
 - [Verzoegerte Zuege Stabio Gallarate Regionale Unfahigkeit](https://frontaliereticino.ch/de/schweiz-artikel/verzoegerte-zuege-stabio-gallarate-regionale-unfahigkeit/)
 - [Viareggio Zugunglueck Verurteilungen](https://frontaliereticino.ch/de/schweiz-artikel/viareggio-zugunglueck-verurteilungen/)
 - [Volg Binn Neuigkeiten 2024](https://frontaliereticino.ch/de/schweiz-artikel/volg-binn-neuigkeiten-2024/)
