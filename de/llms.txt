@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5561 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5564 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3450 pages)
+### Blog Articles (3452 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2126,6 +2126,7 @@
 - [Imprinting Saggio Italienische Architektur](https://frontaliereticino.ch/de/grenzgaenger-artikel/imprinting-saggio-italienische-architektur/)
 - [In Allein Leben Und Im Wallis Als Grenzganger Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-allein-leben-und-im-wallis-als-grenzganger-arbeiten/)
 - [In Besano Leben Und Als Grenzgaenger Im Kanton Ticino Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-besano-leben-und-als-grenzgaenger-im-kanton-ticino-arbeiten/)
+- [In Brezzo Bedero Wohnen Arbeiten Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-brezzo-bedero-wohnen-arbeiten-ticino/)
 - [In Doues Leben Und Als Grenzgaenger Im Wallis Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-doues-leben-und-als-grenzgaenger-im-wallis-arbeiten/)
 - [In Etroubles Leben Und Im Wallis Als Grenzganger Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-etroubles-leben-und-im-wallis-als-grenzganger-arbeiten/)
 - [In Luino Leben Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-luino-leben-im-tessin-arbeiten-grenzgaenger/)
@@ -4090,6 +4091,7 @@
 - [Wohnen In Cadegliano Viconago Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-in-cadegliano-viconago-arbeiten-im-tessin/)
 - [Wohnen In Courmayeur Und Arbeiten In Vallese As Grenzganger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-in-courmayeur-und-arbeiten-in-vallese-as-grenzganger/)
 - [Wohnen In Maslianico Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-in-maslianico-arbeiten-im-tessin/)
+- [Wohnen In Moltrasio Arbeiten In Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-in-moltrasio-arbeiten-in-tessin/)
 - [Wohnen In Piuro Arbeiten In Graubuenden](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-in-piuro-arbeiten-in-graubuenden/)
 - [Wohnen In Saint Oyen Arbeiten Im Wallis](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-in-saint-oyen-arbeiten-im-wallis/)
 - [Wohnen La Thuile Arbeiten Valais](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-la-thuile-arbeiten-valais/)
@@ -4203,7 +4205,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1411 pages)
+### Other Pages (1412 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4617,6 +4619,7 @@
 - [Durchschnittslohn Berufe Schweiz 2026 Basel](https://frontaliereticino.ch/de/schweiz-artikel/durchschnittslohn-berufe-schweiz-2026-basel/)
 - [Durre Bauern Mobilisieren](https://frontaliereticino.ch/de/schweiz-artikel/durre-bauern-mobilisieren/)
 - [Durre Stress Familien](https://frontaliereticino.ch/de/schweiz-artikel/durre-stress-familien/)
+- [Easygov Kmb Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/easygov-kmb-schweiz/)
 - [Easyjet Apollon Ubernahme](https://frontaliereticino.ch/de/schweiz-artikel/easyjet-apollon-ubernahme/)
 - [Ehe Steuer Gerechtigkeit Vierzig Jahre](https://frontaliereticino.ch/de/schweiz-artikel/ehe-steuer-gerechtigkeit-vierzig-jahre/)
 - [Ehelensicherung Kanton Glarnisch](https://frontaliereticino.ch/de/schweiz-artikel/ehelensicherung-kanton-glarnisch/)
