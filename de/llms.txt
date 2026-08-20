@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5707 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5715 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3524 pages)
+### Blog Articles (3528 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -3182,6 +3182,7 @@
 - [Schulkantinen Tessin Preise 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schulkantinen-tessin-preise-2026/)
 - [Schulmaß Taxe Chiasso](https://frontaliereticino.ch/de/grenzgaenger-artikel/schulmaß-taxe-chiasso/)
 - [Schulpartnerschaft Viganello Gaza 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schulpartnerschaft-viganello-gaza-2026/)
+- [Schulung Uber 20km Umschulung](https://frontaliereticino.ch/de/grenzgaenger-artikel/schulung-uber-20km-umschulung/)
 - [Schulzahnarztleistungen Interessenkonflikt](https://frontaliereticino.ch/de/grenzgaenger-artikel/schulzahnarztleistungen-interessenkonflikt/)
 - [Schurkenstaaten 2026 Liste Aktualisierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/schurkenstaaten-2026-liste-aktualisierung/)
 - [Schusse Von Como Verletzter Grenzarbeiter](https://frontaliereticino.ch/de/grenzgaenger-artikel/schusse-von-como-verletzter-grenzarbeiter/)
@@ -3645,6 +3646,7 @@
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
+- [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-4/)
 - [Gesundheit Krankenkasse](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-10/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-2/)
@@ -3927,6 +3929,7 @@
 - [Unfall Ispra Frontalieri 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/unfall-ispra-frontalieri-2026/)
 - [Unfall Lambrugo 74 Jahriger Krankenhaus](https://frontaliereticino.ch/de/grenzgaenger-artikel/unfall-lambrugo-74-jahriger-krankenhaus/)
 - [Unfall Maloja Grenzarbeiter 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/unfall-maloja-grenzarbeiter-2026/)
+- [Unfall Pendler Strasse Cantello](https://frontaliereticino.ch/de/grenzgaenger-artikel/unfall-pendler-strasse-cantello/)
 - [Unfall Riazzino Radfahrer Urteil](https://frontaliereticino.ch/de/grenzgaenger-artikel/unfall-riazzino-radfahrer-urteil/)
 - [Unfall SeenstraßE Varese](https://frontaliereticino.ch/de/grenzgaenger-artikel/unfall-seenstraße-varese/)
 - [Unfall Verzasca Tal 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/unfall-verzasca-tal-2026/)
@@ -4168,6 +4171,7 @@
 - [Wohnen La Thuile Arbeiten Valais](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-la-thuile-arbeiten-valais/)
 - [Wohnen Lavena Ponte Tresa Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-lavena-ponte-tresa-arbeiten-tessin/)
 - [Wohnen Lurago Marinone Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-lurago-marinone-arbeiten-tessin-grenzgaenger/)
+- [Wohnen Morazzone Arbeiten Ticino Grenzganger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-morazzone-arbeiten-ticino-grenzganger/)
 - [Wohnen Oyace Arbeiten Wallis Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-oyace-arbeiten-wallis-grenzgaenger/)
 - [Wohnen Porto Ceresio Arbeiten Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-porto-ceresio-arbeiten-ticino/)
 - [Wohnen Tessin 2026 Schwieriger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-tessin-2026-schwieriger/)
@@ -4277,7 +4281,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1483 pages)
+### Other Pages (1487 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4978,7 +4982,9 @@
 - [Handelsvertreter Der Vereinigten Staaten Lobt Schweizer Investitionen](https://frontaliereticino.ch/de/schweiz-artikel/handelsvertreter-der-vereinigten-staaten-lobt-schweizer-investitionen/)
 - [Haus In Glarus Preise Fonds Und Nachhaltigkeit Des Darlehens](https://frontaliereticino.ch/de/schweiz-artikel/haus-in-glarus-preise-fonds-und-nachhaltigkeit-des-darlehens/)
 - [Haus Kaufen Kanton Bern Preise Hypothek](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-kanton-bern-preise-hypothek/)
+- [Haus Kaufen Kanton Schaffhausen Hypothek](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-kanton-schaffhausen-hypothek/)
 - [Haus Kaufen Kanton Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-kanton-schwyz/)
+- [Haus Kaufen Schaffhausen Hypothek](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-schaffhausen-hypothek/)
 - [Haus Kaufen Schweiz Hypothekenanforderungen](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-schweiz-hypothekenanforderungen/)
 - [Heirat Grenzganger Steuerregime](https://frontaliereticino.ch/de/schweiz-artikel/heirat-grenzganger-steuerregime/)
 - [Helvetia Baloise Stellenabbau Schweiz 2028](https://frontaliereticino.ch/de/schweiz-artikel/helvetia-baloise-stellenabbau-schweiz-2028/)
@@ -5195,6 +5201,7 @@
 - [Mietpreise Im Kanton Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/mietpreise-im-kanton-schwyz/)
 - [Mietpreise Im Kanton Soelothurn Und Mieterrechte](https://frontaliereticino.ch/de/schweiz-artikel/mietpreise-im-kanton-soelothurn-und-mieterrechte/)
 - [Mietrecht Schlichtung Tessin](https://frontaliereticino.ch/de/schweiz-artikel/mietrecht-schlichtung-tessin/)
+- [Mietvertraege Schaffhausen Kaution Kuendigung Schlichtung](https://frontaliereticino.ch/de/schweiz-artikel/mietvertraege-schaffhausen-kaution-kuendigung-schlichtung/)
 - [Migros 24 Stunden Supermarkt Herisau](https://frontaliereticino.ch/de/schweiz-artikel/migros-24-stunden-supermarkt-herisau/)
 - [Migros Drei Abgaenge Spitze](https://frontaliereticino.ch/de/schweiz-artikel/migros-drei-abgaenge-spitze/)
 - [Migros Kassiererin Ticino](https://frontaliereticino.ch/de/schweiz-artikel/migros-kassiererin-ticino/)
@@ -5328,6 +5335,7 @@
 - [Rhein Trockenheit Schweiz Logistik](https://frontaliereticino.ch/de/schweiz-artikel/rhein-trockenheit-schweiz-logistik/)
 - [Roche Basel Stellenangebote](https://frontaliereticino.ch/de/schweiz-artikel/roche-basel-stellenangebote/)
 - [Roger Federer Vermoegen On Aktien](https://frontaliereticino.ch/de/schweiz-artikel/roger-federer-vermoegen-on-aktien/)
+- [Rotes Kreuz Klage Missbrauch Name](https://frontaliereticino.ch/de/schweiz-artikel/rotes-kreuz-klage-missbrauch-name/)
 - [Rotter Zug Schanf Livigno](https://frontaliereticino.ch/de/schweiz-artikel/rotter-zug-schanf-livigno/)
 - [Rueckkehr In Die Schweiz Ohne Arbeitslosigkeit](https://frontaliereticino.ch/de/schweiz-artikel/rueckkehr-in-die-schweiz-ohne-arbeitslosigkeit/)
 - [Russisch Im Lugano Geduld Ist Gefragt](https://frontaliereticino.ch/de/schweiz-artikel/russisch-im-lugano-geduld-ist-gefragt/)
