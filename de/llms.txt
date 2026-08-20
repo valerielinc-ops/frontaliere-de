@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5702 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5707 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3522 pages)
+### Blog Articles (3524 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2149,11 +2149,13 @@
 - [In Besano Leben Und Als Grenzgaenger Im Kanton Ticino Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-besano-leben-und-als-grenzgaenger-im-kanton-ticino-arbeiten/)
 - [In Brezzo Bedero Wohnen Arbeiten Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-brezzo-bedero-wohnen-arbeiten-ticino/)
 - [In Brissago Valtravaglia Leben Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-brissago-valtravaglia-leben-tessin/)
+- [In Caglio Wohnen Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-caglio-wohnen-im-tessin-arbeiten-grenzgaenger/)
 - [In Capiago Intimiano Wohnen Im Tessin Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-capiago-intimiano-wohnen-im-tessin-arbeiten/)
 - [In Dongo Wohnen Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-dongo-wohnen-im-tessin-arbeiten-grenzgaenger/)
 - [In Doues Leben Und Als Grenzgaenger Im Wallis Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-doues-leben-und-als-grenzgaenger-im-wallis-arbeiten/)
 - [In Etroubles Leben Und Im Wallis Als Grenzganger Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-etroubles-leben-und-im-wallis-als-grenzganger-arbeiten/)
 - [In Intragna Wohnen Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-intragna-wohnen-im-tessin-arbeiten-grenzgaenger/)
+- [In Limido Comasco Als Grenzgaenger Leben](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-limido-comasco-als-grenzgaenger-leben/)
 - [In Luino Leben Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-luino-leben-im-tessin-arbeiten-grenzgaenger/)
 - [In Oltrona Di San Mamette Und Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-oltrona-di-san-mamette-und-arbeiten-in-ticino-als-frontalier/)
 - [In Ponna Wohnen Im Tessin Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-ponna-wohnen-im-tessin-arbeiten/)
@@ -3643,7 +3645,6 @@
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
-- [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-4/)
 - [Gesundheit Krankenkasse](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-10/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-2/)
@@ -3713,6 +3714,7 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-9/)
 - [Wohnen Und Miete](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/page-3/)
@@ -4275,7 +4277,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1480 pages)
+### Other Pages (1483 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4595,6 +4597,7 @@
 - [Berufsausbildung Und Professionelle Ausbildung Kanton Freiburg](https://frontaliereticino.ch/de/schweiz-artikel/berufsausbildung-und-professionelle-ausbildung-kanton-freiburg/)
 - [Berufsausbildung Zug](https://frontaliereticino.ch/de/schweiz-artikel/berufsausbildung-zug/)
 - [Berufsbildung Lehre Kanton Bern](https://frontaliereticino.ch/de/schweiz-artikel/berufsbildung-lehre-kanton-bern/)
+- [Berufslehre Berufsbildung Schaffhausen](https://frontaliereticino.ch/de/schweiz-artikel/berufslehre-berufsbildung-schaffhausen/)
 - [Beschaeftigung Arbeitslosigkeit Schweiz Q2 2026](https://frontaliereticino.ch/de/schweiz-artikel/beschaeftigung-arbeitslosigkeit-schweiz-q2-2026/)
 - [Besteuerung Grenzgaenger Ueber 20km](https://frontaliereticino.ch/de/schweiz-artikel/besteuerung-grenzgaenger-ueber-20km/)
 - [Besteuerung Lpp Leistungen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/besteuerung-lpp-leistungen-schweiz/)
@@ -4725,6 +4728,7 @@
 - [Einwanderungsblock Tessin](https://frontaliereticino.ch/de/schweiz-artikel/einwanderungsblock-tessin/)
 - [Elektro Lieferwagen Bundesgleichstellung](https://frontaliereticino.ch/de/schweiz-artikel/elektro-lieferwagen-bundesgleichstellung/)
 - [Elektronische Abstimmung Schweizer Im Ausland Nicolas Kolly](https://frontaliereticino.ch/de/schweiz-artikel/elektronische-abstimmung-schweizer-im-ausland-nicolas-kolly/)
+- [Elektroroller Helm Sicherheit](https://frontaliereticino.ch/de/schweiz-artikel/elektroroller-helm-sicherheit/)
 - [Elisabeth Baume Schneider Chemische Schutz](https://frontaliereticino.ch/de/schweiz-artikel/elisabeth-baume-schneider-chemische-schutz/)
 - [Elternrechte Frontaliers](https://frontaliereticino.ch/de/schweiz-artikel/elternrechte-frontaliers/)
 - [Elternurlaub Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/elternurlaub-grenzgaenger/)
@@ -5353,6 +5357,7 @@
 - [Schweiz Aufenthaltsbewilligung Typen B C L](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-aufenthaltsbewilligung-typen-b-c-l/)
 - [Schweiz Benzinpreise Heute](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-benzinpreise-heute/)
 - [Schweiz Ceuta Melilla Grenzkontrollen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-ceuta-melilla-grenzkontrollen/)
+- [Schweiz China Export Zolle](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-china-export-zolle/)
 - [Schweiz China Freihandelsabkommen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-china-freihandelsabkommen/)
 - [Schweiz Durre Wasser Diebstahl Sorgen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-durre-wasser-diebstahl-sorgen/)
 - [Schweiz Ees Verlangsamt Kontrollen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-ees-verlangsamt-kontrollen/)
