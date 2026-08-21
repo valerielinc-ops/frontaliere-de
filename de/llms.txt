@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5795 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5800 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3568 pages)
+### Blog Articles (3570 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1083,6 +1083,7 @@
 - [Betrug Buergergeld Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/betrug-buergergeld-varese-2026/)
 - [Betrug Mit Covid Krediten Tessin 3334 Falle](https://frontaliereticino.ch/de/grenzgaenger-artikel/betrug-mit-covid-krediten-tessin-3334-falle/)
 - [Betrug Schock Anrufe Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/betrug-schock-anrufe-ticino/)
+- [Beura Cardezza Grenzgaenger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/beura-cardezza-grenzgaenger-tessin/)
 - [BevöLkerungsgrenze Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/bevölkerungsgrenze-tessin/)
 - [Bewilligung G Gegen B Grenzgaenger 2026 20km](https://frontaliereticino.ch/de/grenzgaenger-artikel/bewilligung-g-gegen-b-grenzgaenger-2026-20km/)
 - [Bianconeri Kurzes Spiel 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bianconeri-kurzes-spiel-2026/)
@@ -1955,6 +1956,7 @@
 - [Grenzgaenger Rueckerstattungen Politische Waffe](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rueckerstattungen-politische-waffe/)
 - [Grenzgaenger Rueckerstattungen Udc Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rueckerstattungen-udc-tessin/)
 - [Grenzgaenger Rueckgang Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rueckgang-tessin/)
+- [Grenzgaenger Rueckgang Zweites Quartal 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-rueckgang-zweites-quartal-2026/)
 - [Grenzgaenger Schweiz Umfrage Juni 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-schweiz-umfrage-juni-2026/)
 - [Grenzgaenger See Genf](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-see-genf/)
 - [Grenzgaenger Steuergutschrift 2026 Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuergutschrift-2026-leitfaden/)
@@ -4321,7 +4323,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1527 pages)
+### Other Pages (1530 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5161,6 +5163,7 @@
 - [Krankengeld System Ausreichend](https://frontaliereticino.ch/de/schweiz-artikel/krankengeld-system-ausreichend/)
 - [Krankenkasse Appenzell Ausserrhoden Reduktion](https://frontaliereticino.ch/de/schweiz-artikel/krankenkasse-appenzell-ausserrhoden-reduktion/)
 - [Krankenkasse Neuchatel Jugendliche](https://frontaliereticino.ch/de/schweiz-artikel/krankenkasse-neuchatel-jugendliche/)
+- [Krankenkassen Manager Kommission](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassen-manager-kommission/)
 - [Krankenkassen Managerloehne Deckel](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassen-managerloehne-deckel/)
 - [Krankenkassenpraemien Schweiz 2026](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassenpraemien-schweiz-2026/)
 - [Krankenkassenpraemien Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassenpraemien-schwyz/)
@@ -5370,6 +5373,7 @@
 - [Private Klinik Basel](https://frontaliereticino.ch/de/schweiz-artikel/private-klinik-basel/)
 - [Produktions Importpreise Juli 2026](https://frontaliereticino.ch/de/schweiz-artikel/produktions-importpreise-juli-2026/)
 - [Professionelle Immobilienverwaltung](https://frontaliereticino.ch/de/schweiz-artikel/professionelle-immobilienverwaltung/)
+- [Psychiatrische Kosten Schweiz 2024](https://frontaliereticino.ch/de/schweiz-artikel/psychiatrische-kosten-schweiz-2024/)
 - [Psychologe Grenze Tessin](https://frontaliereticino.ch/de/schweiz-artikel/psychologe-grenze-tessin/)
 - [Publibike Britischer Investor](https://frontaliereticino.ch/de/schweiz-artikel/publibike-britischer-investor/)
 - [Publibike Wechselt Zu Britischem Investor](https://frontaliereticino.ch/de/schweiz-artikel/publibike-wechselt-zu-britischem-investor/)
@@ -5775,6 +5779,7 @@
 - [Zoll Nachteil Erfasst Schweizer Wirtschaft Nur Mild](https://frontaliereticino.ch/de/schweiz-artikel/zoll-nachteil-erfasst-schweizer-wirtschaft-nur-mild/)
 - [Zone 30 Kmh Eingreifen Bundesrat](https://frontaliereticino.ch/de/schweiz-artikel/zone-30-kmh-eingreifen-bundesrat/)
 - [Zuerich Mietpreise Und Mieterrechte](https://frontaliereticino.ch/de/schweiz-artikel/zuerich-mietpreise-und-mieterrechte/)
+- [Zuerich Mietrecht Kaution Beschwerde Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/zuerich-mietrecht-kaution-beschwerde-verfahren/)
 - [Zuerich Zugbusse Bestechung](https://frontaliereticino.ch/de/schweiz-artikel/zuerich-zugbusse-bestechung/)
 - [Zurich Entlassungen Finma Vorsorge](https://frontaliereticino.ch/de/schweiz-artikel/zurich-entlassungen-finma-vorsorge/)
 - [Zurich Finma Verfahren Entlassungen](https://frontaliereticino.ch/de/schweiz-artikel/zurich-finma-verfahren-entlassungen/)
