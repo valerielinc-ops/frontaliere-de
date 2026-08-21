@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5767 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5775 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3554 pages)
+### Blog Articles (3557 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2160,6 +2160,7 @@
 - [In Brissago Valtravaglia Leben Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-brissago-valtravaglia-leben-tessin/)
 - [In Caglio Wohnen Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-caglio-wohnen-im-tessin-arbeiten-grenzgaenger/)
 - [In Capiago Intimiano Wohnen Im Tessin Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-capiago-intimiano-wohnen-im-tessin-arbeiten/)
+- [In Cremia Leben Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-cremia-leben-im-tessin-arbeiten-grenzgaenger/)
 - [In Dongo Wohnen Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-dongo-wohnen-im-tessin-arbeiten-grenzgaenger/)
 - [In Doues Leben Und Als Grenzgaenger Im Wallis Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-doues-leben-und-als-grenzgaenger-im-wallis-arbeiten/)
 - [In Etroubles Leben Und Im Wallis Als Grenzganger Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-etroubles-leben-und-im-wallis-als-grenzganger-arbeiten/)
@@ -2476,6 +2477,7 @@
 - [Leben Cermenate Arbeit Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-cermenate-arbeit-tessin-grenzgaenger/)
 - [Leben Chiuro Arbeiten Grigioni Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-chiuro-arbeiten-grigioni-frontalier/)
 - [Leben Colonno Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-colonno-arbeiten-tessin-grenzgaenger/)
+- [Leben Colverde Arbeiten Tessin Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-colverde-arbeiten-tessin-frontalier/)
 - [Leben Como Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-como-arbeiten-tessin-grenzgaenger/)
 - [Leben Crevoladossola Arbeiten Ticino Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-crevoladossola-arbeiten-ticino-frontalier/)
 - [Leben Faloppio Arbeiten Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-faloppio-arbeiten-ticino-als-frontalier/)
@@ -4184,6 +4186,7 @@
 - [Wohlstandsdistrikt Campo Dei Fiori 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohlstandsdistrikt-campo-dei-fiori-2026/)
 - [Wohnen Aosta Arbeiten Wallis Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-aosta-arbeiten-wallis-grenzgaenger/)
 - [Wohnen Cantello Arbeiten Ticino As Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-cantello-arbeiten-ticino-as-frontalier/)
+- [Wohnen Fagnano Olona Arbeiten Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-fagnano-olona-arbeiten-ticino/)
 - [Wohnen Gavirate Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-gavirate-arbeiten-tessin/)
 - [Wohnen Gignod Arbeiten Wallis Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-gignod-arbeiten-wallis-grenzgaenger/)
 - [Wohnen In Cadegliano Viconago Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-in-cadegliano-viconago-arbeiten-im-tessin/)
@@ -4307,7 +4310,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1513 pages)
+### Other Pages (1518 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4323,7 +4326,6 @@
 - [Arbeit Tessin Kellner](https://frontaliereticino.ch/de/arbeit-tessin-kellner/)
 - [Arbeit Tessin Koch](https://frontaliereticino.ch/de/arbeit-tessin-koch/)
 - [Arbeit Tessin Krankenpfleger](https://frontaliereticino.ch/de/arbeit-tessin-krankenpfleger/)
-- [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
 - [Arbeit Tessin Physiotherapeut](https://frontaliereticino.ch/de/arbeit-tessin-physiotherapeut/)
 - [Arbeit Tessin Psychologe](https://frontaliereticino.ch/de/arbeit-tessin-psychologe/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
@@ -4569,6 +4571,7 @@
 - [Assegni Familiari Kanton Nidvaldo](https://frontaliereticino.ch/de/schweiz-artikel/assegni-familiari-kanton-nidvaldo/)
 - [Assegno Unico Inps Neue Regeln](https://frontaliereticino.ch/de/schweiz-artikel/assegno-unico-inps-neue-regeln/)
 - [Asylstatistik Juli 2026](https://frontaliereticino.ch/de/schweiz-artikel/asylstatistik-juli-2026/)
+- [Asylsuchende Severe Ma Nahmen](https://frontaliereticino.ch/de/schweiz-artikel/asylsuchende-severe-ma-nahmen/)
 - [Aufenthaltsbewilligung B Im Kanton Nidwalden Voraussetzungen Und Verlangerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-im-kanton-nidwalden-voraussetzungen-und-verlangerung/)
 - [Aufenthaltsbewilligung B Kanton Uri Voraussetzungen](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-kanton-uri-voraussetzungen/)
 - [Aufenthaltsbewilligung B Quellensteuer 2026](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-quellensteuer-2026/)
@@ -4808,6 +4811,7 @@
 - [Familienbeihilfe Kanton Berner](https://frontaliereticino.ch/de/schweiz-artikel/familienbeihilfe-kanton-berner/)
 - [Familienbeihilfe Kanton Zugo](https://frontaliereticino.ch/de/schweiz-artikel/familienbeihilfe-kanton-zugo/)
 - [Familienbeihilfe Obvaldo](https://frontaliereticino.ch/de/schweiz-artikel/familienbeihilfe-obvaldo/)
+- [Familienleistungen Appenzell Innerrhoden Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienleistungen-appenzell-innerrhoden-antrag/)
 - [Familienverguetung Basel Landschaft](https://frontaliereticino.ch/de/schweiz-artikel/familienverguetung-basel-landschaft/)
 - [Familienzulagen Appenzell Ausserrhoden](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-appenzell-ausserrhoden/)
 - [Familienzulagen Im Kanton Glarus Betrage Und Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-im-kanton-glarus-betrage-und-antrag/)
@@ -5368,6 +5372,7 @@
 - [Rechtsform In Schwyz Wahlen](https://frontaliereticino.ch/de/schweiz-artikel/rechtsform-in-schwyz-wahlen/)
 - [Referendum Mindestlohn Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/referendum-mindestlohn-schweiz/)
 - [Regen Kehrt Zurueck Duerre Ticino](https://frontaliereticino.ch/de/schweiz-artikel/regen-kehrt-zurueck-duerre-ticino/)
+- [Regierungsstellungnahme Bahninfrastruktur](https://frontaliereticino.ch/de/schweiz-artikel/regierungsstellungnahme-bahninfrastruktur/)
 - [Region Lombardie Vertrauenswurdig](https://frontaliereticino.ch/de/schweiz-artikel/region-lombardie-vertrauenswurdig/)
 - [Reisen Und Verbrauch Ohne Kompromisse](https://frontaliereticino.ch/de/schweiz-artikel/reisen-und-verbrauch-ohne-kompromisse/)
 - [Rekord Bahn Verkehr Zweites Quartal](https://frontaliereticino.ch/de/schweiz-artikel/rekord-bahn-verkehr-zweites-quartal/)
@@ -5551,6 +5556,7 @@
 - [Soziale Mietwagen Fur Frontalieri 2026](https://frontaliereticino.ch/de/schweiz-artikel/soziale-mietwagen-fur-frontalieri-2026/)
 - [Sprung Pool Niederuzwil Wiederbelebt](https://frontaliereticino.ch/de/schweiz-artikel/sprung-pool-niederuzwil-wiederbelebt/)
 - [Stabio Zoll Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/stabio-zoll-schweiz/)
+- [Stadler Rail Freiburg 117 Millionen](https://frontaliereticino.ch/de/schweiz-artikel/stadler-rail-freiburg-117-millionen/)
 - [Stadler Rail Hackfall](https://frontaliereticino.ch/de/schweiz-artikel/stadler-rail-hackfall/)
 - [Statent 2024 Beschaeftigung Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/statent-2024-beschaeftigung-schweiz/)
 - [Stellen Arzneimittelherstellung Chur](https://frontaliereticino.ch/de/schweiz-artikel/stellen-arzneimittelherstellung-chur/)
@@ -5567,6 +5573,7 @@
 - [Steuern Kanton Basel Stadt Besteuerung](https://frontaliereticino.ch/de/schweiz-artikel/steuern-kanton-basel-stadt-besteuerung/)
 - [Steuerstreit Herausforderung Steuergier Im Kanton Waadt](https://frontaliereticino.ch/de/schweiz-artikel/steuerstreit-herausforderung-steuergier-im-kanton-waadt/)
 - [Steuerwohnsitz Pruefung Digitale Beweise](https://frontaliereticino.ch/de/schweiz-artikel/steuerwohnsitz-pruefung-digitale-beweise/)
+- [Stipendien Appenzell Innerrhoden](https://frontaliereticino.ch/de/schweiz-artikel/stipendien-appenzell-innerrhoden/)
 - [Stipendien Basel Stadt](https://frontaliereticino.ch/de/schweiz-artikel/stipendien-basel-stadt/)
 - [Stipendien Im Kanton Glarus Anforderungen Und Importe](https://frontaliereticino.ch/de/schweiz-artikel/stipendien-im-kanton-glarus-anforderungen-und-importe/)
 - [Stipendien Kanton Bern Voraussetzungen](https://frontaliereticino.ch/de/schweiz-artikel/stipendien-kanton-bern-voraussetzungen/)
@@ -5645,6 +5652,7 @@
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-5/)
+- [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-6/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-3/)
