@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5715 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5726 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3528 pages)
+### Blog Articles (3534 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1182,6 +1182,7 @@
 - [Cantello Gaggiolo Peduncle 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/cantello-gaggiolo-peduncle-2026/)
 - [Cantello Rio Dei Gioghi Weg Wiedereroffnung](https://frontaliereticino.ch/de/grenzgaenger-artikel/cantello-rio-dei-gioghi-weg-wiedereroffnung/)
 - [Cantieri Traffico A9 Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/cantieri-traffico-a9-ticino/)
+- [Carbonate Leben Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/carbonate-leben-schweiz/)
 - [Cardada Cimetta Wiedereroffnet Fuer Biker 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/cardada-cimetta-wiedereroffnet-fuer-biker-2024/)
 - [Cardano Oekologische Woche Raee 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/cardano-oekologische-woche-raee-2026/)
 - [Cargo Chiasso Arbeitsfaehigkeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/cargo-chiasso-arbeitsfaehigkeiten/)
@@ -1502,6 +1503,7 @@
 - [Equans Entlassungen Monteceneri 19 Mitarbeiter](https://frontaliereticino.ch/de/grenzgaenger-artikel/equans-entlassungen-monteceneri-19-mitarbeiter/)
 - [Equans Entlassungen Monteceneri 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/equans-entlassungen-monteceneri-2026/)
 - [Equans Rivera 19 Entlassungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/equans-rivera-19-entlassungen/)
+- [Erba Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/erba-tessin-grenzgaenger/)
 - [Erdbeben Sankt Gallen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/erdbeben-sankt-gallen-2026/)
 - [Erdbeerfest Camorino Wohltatig](https://frontaliereticino.ch/de/grenzgaenger-artikel/erdbeerfest-camorino-wohltatig/)
 - [Erfolg Pharma Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/erfolg-pharma-tessin/)
@@ -1547,6 +1549,7 @@
 - [Eu Schweiz Abkommen Binnenmarkt Auswirkungen Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/eu-schweiz-abkommen-binnenmarkt-auswirkungen-grenzgaenger/)
 - [Eu Schweiz Abkommen Tessin Fordert Obligatorisches Referendum](https://frontaliereticino.ch/de/grenzgaenger-artikel/eu-schweiz-abkommen-tessin-fordert-obligatorisches-referendum/)
 - [Eu Schweiz Abkommen Unterzeichnung Bevorstehend Was Sich Fuer Grenzgaenger Aendert](https://frontaliereticino.ch/de/grenzgaenger-artikel/eu-schweiz-abkommen-unterzeichnung-bevorstehend-was-sich-fuer-grenzgaenger-aendert/)
+- [Eupilio Tessin Grenzgaenger Guide](https://frontaliereticino.ch/de/grenzgaenger-artikel/eupilio-tessin-grenzgaenger-guide/)
 - [Euro Franken Umtausch Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/euro-franken-umtausch-frontalier/)
 - [Eurodreams Gewinnt Monatliche Rente Von 22000 Franken](https://frontaliereticino.ch/de/grenzgaenger-artikel/eurodreams-gewinnt-monatliche-rente-von-22000-franken/)
 - [Europa Von Unten Regionen Podcast Bianchi](https://frontaliereticino.ch/de/grenzgaenger-artikel/europa-von-unten-regionen-podcast-bianchi/)
@@ -2491,6 +2494,7 @@
 - [Leben Laglio Arbeiten Ticino Grenze](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-laglio-arbeiten-ticino-grenze/)
 - [Leben Livigno Arbeiten Grigioni Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-livigno-arbeiten-grigioni-frontalier/)
 - [Leben Lurate Caccivio Arbeiten Tessin Grenze](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-lurate-caccivio-arbeiten-tessin-grenze/)
+- [Leben Mariano Comense Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-mariano-comense-arbeiten-tessin/)
 - [Leben Masciago Primo Arbeiten Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-masciago-primo-arbeiten-ticino/)
 - [Leben Oggebbio Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-oggebbio-arbeiten-tessin/)
 - [Leben Porto Valtravaglia Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-porto-valtravaglia-arbeiten-tessin-grenzgaenger/)
@@ -2498,6 +2502,7 @@
 - [Leben Re Arbeiten Tessin Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-re-arbeiten-tessin-frontalier/)
 - [Leben Sankt Rhemy En Bosses Arbeiten In Vallese Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-sankt-rhemy-en-bosses-arbeiten-in-vallese-als-frontalier/)
 - [Leben Schweiz Vs Italien Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-schweiz-vs-italien-grenzgaenger/)
+- [Leben Sormano Arbeiten Tessin Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-sormano-arbeiten-tessin-frontalier/)
 - [Leben Tovo Di Sant Agata Arbeiten Graubuenden](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-tovo-di-sant-agata-arbeiten-graubuenden/)
 - [Leben Trasquera Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-trasquera-arbeiten-tessin/)
 - [Leben Valpelline Arbeiten Wallis](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-valpelline-arbeiten-wallis/)
@@ -3691,6 +3696,7 @@
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-4/)
+- [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-5/)
 - [Sicherheit Und Kriminalitaet](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-3/)
@@ -3708,6 +3714,7 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-9/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-3/)
@@ -3716,7 +3723,6 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-9/)
 - [Wohnen Und Miete](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/page-3/)
@@ -4281,7 +4287,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1487 pages)
+### Other Pages (1492 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4569,6 +4575,7 @@
 - [Auto Markt Neu Nicht Dekliniert Schweizer People Preferieren Benutzt](https://frontaliereticino.ch/de/schweiz-artikel/auto-markt-neu-nicht-dekliniert-schweizer-people-preferieren-benutzt/)
 - [Auto Verkaeufe Schweiz Juli 2026](https://frontaliereticino.ch/de/schweiz-artikel/auto-verkaeufe-schweiz-juli-2026/)
 - [Avs Ai Finanzielle Aussichten](https://frontaliereticino.ch/de/schweiz-artikel/avs-ai-finanzielle-aussichten/)
+- [Avs Ergaenzungsleistungen Schaffhausen Ausgleichskasse](https://frontaliereticino.ch/de/schweiz-artikel/avs-ergaenzungsleistungen-schaffhausen-ausgleichskasse/)
 - [Avs Erganzungsleistungen Luzern Kompensationsfonds](https://frontaliereticino.ch/de/schweiz-artikel/avs-erganzungsleistungen-luzern-kompensationsfonds/)
 - [Avs Inps Beitragszusammenlegung Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/avs-inps-beitragszusammenlegung-leitfaden/)
 - [Avs Leistungen Fribourg](https://frontaliereticino.ch/de/schweiz-artikel/avs-leistungen-fribourg/)
@@ -5188,6 +5195,7 @@
 - [Mercato Affitti Canton Berna](https://frontaliereticino.ch/de/schweiz-artikel/mercato-affitti-canton-berna/)
 - [Miete Basel Landschaft Miete Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/miete-basel-landschaft-miete-mietrecht/)
 - [Miete Glarus 2026](https://frontaliereticino.ch/de/schweiz-artikel/miete-glarus-2026/)
+- [Miete Schaffhausen Kaution Kuendigung](https://frontaliereticino.ch/de/schweiz-artikel/miete-schaffhausen-kaution-kuendigung/)
 - [Mieten Basel Stadt](https://frontaliereticino.ch/de/schweiz-artikel/mieten-basel-stadt/)
 - [Mieten Kanton Zug Durchschnittspreise Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/mieten-kanton-zug-durchschnittspreise-mietrecht/)
 - [Mieten Obvaldo Kantone Mittelrechte](https://frontaliereticino.ch/de/schweiz-artikel/mieten-obvaldo-kantone-mittelrechte/)
@@ -5345,6 +5353,8 @@
 - [Sanktionen 2026 Aktualisierung](https://frontaliereticino.ch/de/schweiz-artikel/sanktionen-2026-aktualisierung/)
 - [Sbt Finanzen Umweltkonferenz](https://frontaliereticino.ch/de/schweiz-artikel/sbt-finanzen-umweltkonferenz/)
 - [Schaffhausen Aufenthaltsgenehmigung Kategorie B](https://frontaliereticino.ch/de/schweiz-artikel/schaffhausen-aufenthaltsgenehmigung-kategorie-b/)
+- [Schaffhausen Mietmarkt](https://frontaliereticino.ch/de/schweiz-artikel/schaffhausen-mietmarkt/)
+- [Schaffhausen Mietwohnungen Rechte Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/schaffhausen-mietwohnungen-rechte-verfahren/)
 - [Schausystem Kanton Ur Einschreibung Und Klassen](https://frontaliereticino.ch/de/schweiz-artikel/schausystem-kanton-ur-einschreibung-und-klassen/)
 - [Scheidung Grenzgaenger Unterhalt Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/scheidung-grenzgaenger-unterhalt-schweiz/)
 - [Schindler Gewinnbringendes Wachstum](https://frontaliereticino.ch/de/schweiz-artikel/schindler-gewinnbringendes-wachstum/)
@@ -5602,6 +5612,7 @@
 - [Wohnen Und Miete](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-3/)
+- [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-4/)
 - [Ticino Frontalieri Como](https://frontaliereticino.ch/de/schweiz-artikel/ticino-frontalieri-como/)
 - [Ticino Grenzgaenger Lehrkraefte Arbeitserlaubnis Klarstellungen](https://frontaliereticino.ch/de/schweiz-artikel/ticino-grenzgaenger-lehrkraefte-arbeitserlaubnis-klarstellungen/)
 - [Ticino Grenzgaenger Neuigkeiten](https://frontaliereticino.ch/de/schweiz-artikel/ticino-grenzgaenger-neuigkeiten/)
