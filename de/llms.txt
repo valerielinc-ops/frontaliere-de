@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5809 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5815 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3575 pages)
+### Blog Articles (3577 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2504,6 +2504,7 @@
 - [Leben In Cugliate Fabiasco Und Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-cugliate-fabiasco-und-arbeiten-in-ticino-als-frontalier/)
 - [Leben In Lovero Arbeiten In Grigioni Von Italien](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-lovero-arbeiten-in-grigioni-von-italien/)
 - [Leben In Maccagno Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-maccagno-arbeiten-im-tessin/)
+- [Leben In Monno Arbeiten In Graubuenden](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-monno-arbeiten-in-graubuenden/)
 - [Leben In Mozzate Arbeiten Im Tessin Als Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-mozzate-arbeiten-im-tessin-als-grenzgaenger/)
 - [Leben In Ollomont Arbeiten Im Wallis Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-ollomont-arbeiten-im-wallis-grenzgaenger/)
 - [Leben In Peglione Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-peglione-arbeiten-in-ticino-als-frontalier/)
@@ -2534,6 +2535,7 @@
 - [Leben Schweiz Vs Italien Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-schweiz-vs-italien-grenzgaenger/)
 - [Leben Solbiate Arno Arbeiten Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-solbiate-arno-arbeiten-ticino/)
 - [Leben Sormano Arbeiten Tessin Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-sormano-arbeiten-tessin-frontalier/)
+- [Leben Spriana Graubuenden Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-spriana-graubuenden-grenzgaenger/)
 - [Leben Tovo Di Sant Agata Arbeiten Graubuenden](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-tovo-di-sant-agata-arbeiten-graubuenden/)
 - [Leben Trasquera Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-trasquera-arbeiten-tessin/)
 - [Leben Valpelline Arbeiten Wallis](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-valpelline-arbeiten-wallis/)
@@ -3644,7 +3646,6 @@
 - [Textilkunst Junge Generationen Como](https://frontaliereticino.ch/de/grenzgaenger-artikel/textilkunst-junge-generationen-como/)
 - [Themen](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/)
 - [Abkommen Und Politik](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/abkommen-und-politik/)
-- [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/abkommen-und-politik/page-10/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/abkommen-und-politik/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/abkommen-und-politik/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/abkommen-und-politik/page-4/)
@@ -3731,6 +3732,7 @@
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-5/)
+- [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-6/)
 - [Sicherheit Und Kriminalitaet](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-3/)
@@ -4328,7 +4330,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1534 pages)
+### Other Pages (1538 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4344,6 +4346,7 @@
 - [Arbeit Tessin Kellner](https://frontaliereticino.ch/de/arbeit-tessin-kellner/)
 - [Arbeit Tessin Koch](https://frontaliereticino.ch/de/arbeit-tessin-koch/)
 - [Arbeit Tessin Krankenpfleger](https://frontaliereticino.ch/de/arbeit-tessin-krankenpfleger/)
+- [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
 - [Arbeit Tessin Physiotherapeut](https://frontaliereticino.ch/de/arbeit-tessin-physiotherapeut/)
 - [Arbeit Tessin Psychologe](https://frontaliereticino.ch/de/arbeit-tessin-psychologe/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
@@ -4818,6 +4821,7 @@
 - [Ermesse L Kurze Geltung Nidwalden Kanton](https://frontaliereticino.ch/de/schweiz-artikel/ermesse-l-kurze-geltung-nidwalden-kanton/)
 - [Ermessigung L Von Kurzer Dauer Kanton Bern](https://frontaliereticino.ch/de/schweiz-artikel/ermessigung-l-von-kurzer-dauer-kanton-bern/)
 - [Ermotti Ubs Interview 2026](https://frontaliereticino.ch/de/schweiz-artikel/ermotti-ubs-interview-2026/)
+- [Erste Saule Zuerich Existenzminimum](https://frontaliereticino.ch/de/schweiz-artikel/erste-saule-zuerich-existenzminimum/)
 - [Essen Swiss Italien Frontalier Arbeiter](https://frontaliereticino.ch/de/schweiz-artikel/essen-swiss-italien-frontalier-arbeiter/)
 - [Estetista Frontaliere Ticino Stipendio Requisiti](https://frontaliereticino.ch/de/schweiz-artikel/estetista-frontaliere-ticino-stipendio-requisiti/)
 - [Ethos Ceo Gehalt Nachhaltigkeit](https://frontaliereticino.ch/de/schweiz-artikel/ethos-ceo-gehalt-nachhaltigkeit/)
@@ -5683,6 +5687,7 @@
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-5/)
+- [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-6/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-3/)
@@ -5795,6 +5800,7 @@
 - [Zurich Mietverfahren Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/zurich-mietverfahren-mietrecht/)
 - [Zuruck In Die Schule Die Hitze Halt Die Bank](https://frontaliereticino.ch/de/schweiz-artikel/zuruck-in-die-schule-die-hitze-halt-die-bank/)
 - [Zurueck In Die Schweiz Ohne Job Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/zurueck-in-die-schweiz-ohne-job-leitfaden/)
+- [Zusatzleistungen Zurich Existenzminimum](https://frontaliereticino.ch/de/schweiz-artikel/zusatzleistungen-zurich-existenzminimum/)
 - [Zwangsarbeit Belastet Darlehen](https://frontaliereticino.ch/de/schweiz-artikel/zwangsarbeit-belastet-darlehen/)
 - [Zwangsarbeit In Schweizer Lieferketten](https://frontaliereticino.ch/de/schweiz-artikel/zwangsarbeit-in-schweizer-lieferketten/)
 - [Zwei Nein Initiativen September](https://frontaliereticino.ch/de/schweiz-artikel/zwei-nein-initiativen-september/)
