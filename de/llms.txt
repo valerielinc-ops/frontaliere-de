@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5883 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5886 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3609 pages)
+### Blog Articles (3610 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1070,6 +1070,7 @@
 - [Berna Schafft Keine Spannungen Mit Italien](https://frontaliereticino.ch/de/grenzgaenger-artikel/berna-schafft-keine-spannungen-mit-italien/)
 - [Bernaribadisiposizionereferendumfacultativ](https://frontaliereticino.ch/de/grenzgaenger-artikel/bernaribadisiposizionereferendumfacultativ/)
 - [Berset Unterstuetzt Reynard Nach Crans Montana Tragodie](https://frontaliereticino.ch/de/grenzgaenger-artikel/berset-unterstuetzt-reynard-nach-crans-montana-tragodie/)
+- [Berufsunfall Weg Lainf Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/berufsunfall-weg-lainf-grenzgaenger/)
 - [Berufswoche Tessin 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/berufswoche-tessin-2024/)
 - [Beschlagnahmtes Marihuana Colverde Tessin Grenze](https://frontaliereticino.ch/de/grenzgaenger-artikel/beschlagnahmtes-marihuana-colverde-tessin-grenze/)
 - [Beschlagnahmung Mafia Vermoegen Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/beschlagnahmung-mafia-vermoegen-schweiz-2026/)
@@ -4362,7 +4363,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1574 pages)
+### Other Pages (1576 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4562,6 +4563,7 @@
 - [Agrola Dieselpreis Bellinzona Heute](https://frontaliereticino.ch/de/schweiz-artikel/agrola-dieselpreis-bellinzona-heute/)
 - [Agsrosope Neue Laboratorien Posieux](https://frontaliereticino.ch/de/schweiz-artikel/agsrosope-neue-laboratorien-posieux/)
 - [Ahv Ergaenzungsleistungen Basel](https://frontaliereticino.ch/de/schweiz-artikel/ahv-ergaenzungsleistungen-basel/)
+- [Ahv Ergaenzungsleistungen Uri](https://frontaliereticino.ch/de/schweiz-artikel/ahv-ergaenzungsleistungen-uri/)
 - [Ahv Finanzierung 13](https://frontaliereticino.ch/de/schweiz-artikel/ahv-finanzierung-13/)
 - [Ahv Im Kanton Obwalden Die Ausgleichskasse](https://frontaliereticino.ch/de/schweiz-artikel/ahv-im-kanton-obwalden-die-ausgleichskasse/)
 - [Ahv Rente Ausland Bedingungen](https://frontaliereticino.ch/de/schweiz-artikel/ahv-rente-ausland-bedingungen/)
@@ -5144,6 +5146,7 @@
 - [Insolvenzen Bei 30 Jahres Hochststand](https://frontaliereticino.ch/de/schweiz-artikel/insolvenzen-bei-30-jahres-hochststand/)
 - [Intelligenz Hunde Katzen Forschung](https://frontaliereticino.ch/de/schweiz-artikel/intelligenz-hunde-katzen-forschung/)
 - [Investitionen Schweizer Elektrizitat](https://frontaliereticino.ch/de/schweiz-artikel/investitionen-schweizer-elektrizitat/)
+- [Irland Dubliner Asyl Italien](https://frontaliereticino.ch/de/schweiz-artikel/irland-dubliner-asyl-italien/)
 - [It Entwickler Tessin Grenzganger](https://frontaliereticino.ch/de/schweiz-artikel/it-entwickler-tessin-grenzganger/)
 - [Italien Erneuert Asylabgeschobungen](https://frontaliereticino.ch/de/schweiz-artikel/italien-erneuert-asylabgeschobungen/)
 - [Italienisches Furfettari Regime Vertraeglichkeit Schweizerisches Einkommen](https://frontaliereticino.ch/de/schweiz-artikel/italienisches-furfettari-regime-vertraeglichkeit-schweizerisches-einkommen/)
