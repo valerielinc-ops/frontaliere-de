@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5879 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5883 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3607 pages)
+### Blog Articles (3609 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -900,6 +900,7 @@
 - [Arbeitssicherheit Tessin Cfsl Zertifizierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitssicherheit-tessin-cfsl-zertifizierung/)
 - [Arbeitsunfaelle Inail Oeffnet Sich Fuer High Tech Prothesen](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitsunfaelle-inail-oeffnet-sich-fuer-high-tech-prothesen/)
 - [Arbeitsunfaelle Varese Uil 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitsunfaelle-varese-uil-2026/)
+- [Arbeitsunfall Arbeitsweg Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitsunfall-arbeitsweg-grenzgaenger/)
 - [Arbeitsunfall Blenio Aquila](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitsunfall-blenio-aquila/)
 - [Arbeitsunfall Miglieglia](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitsunfall-miglieglia/)
 - [Arbeitsunfall Vallemaggia Piano Peccia](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitsunfall-vallemaggia-piano-peccia/)
@@ -2457,6 +2458,7 @@
 - [Lago Segrino Camper 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/lago-segrino-camper-2026/)
 - [Lago Vertrag Lands See 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/lago-vertrag-lands-see-2026/)
 - [Lainf 2026 Grenzgaenger Praktische Simulation](https://frontaliereticino.ch/de/grenzgaenger-artikel/lainf-2026-grenzgaenger-praktische-simulation/)
+- [Lainf Arbeitsunfall Arbeitsweg Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/lainf-arbeitsunfall-arbeitsweg-grenzgaenger/)
 - [Laivin Festival Cassano Valcuvia 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/laivin-festival-cassano-valcuvia-2026/)
 - [Lamal Aenderung Einheitliche Finanzierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/lamal-aenderung-einheitliche-finanzierung/)
 - [Lamal Cmi Frontalieri Conviene 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/lamal-cmi-frontalieri-conviene-2026/)
@@ -3736,7 +3738,6 @@
 - [Page 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-23/)
 - [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-24/)
 - [Page 25](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-25/)
-- [Page 26](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-26/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-5/)
@@ -4123,6 +4124,7 @@
 - [Verkehrsbeobachter Comer See 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/verkehrsbeobachter-comer-see-2026/)
 - [Verkehrsbeobachter See Como 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/verkehrsbeobachter-see-como-2026/)
 - [Verkehrsbetriebe Zurich Warum Wir Chinesische Busse Gekauft Haben](https://frontaliereticino.ch/de/grenzgaenger-artikel/verkehrsbetriebe-zurich-warum-wir-chinesische-busse-gekauft-haben/)
+- [Verkehrsbusse Meldung Italienischer Resident](https://frontaliereticino.ch/de/grenzgaenger-artikel/verkehrsbusse-meldung-italienischer-resident/)
 - [Verkehrskosten Schweiz 2023](https://frontaliereticino.ch/de/grenzgaenger-artikel/verkehrskosten-schweiz-2023/)
 - [Verkehrssicherheit Tessin Maerz](https://frontaliereticino.ch/de/grenzgaenger-artikel/verkehrssicherheit-tessin-maerz/)
 - [Verkehrsunfall Cittiglio Laveno](https://frontaliereticino.ch/de/grenzgaenger-artikel/verkehrsunfall-cittiglio-laveno/)
@@ -4360,7 +4362,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (1572 pages)
+### Other Pages (1574 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5190,6 +5192,7 @@
 - [Keine Gewerkschaftsschutz Bilaterale Iii](https://frontaliereticino.ch/de/schweiz-artikel/keine-gewerkschaftsschutz-bilaterale-iii/)
 - [Keine Umgehend Wirkung Auf Grenzengelder Sertori](https://frontaliereticino.ch/de/schweiz-artikel/keine-umgehend-wirkung-auf-grenzengelder-sertori/)
 - [Keine Verlaengerung Staatsgarantien Elektrizitaetsunternehmen](https://frontaliereticino.ch/de/schweiz-artikel/keine-verlaengerung-staatsgarantien-elektrizitaetsunternehmen/)
+- [Keller Sutter Finanzminister Deutschsprachige Laender](https://frontaliereticino.ch/de/schweiz-artikel/keller-sutter-finanzminister-deutschsprachige-laender/)
 - [Keller Sutter Stabilitat Gesunde Finanzen](https://frontaliereticino.ch/de/schweiz-artikel/keller-sutter-stabilitat-gesunde-finanzen/)
 - [Kernenergie 13avs Loehne Abstimmungen](https://frontaliereticino.ch/de/schweiz-artikel/kernenergie-13avs-loehne-abstimmungen/)
 - [Kernkraftwerke Bedrohen Tausende Arbeitsplaetze Zhaw](https://frontaliereticino.ch/de/schweiz-artikel/kernkraftwerke-bedrohen-tausende-arbeitsplaetze-zhaw/)
@@ -5456,6 +5459,7 @@
 - [Quellensteuer Ticino Rechner](https://frontaliereticino.ch/de/schweiz-artikel/quellensteuer-ticino-rechner/)
 - [Radfahrer Schwer Verletzt Nach Einem Sturz](https://frontaliereticino.ch/de/schweiz-artikel/radfahrer-schwer-verletzt-nach-einem-sturz/)
 - [Radfahrer Tod In Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/radfahrer-tod-in-schweiz/)
+- [Radiologen Praemien Erhoehungen 2027](https://frontaliereticino.ch/de/schweiz-artikel/radiologen-praemien-erhoehungen-2027/)
 - [Ramaggedon Speicherchip Mangel](https://frontaliereticino.ch/de/schweiz-artikel/ramaggedon-speicherchip-mangel/)
 - [Rechtsform In Schwyz Wahlen](https://frontaliereticino.ch/de/schweiz-artikel/rechtsform-in-schwyz-wahlen/)
 - [Referendum Mindestlohn Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/referendum-mindestlohn-schweiz/)
