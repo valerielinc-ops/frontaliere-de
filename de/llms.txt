@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6668 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6674 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3863 pages)
+### Blog Articles (3865 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2624,6 +2624,7 @@
 - [Lavizzara Ueberschwemmungsrisiko Plan Genehmigt](https://frontaliereticino.ch/de/grenzgaenger-artikel/lavizzara-ueberschwemmungsrisiko-plan-genehmigt/)
 - [Lavoro Sommerso Varesotto](https://frontaliereticino.ch/de/grenzgaenger-artikel/lavoro-sommerso-varesotto/)
 - [League Ticino Border Closure Proposal 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/league-ticino-border-closure-proposal-2026/)
+- [Leben Albavilla Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-albavilla-arbeiten-tessin/)
 - [Leben Albizzate Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-albizzate-arbeiten-tessin-grenzgaenger/)
 - [Leben Appiano Gentile Arbeiten Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-appiano-gentile-arbeiten-ticino/)
 - [Leben Aurano Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-aurano-arbeiten-tessin/)
@@ -4429,6 +4430,7 @@
 - [Wegeunfall Grenze Versicherung Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wegeunfall-grenze-versicherung-grenzgaenger/)
 - [Weisse Bank Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/weisse-bank-varese-2026/)
 - [Weiterbildung Grenzpendler Eltern 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/weiterbildung-grenzpendler-eltern-2026/)
+- [Weiterbildung Tessin Kampagne](https://frontaliereticino.ch/de/grenzgaenger-artikel/weiterbildung-tessin-kampagne/)
 - [Wenigerfrontalieretessinocalolievelie](https://frontaliereticino.ch/de/grenzgaenger-artikel/wenigerfrontalieretessinocalolievelie/)
 - [Wer Finanziert Die Schweizer Politik 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/wer-finanziert-die-schweizer-politik-2026/)
 - [Wer Sind Die Tessiner Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/wer-sind-die-tessiner-frontalier/)
@@ -4616,7 +4618,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2105 pages)
+### Other Pages (2109 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4983,6 +4985,7 @@
 - [Auto Verkaeufe Schweiz Juli 2026](https://frontaliereticino.ch/de/schweiz-artikel/auto-verkaeufe-schweiz-juli-2026/)
 - [Autobahnvignette Nicht Sofort](https://frontaliereticino.ch/de/schweiz-artikel/autobahnvignette-nicht-sofort/)
 - [Avs Ai Finanzielle Aussichten](https://frontaliereticino.ch/de/schweiz-artikel/avs-ai-finanzielle-aussichten/)
+- [Avs Beitragslucken St Gallen](https://frontaliereticino.ch/de/schweiz-artikel/avs-beitragslucken-st-gallen/)
 - [Avs Bern Rente Beitragslucken](https://frontaliereticino.ch/de/schweiz-artikel/avs-bern-rente-beitragslucken/)
 - [Avs Ergaenzungsleistungen Aargau](https://frontaliereticino.ch/de/schweiz-artikel/avs-ergaenzungsleistungen-aargau/)
 - [Avs Ergaenzungsleistungen Baselland](https://frontaliereticino.ch/de/schweiz-artikel/avs-ergaenzungsleistungen-baselland/)
@@ -5007,6 +5010,7 @@
 - [B Erlaubnis Luzern](https://frontaliereticino.ch/de/schweiz-artikel/b-erlaubnis-luzern/)
 - [Bachmann Krawatten Zurich Schliesst](https://frontaliereticino.ch/de/schweiz-artikel/bachmann-krawatten-zurich-schliesst/)
 - [Bahnverkehr Angehalten Deutschland Technisches Problem](https://frontaliereticino.ch/de/schweiz-artikel/bahnverkehr-angehalten-deutschland-technisches-problem/)
+- [Bally Caslano Entlassungen 2025](https://frontaliereticino.ch/de/schweiz-artikel/bally-caslano-entlassungen-2025/)
 - [Bancasto Einnahmen Rueckgang Halbjahr](https://frontaliereticino.ch/de/schweiz-artikel/bancasto-einnahmen-rueckgang-halbjahr/)
 - [Bank Unter Der Lupe Bern Stringt Die Bonus Und Staerkt Die Anti Krisenregeln](https://frontaliereticino.ch/de/schweiz-artikel/bank-unter-der-lupe-bern-stringt-die-bonus-und-staerkt-die-anti-krisenregeln/)
 - [Bankangestellte Asib Ubs Verordnung](https://frontaliereticino.ch/de/schweiz-artikel/bankangestellte-asib-ubs-verordnung/)
@@ -5065,6 +5069,7 @@
 - [Bildungssystem Kanton Schwyz Anmeldung Und Phasen](https://frontaliereticino.ch/de/schweiz-artikel/bildungssystem-kanton-schwyz-anmeldung-und-phasen/)
 - [Bildungssystem Kanton Zuerich Anmeldung Und Stufen](https://frontaliereticino.ch/de/schweiz-artikel/bildungssystem-kanton-zuerich-anmeldung-und-stufen/)
 - [Biobetriebe Forage Konventionell](https://frontaliereticino.ch/de/schweiz-artikel/biobetriebe-forage-konventionell/)
+- [Biomedizinische Forschung Innovation Tessin](https://frontaliereticino.ch/de/schweiz-artikel/biomedizinische-forschung-innovation-tessin/)
 - [Bip Q2 2026 Industrie Starkes Wachstum](https://frontaliereticino.ch/de/schweiz-artikel/bip-q2-2026-industrie-starkes-wachstum/)
 - [Bip Schweiz 2025 Wachstum](https://frontaliereticino.ch/de/schweiz-artikel/bip-schweiz-2025-wachstum/)
 - [Block Ristorni Ticino](https://frontaliereticino.ch/de/schweiz-artikel/block-ristorni-ticino/)
@@ -5577,6 +5582,7 @@
 - [Haus Kaufen Luzern Hypothek Anleitung](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-luzern-hypothek-anleitung/)
 - [Haus Kaufen Nidwalden Hypothek](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-nidwalden-hypothek/)
 - [Haus Kaufen Nidwalden Hypothek Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-nidwalden-hypothek-leitfaden/)
+- [Haus Kaufen Sankt Gallen Hypothek](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-sankt-gallen-hypothek/)
 - [Haus Kaufen Schaffhausen Hypothek](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-schaffhausen-hypothek/)
 - [Haus Kaufen Schweiz Hypothekenanforderungen](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-schweiz-hypothekenanforderungen/)
 - [Haus Kaufen Thurgau Hypothek](https://frontaliereticino.ch/de/schweiz-artikel/haus-kaufen-thurgau-hypothek/)
