@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6703 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6712 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3878 pages)
+### Blog Articles (3881 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -3794,6 +3794,7 @@
 - [Streik In Italien Tilo Zuege Halten An Der Grenze September 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/streik-in-italien-tilo-zuege-halten-an-der-grenze-september-2026/)
 - [Streit Lombardei Schweiz Grenzganger](https://frontaliereticino.ch/de/grenzgaenger-artikel/streit-lombardei-schweiz-grenzganger/)
 - [Stresa Aegypten Abschiebung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/stresa-aegypten-abschiebung-2026/)
+- [Strompreisanstieg Varese Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/strompreisanstieg-varese-grenzgaenger/)
 - [Student Pendular Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/student-pendular-schweiz/)
 - [Study China Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/study-china-tessin-grenzgaenger/)
 - [Suchtpraevention Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/suchtpraevention-tessin-2026/)
@@ -4222,6 +4223,7 @@
 - [Umzug Nach Valdidentro Als Grenzganger](https://frontaliereticino.ch/de/grenzgaenger-artikel/umzug-nach-valdidentro-als-grenzganger/)
 - [Umzug Nach Villa Di Chiavenna Als Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/umzug-nach-villa-di-chiavenna-als-grenzgaenger/)
 - [Umzug Porto Ceresio Grenzpendler Vor Nachteile](https://frontaliereticino.ch/de/grenzgaenger-artikel/umzug-porto-ceresio-grenzpendler-vor-nachteile/)
+- [Umzug Schweiz Italien Anleitung](https://frontaliereticino.ch/de/grenzgaenger-artikel/umzug-schweiz-italien-anleitung/)
 - [Umzug Vertemate Minoprio Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/umzug-vertemate-minoprio-grenzgaenger/)
 - [Umzuge In Bizzarone Von Frontalierern](https://frontaliereticino.ch/de/grenzgaenger-artikel/umzuge-in-bizzarone-von-frontalierern/)
 - [Un Passaporti Di Fedeltà](https://frontaliereticino.ch/de/grenzgaenger-artikel/un-passaporti-di-fedeltà/)
@@ -4296,6 +4298,7 @@
 - [Varese Digital 3d Besuch](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-digital-3d-besuch/)
 - [Varese Drogenhandler Festnahme Grenzarbeiter](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-drogenhandler-festnahme-grenzarbeiter/)
 - [Varese Eroffnet Via Mulini Grassi Wieder](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-eroffnet-via-mulini-grassi-wieder/)
+- [Varese Export Q1 2026 De](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-export-q1-2026-de/)
 - [Varese Fachkraefte Arbeitsmarkt 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-fachkraefte-arbeitsmarkt-2026/)
 - [Varese Fachkraeftemangel Paradoxon 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-fachkraeftemangel-paradoxon-2026/)
 - [Varese Feiert San Vittore Girometta Doro 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-feiert-san-vittore-girometta-doro-2026/)
@@ -4631,7 +4634,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2125 pages)
+### Other Pages (2131 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5309,6 +5312,7 @@
 - [Familienbeihilfe Kanton Berner](https://frontaliereticino.ch/de/schweiz-artikel/familienbeihilfe-kanton-berner/)
 - [Familienbeihilfe Kanton Zugo](https://frontaliereticino.ch/de/schweiz-artikel/familienbeihilfe-kanton-zugo/)
 - [Familienbeihilfe Obvaldo](https://frontaliereticino.ch/de/schweiz-artikel/familienbeihilfe-obvaldo/)
+- [Familienbeihilfen Vaud Betrag Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienbeihilfen-vaud-betrag-antrag/)
 - [Familienleistungen Appenzell Innerrhoden Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienleistungen-appenzell-innerrhoden-antrag/)
 - [Familienleistungen Luzern Antrag Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/familienleistungen-luzern-antrag-verfahren/)
 - [Familienverguetung Basel Landschaft](https://frontaliereticino.ch/de/schweiz-artikel/familienverguetung-basel-landschaft/)
@@ -5838,6 +5842,7 @@
 - [Lehre Berufsausbildung Kanton St Gallen](https://frontaliereticino.ch/de/schweiz-artikel/lehre-berufsausbildung-kanton-st-gallen/)
 - [Lehre Berufsbildung Appenzell Innerrhoden](https://frontaliereticino.ch/de/schweiz-artikel/lehre-berufsbildung-appenzell-innerrhoden/)
 - [Lehre Berufsbildung Freiburg](https://frontaliereticino.ch/de/schweiz-artikel/lehre-berufsbildung-freiburg/)
+- [Lehre Berufsbildung Glarus](https://frontaliereticino.ch/de/schweiz-artikel/lehre-berufsbildung-glarus/)
 - [Lehre Berufsbildung Graubuenden](https://frontaliereticino.ch/de/schweiz-artikel/lehre-berufsbildung-graubuenden/)
 - [Lehre Berufsbildung Kanton Freiburg](https://frontaliereticino.ch/de/schweiz-artikel/lehre-berufsbildung-kanton-freiburg/)
 - [Lehre Berufsbildung Uri Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/lehre-berufsbildung-uri-leitfaden/)
@@ -5845,10 +5850,12 @@
 - [Lehre Kanton Glarus](https://frontaliereticino.ch/de/schweiz-artikel/lehre-kanton-glarus/)
 - [Lehre Kanton Schaffhausen Vertrag](https://frontaliereticino.ch/de/schweiz-artikel/lehre-kanton-schaffhausen-vertrag/)
 - [Lehre Kanton Soletta](https://frontaliereticino.ch/de/schweiz-artikel/lehre-kanton-soletta/)
+- [Lehre Kanton Waadt](https://frontaliereticino.ch/de/schweiz-artikel/lehre-kanton-waadt/)
 - [Lehre Vertrag Schaffhausen](https://frontaliereticino.ch/de/schweiz-artikel/lehre-vertrag-schaffhausen/)
 - [Lehre Zuerich Stelle Suchen](https://frontaliereticino.ch/de/schweiz-artikel/lehre-zuerich-stelle-suchen/)
 - [Lehrer Mangel Bericht Ursachen Daten](https://frontaliereticino.ch/de/schweiz-artikel/lehrer-mangel-bericht-ursachen-daten/)
 - [Lehrling Appenzell Aussen](https://frontaliereticino.ch/de/schweiz-artikel/lehrling-appenzell-aussen/)
+- [Lehrling Schweiz Praktischer Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/lehrling-schweiz-praktischer-leitfaden/)
 - [Lehrling Urie 2024 2025](https://frontaliereticino.ch/de/schweiz-artikel/lehrling-urie-2024-2025/)
 - [Lehrling Verguetung Solothurn Anleitung](https://frontaliereticino.ch/de/schweiz-artikel/lehrling-verguetung-solothurn-anleitung/)
 - [Lehrlinge Kompetenzluecken Grundlagen](https://frontaliereticino.ch/de/schweiz-artikel/lehrlinge-kompetenzluecken-grundlagen/)
@@ -6290,6 +6297,7 @@
 - [Schweizer Rentner Im Ausland](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-rentner-im-ausland/)
 - [Schweizer Residenzoptionen Italien 2026 Einziger](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-residenzoptionen-italien-2026-einziger/)
 - [Schweizer Saudischer Investitionsvertrag 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-saudischer-investitionsvertrag-2026/)
+- [Schweizer Soldaten Kriegsvideo](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-soldaten-kriegsvideo/)
 - [Schweizer Sommer 2026 Hitzewelle](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-sommer-2026-hitzewelle/)
 - [Schweizer Sparen Mehr Denn Je](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-sparen-mehr-denn-je/)
 - [Schweizer Staatsburgerschaft Grenzganger Anforderungen](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-staatsburgerschaft-grenzganger-anforderungen/)
@@ -6637,6 +6645,7 @@
 - [Volkswagen Arbeitsplaetze Abbau 2024](https://frontaliereticino.ch/de/schweiz-artikel/volkswagen-arbeitsplaetze-abbau-2024/)
 - [Volkswagen Schweizer Zulieferer Risiko](https://frontaliereticino.ch/de/schweiz-artikel/volkswagen-schweizer-zulieferer-risiko/)
 - [Volkswagen Stellenabbau Krise](https://frontaliereticino.ch/de/schweiz-artikel/volkswagen-stellenabbau-krise/)
+- [Volkswagen Streicht 50000 Arbeitsplaetze Bis 2030](https://frontaliereticino.ch/de/schweiz-artikel/volkswagen-streicht-50000-arbeitsplaetze-bis-2030/)
 - [Volle Himmel Sommer 2026](https://frontaliereticino.ch/de/schweiz-artikel/volle-himmel-sommer-2026/)
 - [Vollstandige Steuerbefreiung In Notfallen](https://frontaliereticino.ch/de/schweiz-artikel/vollstandige-steuerbefreiung-in-notfallen/)
 - [Vorteile Und Funktionen Dritte Saeule](https://frontaliereticino.ch/de/schweiz-artikel/vorteile-und-funktionen-dritte-saeule/)
