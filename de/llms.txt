@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6733 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6743 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3889 pages)
+### Blog Articles (3893 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2008,6 +2008,7 @@
 - [Grenzgaenger Gehaelter Tessin Debatte Ein Teufelskreis](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gehaelter-tessin-debatte-ein-teufelskreis/)
 - [Grenzgaenger Gehaelter Tessin Wachsende Kontroverse](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gehaelter-tessin-wachsende-kontroverse/)
 - [Grenzgaenger Gehalt Wohlstandsausgleich 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gehalt-wohlstandsausgleich-2026/)
+- [Grenzgaenger Gehaltsabrechnung 2026 Simulation](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gehaltsabrechnung-2026-simulation/)
 - [Grenzgaenger Gesundheitsbeitrag 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gesundheitsbeitrag-2026/)
 - [Grenzgaenger Gesundheitsbeitrag Sertori](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gesundheitsbeitrag-sertori/)
 - [Grenzgaenger Gesundheitskosten Italien Rueckerstattung](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-gesundheitskosten-italien-rueckerstattung/)
@@ -2048,6 +2049,7 @@
 - [Grenzgaenger Steuerabzug 2026 Haeufige Fehler](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuerabzug-2026-haeufige-fehler/)
 - [Grenzgaenger Steuererklarung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuererklarung-2026/)
 - [Grenzgaenger Steuererklarung Erstattungen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuererklarung-erstattungen-2026/)
+- [Grenzgaenger Steuerguthaben Berechnung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuerguthaben-berechnung-2026/)
 - [Grenzgaenger Steuergutschrift 2026 Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuergutschrift-2026-leitfaden/)
 - [Grenzgaenger Steuern Distanz Grenze](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuern-distanz-grenze/)
 - [Grenzgaenger Steuern Single 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-steuern-single-2026/)
@@ -2521,6 +2523,7 @@
 - [Kontroverse Schweizer Fahne Auf Schuhen](https://frontaliereticino.ch/de/grenzgaenger-artikel/kontroverse-schweizer-fahne-auf-schuhen/)
 - [Konzert Luino Vivaldi Bach 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/konzert-luino-vivaldi-bach-2026/)
 - [Konzert Preiserhoehungen Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/konzert-preiserhoehungen-tessin/)
+- [Koordination Avs Inps 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/koordination-avs-inps-2026/)
 - [Koordination Rente Familie Kinder 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/koordination-rente-familie-kinder-2026/)
 - [Kosten Der Diskriminierung Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/kosten-der-diskriminierung-im-tessin/)
 - [Kosten Des Pendelns Mit Dem Auto Fur Grenzganger In Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/kosten-des-pendelns-mit-dem-auto-fur-grenzganger-in-tessin/)
@@ -4435,6 +4438,7 @@
 - [Walter Bonatti In Capo Al Mondo](https://frontaliereticino.ch/de/grenzgaenger-artikel/walter-bonatti-in-capo-al-mondo/)
 - [Wanderausrustung Saubere Berge](https://frontaliereticino.ch/de/grenzgaenger-artikel/wanderausrustung-saubere-berge/)
 - [Wann Demokratie Endet Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wann-demokratie-endet-tessin/)
+- [Wann Euro Wechsel Grenzgaenger Single](https://frontaliereticino.ch/de/grenzgaenger-artikel/wann-euro-wechsel-grenzgaenger-single/)
 - [Wann Franken In Euro Wechseln](https://frontaliereticino.ch/de/grenzgaenger-artikel/wann-franken-in-euro-wechseln/)
 - [Was Bedeutet Made In Switzerland](https://frontaliereticino.ch/de/grenzgaenger-artikel/was-bedeutet-made-in-switzerland/)
 - [Was Kostet Das Leben In Lugano Als Grenzgaenger Kostenanalyse 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/was-kostet-das-leben-in-lugano-als-grenzgaenger-kostenanalyse-2026/)
@@ -4642,7 +4646,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2144 pages)
+### Other Pages (2150 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4839,6 +4843,7 @@
 - [Ablehnung Arbeitslosenberatung Coldrerio](https://frontaliereticino.ch/de/schweiz-artikel/ablehnung-arbeitslosenberatung-coldrerio/)
 - [Abonnementes Oeffentliche Verkehrsmittel Freiburg](https://frontaliereticino.ch/de/schweiz-artikel/abonnementes-oeffentliche-verkehrsmittel-freiburg/)
 - [Abos Nahverkehr Kanton Uri Zonen](https://frontaliereticino.ch/de/schweiz-artikel/abos-nahverkehr-kanton-uri-zonen/)
+- [Abos Oepnv Vaud Zonen](https://frontaliereticino.ch/de/schweiz-artikel/abos-oepnv-vaud-zonen/)
 - [Abstimmung September Neutralitaet Lebensmittel](https://frontaliereticino.ch/de/schweiz-artikel/abstimmung-september-neutralitaet-lebensmittel/)
 - [Abstimmung Zuerich Wohnraum Krankenkassenpraemien](https://frontaliereticino.ch/de/schweiz-artikel/abstimmung-zuerich-wohnraum-krankenkassenpraemien/)
 - [Abusivemietzahlungen 108 000 Unterschriften](https://frontaliereticino.ch/de/schweiz-artikel/abusivemietzahlungen-108-000-unterschriften/)
@@ -4865,6 +4870,7 @@
 - [Ahv Rentenberechnung Zurich](https://frontaliereticino.ch/de/schweiz-artikel/ahv-rentenberechnung-zurich/)
 - [Ahv Und Erganzungsleistungen Im Kanton St Gallen](https://frontaliereticino.ch/de/schweiz-artikel/ahv-und-erganzungsleistungen-im-kanton-st-gallen/)
 - [Ahv Und Erganzungsleistungen Nidwalden Kasse Und Renten](https://frontaliereticino.ch/de/schweiz-artikel/ahv-und-erganzungsleistungen-nidwalden-kasse-und-renten/)
+- [Ahv Zusatzleistungen Waadt Ausgleichskasse](https://frontaliereticino.ch/de/schweiz-artikel/ahv-zusatzleistungen-waadt-ausgleichskasse/)
 - [Ai Crescono Le Persone Reintegrate Nel Mondo Del Lavoro](https://frontaliereticino.ch/de/schweiz-artikel/ai-crescono-le-persone-reintegrate-nel-mondo-del-lavoro/)
 - [Ai Verandert Arbeit Sondern Keine Menschen](https://frontaliereticino.ch/de/schweiz-artikel/ai-verandert-arbeit-sondern-keine-menschen/)
 - [Ai Verso La Bancarotta Forse Gia Nel 2030](https://frontaliereticino.ch/de/schweiz-artikel/ai-verso-la-bancarotta-forse-gia-nel-2030/)
@@ -5354,6 +5360,7 @@
 - [Forfait Tarif E Commerce](https://frontaliereticino.ch/de/schweiz-artikel/forfait-tarif-e-commerce/)
 - [Fotovoltaico Calano Le Vendite](https://frontaliereticino.ch/de/schweiz-artikel/fotovoltaico-calano-le-vendite/)
 - [Franco Euro Auf Jahresminimum](https://frontaliereticino.ch/de/schweiz-artikel/franco-euro-auf-jahresminimum/)
+- [Franken Euro Analyse Wechselkurs Daten](https://frontaliereticino.ch/de/schweiz-artikel/franken-euro-analyse-wechselkurs-daten/)
 - [Frauenstreik Waadt Neuenburg](https://frontaliereticino.ch/de/schweiz-artikel/frauenstreik-waadt-neuenburg/)
 - [Freiburg Fahrkarten Abo Zonen Tarife](https://frontaliereticino.ch/de/schweiz-artikel/freiburg-fahrkarten-abo-zonen-tarife/)
 - [Freiburg L Permit Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/freiburg-l-permit-verlaengerung/)
@@ -5481,6 +5488,7 @@
 - [Geschaft Grunden Luzern Handelsregister Kosten](https://frontaliereticino.ch/de/schweiz-artikel/geschaft-grunden-luzern-handelsregister-kosten/)
 - [Geschaft In Luzern Eroffnen Wahl Der Rechtsform Und Pflichten](https://frontaliereticino.ch/de/schweiz-artikel/geschaft-in-luzern-eroffnen-wahl-der-rechtsform-und-pflichten/)
 - [Geschaft Offnen Obwalden Anmeldung](https://frontaliereticino.ch/de/schweiz-artikel/geschaft-offnen-obwalden-anmeldung/)
+- [Geschaft Offnen Waadt Registrierung Kosten](https://frontaliereticino.ch/de/schweiz-artikel/geschaft-offnen-waadt-registrierung-kosten/)
 - [Geschichte Der Sozialen Sicherheit Neuauflage](https://frontaliereticino.ch/de/schweiz-artikel/geschichte-der-sozialen-sicherheit-neuauflage/)
 - [Geschichte Schweizer Bankenaufsicht](https://frontaliereticino.ch/de/schweiz-artikel/geschichte-schweizer-bankenaufsicht/)
 - [Geschlechterlohngefalle Schweiz Bfs 640](https://frontaliereticino.ch/de/schweiz-artikel/geschlechterlohngefalle-schweiz-bfs-640/)
@@ -5960,6 +5968,7 @@
 - [Mietmarkt Kanton Luzern](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-kanton-luzern/)
 - [Mietmarkt Lugano Verlangsamt](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-lugano-verlangsamt/)
 - [Mietmarkt Uri Mietrecht Kautionsvertrag](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-uri-mietrecht-kautionsvertrag/)
+- [Mietmarkt Waadt Mieterrechte](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-waadt-mieterrechte/)
 - [Mietmarkt Waadt Mietkaution](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-waadt-mietkaution/)
 - [Mietpreise Appenzell Ausserrhoden Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/mietpreise-appenzell-ausserrhoden-mietrecht/)
 - [Mietpreise Benzin Treiben Inflation](https://frontaliereticino.ch/de/schweiz-artikel/mietpreise-benzin-treiben-inflation/)
@@ -5976,6 +5985,7 @@
 - [Mietreduktion Hypothekenzinsen](https://frontaliereticino.ch/de/schweiz-artikel/mietreduktion-hypothekenzinsen/)
 - [Mietvertraege Freiburg Kaution Kuendigung Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/mietvertraege-freiburg-kaution-kuendigung-mietrecht/)
 - [Mietvertraege Schaffhausen Kaution Kuendigung Schlichtung](https://frontaliereticino.ch/de/schweiz-artikel/mietvertraege-schaffhausen-kaution-kuendigung-schlichtung/)
+- [Mietwesen Vaud Kaution Kundigung](https://frontaliereticino.ch/de/schweiz-artikel/mietwesen-vaud-kaution-kundigung/)
 - [Mietwohnungen Graubuenden Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/mietwohnungen-graubuenden-mietrecht/)
 - [Migros 24 Stunden Supermarkt Herisau](https://frontaliereticino.ch/de/schweiz-artikel/migros-24-stunden-supermarkt-herisau/)
 - [Migros Drei Abgaenge Spitze](https://frontaliereticino.ch/de/schweiz-artikel/migros-drei-abgaenge-spitze/)
@@ -6519,6 +6529,7 @@
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-5/)
+- [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-6/)
 - [Grenze Und Zoll](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/page-2/)
 - [Loehne](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/)
@@ -6543,7 +6554,6 @@
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-6/)
-- [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-7/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-3/)
