@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6743 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6755 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3893 pages)
+### Blog Articles (3899 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -879,6 +879,7 @@
 - [Arbeiten Locarno Cadenazzo Strecke 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeiten-locarno-cadenazzo-strecke-2026/)
 - [Arbeiter Teilen Loehne 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeiter-teilen-loehne-2026/)
 - [Arbeitgebersitz Grenzgaenger Steuern](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitgebersitz-grenzgaenger-steuern/)
+- [Arbeitgeberwechsel Frontalier 2024 Single](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitgeberwechsel-frontalier-2024-single/)
 - [Arbeitgeberwechsel Grenzgaenger Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitgeberwechsel-grenzgaenger-bewilligung/)
 - [Arbeits Und Praktikumsangebote Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeits-und-praktikumsangebote-varese-2026/)
 - [Arbeitsbewilligungen Tessin Digital](https://frontaliereticino.ch/de/grenzgaenger-artikel/arbeitsbewilligungen-tessin-digital/)
@@ -1447,6 +1448,7 @@
 - [Diesel Preiserhohung Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/diesel-preiserhohung-schweiz-2026/)
 - [Dieselakkzise Reduzierung 26 August](https://frontaliereticino.ch/de/grenzgaenger-artikel/dieselakkzise-reduzierung-26-august/)
 - [Dieselpreis Grenzgaenger August](https://frontaliereticino.ch/de/grenzgaenger-artikel/dieselpreis-grenzgaenger-august/)
+- [Differenzierte Autonomie Lombardei 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/differenzierte-autonomie-lombardei-2026/)
 - [Digital Psychotherapie Deprexis 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/digital-psychotherapie-deprexis-2026/)
 - [Digitale Grenzarbeit Tessin Varese](https://frontaliereticino.ch/de/grenzgaenger-artikel/digitale-grenzarbeit-tessin-varese/)
 - [Digitale Parkplatz Lugano 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/digitale-parkplatz-lugano-2024/)
@@ -1639,6 +1641,7 @@
 - [Fahrraddiebstahl Giubiasco 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fahrraddiebstahl-giubiasco-2026/)
 - [Fahrraddiebstahl Mendrisiotto 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fahrraddiebstahl-mendrisiotto-2026/)
 - [Fahrradweg Saronno Rovello Porro 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fahrradweg-saronno-rovello-porro-2026/)
+- [Fahrzeug In Flammen Vergiate Besnate](https://frontaliereticino.ch/de/grenzgaenger-artikel/fahrzeug-in-flammen-vergiate-besnate/)
 - [Fair Trade Fruhstuck Tessin 9 Mai 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fair-trade-fruhstuck-tessin-9-mai-2026/)
 - [Fall Karimova 3 Millionen Strafe](https://frontaliereticino.ch/de/grenzgaenger-artikel/fall-karimova-3-millionen-strafe/)
 - [Falsche Priester Barasso Betrug An Alten](https://frontaliereticino.ch/de/grenzgaenger-artikel/falsche-priester-barasso-betrug-an-alten/)
@@ -2083,6 +2086,7 @@
 - [Grenzgaenger Tagesbulletin 2026 09 01](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-01/)
 - [Grenzgaenger Tagesbulletin 2026 09 02](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-02/)
 - [Grenzgaenger Tagesbulletin 2026 09 03](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-03/)
+- [Grenzgaenger Tagesbulletin 2026 09 05](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-05/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
@@ -2313,6 +2317,7 @@
 - [In Oltrona Di San Mamette Und Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-oltrona-di-san-mamette-und-arbeiten-in-ticino-als-frontalier/)
 - [In Paisco Loveno Wohnen In Graubuenden Arbeiten Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-paisco-loveno-wohnen-in-graubuenden-arbeiten-frontalier/)
 - [In Ponna Wohnen Im Tessin Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-ponna-wohnen-im-tessin-arbeiten/)
+- [In Ponte Lambro Leben Und In Tessin Als Grenzgaenger Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-ponte-lambro-leben-und-in-tessin-als-grenzgaenger-arbeiten/)
 - [In Prata Camportaccio Wohnen Graubuenden Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-prata-camportaccio-wohnen-graubuenden-arbeiten/)
 - [In Prato Allo Leben In Graubuenden Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-prato-allo-leben-in-graubuenden-arbeiten/)
 - [In Pusiano Leben Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-pusiano-leben-im-tessin-arbeiten-grenzgaenger/)
@@ -2491,6 +2496,7 @@
 - [Kindergeld Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kindergeld-grenzgaenger-2026/)
 - [Kinderkrippen Tessin Volksinitiative 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kinderkrippen-tessin-volksinitiative-2026/)
 - [Kindersteuerabzuege Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kindersteuerabzuege-tessin-2026/)
+- [Kinderzug Gallarate Piombino](https://frontaliereticino.ch/de/grenzgaenger-artikel/kinderzug-gallarate-piombino/)
 - [Kirchen Diebstahl Bellinzonese](https://frontaliereticino.ch/de/grenzgaenger-artikel/kirchen-diebstahl-bellinzonese/)
 - [Kirchen Tessin Ausgeraubt 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kirchen-tessin-ausgeraubt-2026/)
 - [Kirchendiebstahl Festnahmen Bellinzona 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kirchendiebstahl-festnahmen-bellinzona-2026/)
@@ -4015,6 +4021,7 @@
 - [Page 22](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-22/)
 - [Page 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-23/)
 - [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
+- [Page 25](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-25/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -4030,7 +4037,6 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-9/)
 - [Wohnen Und Miete](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/page-3/)
@@ -4646,7 +4652,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2150 pages)
+### Other Pages (2156 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5010,6 +5016,7 @@
 - [Ausbildung Nidwalden 2026](https://frontaliereticino.ch/de/schweiz-artikel/ausbildung-nidwalden-2026/)
 - [Ausbildung Und Fachausbildung In Basel Stadt](https://frontaliereticino.ch/de/schweiz-artikel/ausbildung-und-fachausbildung-in-basel-stadt/)
 - [Auslaendische Einkuenfte Steuerkontrollen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/auslaendische-einkuenfte-steuerkontrollen-schweiz/)
+- [Auslaendische Patente Waadt Umwandlung](https://frontaliereticino.ch/de/schweiz-artikel/auslaendische-patente-waadt-umwandlung/)
 - [Ausland Aufenthalt Vermeiden Avs Luecke](https://frontaliereticino.ch/de/schweiz-artikel/ausland-aufenthalt-vermeiden-avs-luecke/)
 - [Auslandsteuer Credit Parameterisiert Gegen Renten](https://frontaliereticino.ch/de/schweiz-artikel/auslandsteuer-credit-parameterisiert-gegen-renten/)
 - [Aussergewoehliche Transport Standards Bundes](https://frontaliereticino.ch/de/schweiz-artikel/aussergewoehliche-transport-standards-bundes/)
@@ -5277,6 +5284,7 @@
 - [Epfl Forschung Mini Drohnen Schallwellen](https://frontaliereticino.ch/de/schweiz-artikel/epfl-forschung-mini-drohnen-schallwellen/)
 - [Erbschaft Grenzgaenger Schweizer Konto](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-grenzgaenger-schweizer-konto/)
 - [Erbschaft Schenkung Zuerich Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-schenkung-zuerich-leitfaden/)
+- [Erbschaft Schenkungssteuer Kanton Waadt](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-schenkungssteuer-kanton-waadt/)
 - [Erbschaft Und Schenkung Steuern Basel Stadt](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-und-schenkung-steuern-basel-stadt/)
 - [Erbschafts Donationsteuer Baselland](https://frontaliereticino.ch/de/schweiz-artikel/erbschafts-donationsteuer-baselland/)
 - [Erbschafts Schenkungssteuer Bern Steuersatz](https://frontaliereticino.ch/de/schweiz-artikel/erbschafts-schenkungssteuer-bern-steuersatz/)
@@ -5441,6 +5449,7 @@
 - [Fuhrerschein Im Kanton Nidwalden Umschulung Und Prufungen](https://frontaliereticino.ch/de/schweiz-artikel/fuhrerschein-im-kanton-nidwalden-umschulung-und-prufungen/)
 - [Fuhrerschein In Luzern Was Zu Tun Und Zu Wissen Ist](https://frontaliereticino.ch/de/schweiz-artikel/fuhrerschein-in-luzern-was-zu-tun-und-zu-wissen-ist/)
 - [Fuhrerschein In Uri Umstellung Und Prufungen](https://frontaliereticino.ch/de/schweiz-artikel/fuhrerschein-in-uri-umstellung-und-prufungen/)
+- [Fuhrerschein Kanton Waadt Umwandlung Pruefungen](https://frontaliereticino.ch/de/schweiz-artikel/fuhrerschein-kanton-waadt-umwandlung-pruefungen/)
 - [Futter Durre Bundeshilfe](https://frontaliereticino.ch/de/schweiz-artikel/futter-durre-bundeshilfe/)
 - [G Bewilligung Antrag 2026](https://frontaliereticino.ch/de/schweiz-artikel/g-bewilligung-antrag-2026/)
 - [G Bewilligung Beantragen Schritt Fuer Schritt](https://frontaliereticino.ch/de/schweiz-artikel/g-bewilligung-beantragen-schritt-fuer-schritt/)
@@ -5728,6 +5737,7 @@
 - [Kantonale Steuern Obvaldo Satze Abzuge](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-steuern-obvaldo-satze-abzuge/)
 - [Kantonale Steuern St Gallen Satze Abzuege](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-steuern-st-gallen-satze-abzuege/)
 - [Kantonale Steuern Svitto Steuersaetze Abzuege](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-steuern-svitto-steuersaetze-abzuege/)
+- [Kantonale Steuern Wallis Steuersatze Abzuge](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-steuern-wallis-steuersatze-abzuge/)
 - [Kantonale Steuern Zuerich Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-steuern-zuerich-schweiz/)
 - [Kantonale Steuervergleich 2026 Waadt](https://frontaliereticino.ch/de/schweiz-artikel/kantonale-steuervergleich-2026-waadt/)
 - [Kantonaler Steuervergleich Schweiz 2026 Kanton Basel](https://frontaliereticino.ch/de/schweiz-artikel/kantonaler-steuervergleich-schweiz-2026-kanton-basel/)
@@ -6070,6 +6080,7 @@
 - [On Rekordquartal](https://frontaliereticino.ch/de/schweiz-artikel/on-rekordquartal/)
 - [Ordentliche Einbuergerung Luzern](https://frontaliereticino.ch/de/schweiz-artikel/ordentliche-einbuergerung-luzern/)
 - [Ordinanz Iran Formulare August](https://frontaliereticino.ch/de/schweiz-artikel/ordinanz-iran-formulare-august/)
+- [Osce Konferenz Berne](https://frontaliereticino.ch/de/schweiz-artikel/osce-konferenz-berne/)
 - [Ov Abos Kanton Luzern Zonen Und Tarife](https://frontaliereticino.ch/de/schweiz-artikel/ov-abos-kanton-luzern-zonen-und-tarife/)
 - [Pa30 Baeuerliche Autonomie](https://frontaliereticino.ch/de/schweiz-artikel/pa30-baeuerliche-autonomie/)
 - [Pandemie Entschaedigung Schweizer Unternehmen](https://frontaliereticino.ch/de/schweiz-artikel/pandemie-entschaedigung-schweizer-unternehmen/)
@@ -6554,6 +6565,7 @@
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-6/)
+- [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-7/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-3/)
