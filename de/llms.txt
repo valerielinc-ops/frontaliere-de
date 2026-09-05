@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6732 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6733 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3888 pages)
+### Blog Articles (3889 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1079,6 +1079,7 @@
 - [Berbenno Graubuenden Grenzgaenger Umzug](https://frontaliereticino.ch/de/grenzgaenger-artikel/berbenno-graubuenden-grenzgaenger-umzug/)
 - [Berechnung Der Rente Fur Grenzgaenger Italienische Avs](https://frontaliereticino.ch/de/grenzgaenger-artikel/berechnung-der-rente-fur-grenzgaenger-italienische-avs/)
 - [Berechnung Des Nettoeinkommens Schweiz Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/berechnung-des-nettoeinkommens-schweiz-grenzgaenger/)
+- [Berechnung Quellensteuer Grenzgaenger Lohn](https://frontaliereticino.ch/de/grenzgaenger-artikel/berechnung-quellensteuer-grenzgaenger-lohn/)
 - [Berghaus Nante Abstimmung Bestaetigt](https://frontaliereticino.ch/de/grenzgaenger-artikel/berghaus-nante-abstimmung-bestaetigt/)
 - [Berghaus Nante Berufung An Das Tram](https://frontaliereticino.ch/de/grenzgaenger-artikel/berghaus-nante-berufung-an-das-tram/)
 - [Bergheim Nante Regierung Regular](https://frontaliereticino.ch/de/grenzgaenger-artikel/bergheim-nante-regierung-regular/)
