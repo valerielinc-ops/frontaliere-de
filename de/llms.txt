@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6728 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6732 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3887 pages)
+### Blog Articles (3888 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2022,6 +2022,7 @@
 - [Grenzgaenger Kuechenchef Ticino Lohn Anforderungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-kuechenchef-ticino-lohn-anforderungen/)
 - [Grenzgaenger Kuendigung Familie Kinder 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-kuendigung-familie-kinder-2026/)
 - [Grenzgaenger Logopaede Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-logopaede-tessin/)
+- [Grenzgaenger Lohnzettel Berechnen Anleitung](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-lohnzettel-berechnen-anleitung/)
 - [Grenzgaenger Menaggio Tessin Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-menaggio-tessin-leitfaden/)
 - [Grenzgaenger Muell Cantello Busse](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-muell-cantello-busse/)
 - [Grenzgaenger Neue Ersatzsteuer 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-neue-ersatzsteuer-2024/)
@@ -4640,7 +4641,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2141 pages)
+### Other Pages (2144 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5757,6 +5758,7 @@
 - [Kinderbetreuung Sankt Gallen Kosten Zuschusse](https://frontaliereticino.ch/de/schweiz-artikel/kinderbetreuung-sankt-gallen-kosten-zuschusse/)
 - [Kinderbetreuung Schweiz Kosten Subventionen](https://frontaliereticino.ch/de/schweiz-artikel/kinderbetreuung-schweiz-kosten-subventionen/)
 - [Kinderbetreuung St Gallen Kosten](https://frontaliereticino.ch/de/schweiz-artikel/kinderbetreuung-st-gallen-kosten/)
+- [Kinderbetreuung Zug Tarife Subventionen](https://frontaliereticino.ch/de/schweiz-artikel/kinderbetreuung-zug-tarife-subventionen/)
 - [Kinderbetreuungskosten Kanton Bern](https://frontaliereticino.ch/de/schweiz-artikel/kinderbetreuungskosten-kanton-bern/)
 - [Kindergarten Betreuung Graubuenden Kosten](https://frontaliereticino.ch/de/schweiz-artikel/kindergarten-betreuung-graubuenden-kosten/)
 - [Kindergarten Kinderbetreuung Basel Stadt Gebuehren](https://frontaliereticino.ch/de/schweiz-artikel/kindergarten-kinderbetreuung-basel-stadt-gebuehren/)
@@ -5957,6 +5959,7 @@
 - [Mietmarkt Kanton Luzern](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-kanton-luzern/)
 - [Mietmarkt Lugano Verlangsamt](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-lugano-verlangsamt/)
 - [Mietmarkt Uri Mietrecht Kautionsvertrag](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-uri-mietrecht-kautionsvertrag/)
+- [Mietmarkt Waadt Mietkaution](https://frontaliereticino.ch/de/schweiz-artikel/mietmarkt-waadt-mietkaution/)
 - [Mietpreise Appenzell Ausserrhoden Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/mietpreise-appenzell-ausserrhoden-mietrecht/)
 - [Mietpreise Benzin Treiben Inflation](https://frontaliereticino.ch/de/schweiz-artikel/mietpreise-benzin-treiben-inflation/)
 - [Mietpreise Im Kanton Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/mietpreise-im-kanton-schwyz/)
@@ -5964,6 +5967,7 @@
 - [Mietrecht Appenzell Innerrhoden Mieten Einigung](https://frontaliereticino.ch/de/schweiz-artikel/mietrecht-appenzell-innerrhoden-mieten-einigung/)
 - [Mietrecht Kanton Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/mietrecht-kanton-schwyz/)
 - [Mietrecht Kanton Uri](https://frontaliereticino.ch/de/schweiz-artikel/mietrecht-kanton-uri/)
+- [Mietrecht Kanton Waadt](https://frontaliereticino.ch/de/schweiz-artikel/mietrecht-kanton-waadt/)
 - [Mietrecht Regeln Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/mietrecht-regeln-schweiz/)
 - [Mietrecht Schlichtung Tessin](https://frontaliereticino.ch/de/schweiz-artikel/mietrecht-schlichtung-tessin/)
 - [Mietrecht Zug Kaution Einspruch Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/mietrecht-zug-kaution-einspruch-verfahren/)
