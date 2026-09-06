@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6795 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6803 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4664,7 +4664,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2184 pages)
+### Other Pages (2192 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4987,6 +4987,7 @@
 - [Aufenthaltsbewilligung C Appenzell Innerrhoden](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-c-appenzell-innerrhoden/)
 - [Aufenthaltsbewilligung C Appenzell Innerrhoden Antrag](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-c-appenzell-innerrhoden-antrag/)
 - [Aufenthaltsbewilligung C Glarus Antrag Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-c-glarus-antrag-leitfaden/)
+- [Aufenthaltsbewilligung C Kanton Wallis Anforderungen Antrag](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-c-kanton-wallis-anforderungen-antrag/)
 - [Aufenthaltsbewilligung C Uri Anforderungen](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-c-uri-anforderungen/)
 - [Aufenthaltsbewilligung L Aargau Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-l-aargau-leitfaden/)
 - [Aufenthaltsbewilligung L Kurzaufenthalt Basel Landschaft](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-l-kurzaufenthalt-basel-landschaft/)
@@ -5275,6 +5276,7 @@
 - [Einbuergerung Ordentlich Luzern Anleitung](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-ordentlich-luzern-anleitung/)
 - [Einburgerung Graubunden Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einburgerung-graubunden-anforderungen-verfahren/)
 - [Einburgerung Kanton Schaffhausen Voraussetzungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einburgerung-kanton-schaffhausen-voraussetzungen-verfahren/)
+- [Einburgerung Kanton Solothurn Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einburgerung-kanton-solothurn-anforderungen-verfahren/)
 - [Eine Blockierung Von Restaurants Eine Verstandliche Reaktion](https://frontaliereticino.ch/de/schweiz-artikel/eine-blockierung-von-restaurants-eine-verstandliche-reaktion/)
 - [Eine Haus Kauft In Soletta](https://frontaliereticino.ch/de/schweiz-artikel/eine-haus-kauft-in-soletta/)
 - [Einkommen Ersparnisse Schweizer Rekord](https://frontaliereticino.ch/de/schweiz-artikel/einkommen-ersparnisse-schweizer-rekord/)
@@ -5367,6 +5369,7 @@
 - [Familienzulagen Im Kanton Schwyz Monatsbetrage Und Gesetzliche Voraussetzungen](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-im-kanton-schwyz-monatsbetrage-und-gesetzliche-voraussetzungen/)
 - [Familienzulagen Im Kanton Solothurn Betrage Und Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-im-kanton-solothurn-betrage-und-antrag/)
 - [Familienzulagen Kanton Schaffhausen Betrage Und Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-kanton-schaffhausen-betrage-und-antrag/)
+- [Familienzulagen Kanton Wallis](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-kanton-wallis/)
 - [Familienzulagen Luzern Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-luzern-leitfaden/)
 - [Familienzulagen Schwyz Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-schwyz-antrag/)
 - [Familienzulagen St Gallen Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienzulagen-st-gallen-antrag/)
@@ -5864,6 +5867,7 @@
 - [Kurzaufenthaltsbewilligung L Kanton Basel Stadt Gultigkeit Und Verlangerung](https://frontaliereticino.ch/de/schweiz-artikel/kurzaufenthaltsbewilligung-l-kanton-basel-stadt-gultigkeit-und-verlangerung/)
 - [Kurzaufenthaltsbewilligung L Luzern](https://frontaliereticino.ch/de/schweiz-artikel/kurzaufenthaltsbewilligung-l-luzern/)
 - [Kurzfristige Aufenthaltsbewilligung L Kanton Zug Gultigkeit Verlangerung](https://frontaliereticino.ch/de/schweiz-artikel/kurzfristige-aufenthaltsbewilligung-l-kanton-zug-gultigkeit-verlangerung/)
+- [Kurzfristige Bewilligung Kanton Wallis](https://frontaliereticino.ch/de/schweiz-artikel/kurzfristige-bewilligung-kanton-wallis/)
 - [Kurzfristiges L Erlaubnis Kanton Zurich](https://frontaliereticino.ch/de/schweiz-artikel/kurzfristiges-l-erlaubnis-kanton-zurich/)
 - [Kurzzeitaufenthalt Freiburg Verlangerung](https://frontaliereticino.ch/de/schweiz-artikel/kurzzeitaufenthalt-freiburg-verlangerung/)
 - [Kvg 2026 Krankenkasse Waehlen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/kvg-2026-krankenkasse-waehlen-schweiz/)
@@ -6111,6 +6115,7 @@
 - [Ordentliche Einbuergerung Luzern](https://frontaliereticino.ch/de/schweiz-artikel/ordentliche-einbuergerung-luzern/)
 - [Ordinanz Iran Formulare August](https://frontaliereticino.ch/de/schweiz-artikel/ordinanz-iran-formulare-august/)
 - [Osce Konferenz Berne](https://frontaliereticino.ch/de/schweiz-artikel/osce-konferenz-berne/)
+- [Osce Konferenz Berne 2026](https://frontaliereticino.ch/de/schweiz-artikel/osce-konferenz-berne-2026/)
 - [Ov Abos Kanton Luzern Zonen Und Tarife](https://frontaliereticino.ch/de/schweiz-artikel/ov-abos-kanton-luzern-zonen-und-tarife/)
 - [Pa30 Baeuerliche Autonomie](https://frontaliereticino.ch/de/schweiz-artikel/pa30-baeuerliche-autonomie/)
 - [Pandemie Entschaedigung Schweizer Unternehmen](https://frontaliereticino.ch/de/schweiz-artikel/pandemie-entschaedigung-schweizer-unternehmen/)
@@ -6155,6 +6160,7 @@
 - [Pizzapreise Italien Analyse](https://frontaliereticino.ch/de/schweiz-artikel/pizzapreise-italien-analyse/)
 - [Podologe Frontalier Ticino Gehalt Anforderungen](https://frontaliereticino.ch/de/schweiz-artikel/podologe-frontalier-ticino-gehalt-anforderungen/)
 - [Podologe Grenzganger Tessin Gehalt](https://frontaliereticino.ch/de/schweiz-artikel/podologe-grenzganger-tessin-gehalt/)
+- [Polizei Einsatz Goldach](https://frontaliereticino.ch/de/schweiz-artikel/polizei-einsatz-goldach/)
 - [Polizeieinsatz Goldach Schule](https://frontaliereticino.ch/de/schweiz-artikel/polizeieinsatz-goldach-schule/)
 - [Polpi Gegen Blauer Krebs](https://frontaliereticino.ch/de/schweiz-artikel/polpi-gegen-blauer-krebs/)
 - [Porsche Gibt Electric Taycan Auf](https://frontaliereticino.ch/de/schweiz-artikel/porsche-gibt-electric-taycan-auf/)
@@ -6545,6 +6551,7 @@
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-7/)
+- [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-8/)
 - [Arbeit Und Beschaeftigung](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-3/)
@@ -6560,6 +6567,7 @@
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-7/)
+- [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-8/)
 - [Franken Und Preise](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-3/)
