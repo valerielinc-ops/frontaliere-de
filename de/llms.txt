@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6853 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6858 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3925 pages)
+### Blog Articles (3926 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1862,6 +1862,7 @@
 - [Gandria Luxus Immobilien Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/gandria-luxus-immobilien-tessin/)
 - [Garlasco Mord Chiara 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/garlasco-mord-chiara-2026/)
 - [Garnelen Turnier Madrid 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/garnelen-turnier-madrid-2026/)
+- [Garzeno Tessin Grenzpendel Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/garzeno-tessin-grenzpendel-leitfaden/)
 - [Gastrobellinzona Andrea Giuliani](https://frontaliereticino.ch/de/grenzgaenger-artikel/gastrobellinzona-andrea-giuliani/)
 - [Gavirate Unfall Frontalieri 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gavirate-unfall-frontalieri-2026/)
 - [Gaza Flottille Varese Solidaritatsprotest](https://frontaliereticino.ch/de/grenzgaenger-artikel/gaza-flottille-varese-solidaritatsprotest/)
@@ -2716,6 +2717,7 @@
 - [Leben In Mozzate Arbeiten Im Tessin Als Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-mozzate-arbeiten-im-tessin-als-grenzgaenger/)
 - [Leben In Ollomont Arbeiten Im Wallis Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-ollomont-arbeiten-im-wallis-grenzgaenger/)
 - [Leben In Peglione Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-peglione-arbeiten-in-ticino-als-frontalier/)
+- [Leben In Pianello Del Lario Arbeiten In Tessin Als Pendler](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-pianello-del-lario-arbeiten-in-tessin-als-pendler/)
 - [Leben In Pollein Arbeiten Wallis Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-pollein-arbeiten-wallis-grenzgaenger/)
 - [Leben In Porlezza Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-porlezza-arbeiten-im-tessin/)
 - [Leben In Porlezza Und Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-porlezza-und-arbeiten-in-ticino-als-frontalier/)
@@ -4043,7 +4045,6 @@
 - [Page 21](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-21/)
 - [Page 22](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-22/)
 - [Page 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-23/)
-- [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -4678,7 +4679,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2228 pages)
+### Other Pages (2232 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5327,6 +5328,8 @@
 - [Entwicklung Grenzgaenger Schweizer Daten](https://frontaliereticino.ch/de/schweiz-artikel/entwicklung-grenzgaenger-schweizer-daten/)
 - [Epfl Forschung Mini Drohnen Schallwellen](https://frontaliereticino.ch/de/schweiz-artikel/epfl-forschung-mini-drohnen-schallwellen/)
 - [Erbschaft Grenzgaenger Schweizer Konto](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-grenzgaenger-schweizer-konto/)
+- [Erbschaft Schenkung Wallis Anleitung](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-schenkung-wallis-anleitung/)
+- [Erbschaft Schenkung Wallis Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-schenkung-wallis-leitfaden/)
 - [Erbschaft Schenkung Zuerich Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-schenkung-zuerich-leitfaden/)
 - [Erbschaft Schenkungssteuer Kanton Waadt](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-schenkungssteuer-kanton-waadt/)
 - [Erbschaft Und Schenkung Steuern Basel Stadt](https://frontaliereticino.ch/de/schweiz-artikel/erbschaft-und-schenkung-steuern-basel-stadt/)
@@ -5346,6 +5349,7 @@
 - [Erbschaftssteuer Schenkungssteuer Luzern Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-schenkungssteuer-luzern-leitfaden/)
 - [Erbschaftssteuer Spendenbeschwerdung Kanton Svitto](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-spendenbeschwerdung-kanton-svitto/)
 - [Erbschaftssteuer Und Schenkungssteuer Kanton Zuerich Satz](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-und-schenkungssteuer-kanton-zuerich-satz/)
+- [Erbschaftssteuer Wallis Erklaerung](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-wallis-erklaerung/)
 - [Erbschaftssteuer Zuerich Saetze](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-zuerich-saetze/)
 - [Erbschaftsteuer Appenzell](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftsteuer-appenzell/)
 - [Erbschaftsteuer Donationen Appenzell Innerrhoden](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftsteuer-donationen-appenzell-innerrhoden/)
@@ -6332,6 +6336,7 @@
 - [Schweiz Italien Steuerabkommen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-italien-steuerabkommen/)
 - [Schweiz Italien Steuerliches Treffen Rom](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-italien-steuerliches-treffen-rom/)
 - [Schweiz Mietwohnungen Markt 2026 Kanton San Gallo](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-mietwohnungen-markt-2026-kanton-san-gallo/)
+- [Schweiz Multipolare Welt](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-multipolare-welt/)
 - [Schweiz Neutralita Jja](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-neutralita-jja/)
 - [Schweiz Neutralitaet Abstimmung September](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-neutralitaet-abstimmung-september/)
 - [Schweiz Neutralitaet Abstimmung September Amato](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-neutralitaet-abstimmung-september-amato/)
