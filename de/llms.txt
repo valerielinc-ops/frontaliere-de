@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6845 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6853 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3922 pages)
+### Blog Articles (3925 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1315,6 +1315,7 @@
 - [Cocquio Trevisago Grenzgaenger Tessin Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/cocquio-trevisago-grenzgaenger-tessin-leitfaden/)
 - [Code Nicht Nur Auf Der Autobahn](https://frontaliereticino.ch/de/grenzgaenger-artikel/code-nicht-nur-auf-der-autobahn/)
 - [Cof Lanzo Handhygiene 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/cof-lanzo-handhygiene-2026/)
+- [Colacem Nachhaltigkeit 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/colacem-nachhaltigkeit-2025/)
 - [Coldiretti Brenner Made In Italy 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/coldiretti-brenner-made-in-italy-2026/)
 - [Coldiretti Varese Alarm](https://frontaliereticino.ch/de/grenzgaenger-artikel/coldiretti-varese-alarm/)
 - [Com Firmen Arbeit Como](https://frontaliereticino.ch/de/grenzgaenger-artikel/com-firmen-arbeit-como/)
@@ -1970,6 +1971,7 @@
 - [Girometta Doro Andrea Chiodi Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/girometta-doro-andrea-chiodi-varese-2026/)
 - [Giubiasco Pfad Qui Allora 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/giubiasco-pfad-qui-allora-2026/)
 - [Giubiasco Viale Olgiati Nachtarbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/giubiasco-viale-olgiati-nachtarbeiten/)
+- [Giussano Como Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/giussano-como-tessin-grenzgaenger/)
 - [Glarona Autofreie Sonntage Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/glarona-autofreie-sonntage-tessin-grenzgaenger/)
 - [Glaubige Verlangen Klare Stellungnahme Dioezese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/glaubige-verlangen-klare-stellungnahme-dioezese-2026/)
 - [Globalisten Flucht Aus Dem Mittleren Osten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/globalisten-flucht-aus-dem-mittleren-osten-tessin/)
@@ -2758,6 +2760,7 @@
 - [Leben Solbiate Grenzgaenger Praxisleitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-solbiate-grenzgaenger-praxisleitfaden/)
 - [Leben Sormano Arbeiten Tessin Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-sormano-arbeiten-tessin-frontalier/)
 - [Leben Spriana Graubuenden Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-spriana-graubuenden-grenzgaenger/)
+- [Leben Sumirago Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-sumirago-grenzgaenger/)
 - [Leben Trasquera Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-trasquera-arbeiten-tessin/)
 - [Leben Valbondione Arbeiten Graubunden Grenzganger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-valbondione-arbeiten-graubunden-grenzganger/)
 - [Leben Valpelline Arbeiten Wallis](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-valpelline-arbeiten-wallis/)
@@ -3974,7 +3977,6 @@
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
-- [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-4/)
 - [Gesundheit Krankenkasse](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-11/)
@@ -4041,6 +4043,7 @@
 - [Page 21](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-21/)
 - [Page 22](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-22/)
 - [Page 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-23/)
+- [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -4675,7 +4678,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2223 pages)
+### Other Pages (2228 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5133,6 +5136,7 @@
 - [Betrieb Eroffnen Kanton Schwyz Registrierung Handel Kosten](https://frontaliereticino.ch/de/schweiz-artikel/betrieb-eroffnen-kanton-schwyz-registrierung-handel-kosten/)
 - [Betrieb Eroffnen Schaffhausen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/betrieb-eroffnen-schaffhausen-verfahren/)
 - [Betrieb Eroffnen Schwyz Kosten](https://frontaliereticino.ch/de/schweiz-artikel/betrieb-eroffnen-schwyz-kosten/)
+- [Betrieb Eroffnen Wallis Handelsregister](https://frontaliereticino.ch/de/schweiz-artikel/betrieb-eroffnen-wallis-handelsregister/)
 - [Betrieb Gruendung Graubuenden Handelsregister](https://frontaliereticino.ch/de/schweiz-artikel/betrieb-gruendung-graubuenden-handelsregister/)
 - [Betriebliche Ausbildung Prioritaet](https://frontaliereticino.ch/de/schweiz-artikel/betriebliche-ausbildung-prioritaet/)
 - [Bevoelkerungswarnungen Cell Broadcast](https://frontaliereticino.ch/de/schweiz-artikel/bevoelkerungswarnungen-cell-broadcast/)
@@ -5336,6 +5340,7 @@
 - [Erbschafts Und Schenkungssteuern Im Kanton Uri](https://frontaliereticino.ch/de/schweiz-artikel/erbschafts-und-schenkungssteuern-im-kanton-uri/)
 - [Erbschafts Und Schenkungsteuer Kanton Nidvaldo Satze](https://frontaliereticino.ch/de/schweiz-artikel/erbschafts-und-schenkungsteuer-kanton-nidvaldo-satze/)
 - [Erbschaftssteuer Basel Stadt](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-basel-stadt/)
+- [Erbschaftssteuer Donationen Kanton Wallis Saetze](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-donationen-kanton-wallis-saetze/)
 - [Erbschaftssteuer Kanton Zug Saetze](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-kanton-zug-saetze/)
 - [Erbschaftssteuer Schenkungssteuer Kanton Glarus](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-schenkungssteuer-kanton-glarus/)
 - [Erbschaftssteuer Schenkungssteuer Luzern Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/erbschaftssteuer-schenkungssteuer-luzern-leitfaden/)
@@ -6133,6 +6138,7 @@
 - [Oeffentliche Verkehrsmittel Kanton Solothurn Fahrkarten](https://frontaliereticino.ch/de/schweiz-artikel/oeffentliche-verkehrsmittel-kanton-solothurn-fahrkarten/)
 - [Oeffentlicher Nahverkehr Gewalt Sev](https://frontaliereticino.ch/de/schweiz-artikel/oeffentlicher-nahverkehr-gewalt-sev/)
 - [Oeffentlicher Verkehr Glauis](https://frontaliereticino.ch/de/schweiz-artikel/oeffentlicher-verkehr-glauis/)
+- [Oeffentlicher Verkehr Wallis Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/oeffentlicher-verkehr-wallis-leitfaden/)
 - [Oeffentlicher Verkehrspflicht Zur Akzeptierung Von Baremid](https://frontaliereticino.ch/de/schweiz-artikel/oeffentlicher-verkehrspflicht-zur-akzeptierung-von-baremid/)
 - [Oeffentliches Budget 2025 Ueberschuss](https://frontaliereticino.ch/de/schweiz-artikel/oeffentliches-budget-2025-ueberschuss/)
 - [Oev Abonnemente Kanton Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/oev-abonnemente-kanton-schwyz/)
@@ -6622,6 +6628,7 @@
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-5/)
+- [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-6/)
 - [Grenze Und Zoll](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/page-2/)
 - [Loehne](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/)
@@ -6691,6 +6698,7 @@
 - [Udc Referendum Eu Abkommen](https://frontaliereticino.ch/de/schweiz-artikel/udc-referendum-eu-abkommen/)
 - [Uhr Export 2026 Vorsicht Maerkte](https://frontaliereticino.ch/de/schweiz-artikel/uhr-export-2026-vorsicht-maerkte/)
 - [Uhrenexporte Fh Vorsicht 2026](https://frontaliereticino.ch/de/schweiz-artikel/uhrenexporte-fh-vorsicht-2026/)
+- [Umwandlung Fuehrerschein Wallis](https://frontaliereticino.ch/de/schweiz-artikel/umwandlung-fuehrerschein-wallis/)
 - [Un Sanktionen 2026](https://frontaliereticino.ch/de/schweiz-artikel/un-sanktionen-2026/)
 - [Un Sanktionen 2026 Aktualisierung](https://frontaliereticino.ch/de/schweiz-artikel/un-sanktionen-2026-aktualisierung/)
 - [Unabhaengigkeit Schweiz Sicherheit](https://frontaliereticino.ch/de/schweiz-artikel/unabhaengigkeit-schweiz-sicherheit/)
