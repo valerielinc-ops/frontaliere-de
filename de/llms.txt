@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6865 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6871 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3928 pages)
+### Blog Articles (3929 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2348,6 +2348,7 @@
 - [In Turate Wohnen Und In Tessin Als Grenzgaenger Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-turate-wohnen-und-in-tessin-als-grenzgaenger-arbeiten/)
 - [In Valbrona Leben Im Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-valbrona-leben-im-tessin-arbeiten-grenzgaenger/)
 - [In Valganna Leben Im Tessin Als Grenzgaenger Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-valganna-leben-im-tessin-als-grenzgaenger-arbeiten/)
+- [In Valmadrera Wohnen Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-valmadrera-wohnen-tessin-arbeiten-grenzgaenger/)
 - [In Varano Borghi Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-varano-borghi-arbeiten-tessin/)
 - [In Veduggio Leben Grenzgaenger Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-veduggio-leben-grenzgaenger-ticino/)
 - [In Vergiate Wohnen Tessin Arbeiten Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/in-vergiate-wohnen-tessin-arbeiten-grenzgaenger/)
@@ -4681,7 +4682,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2237 pages)
+### Other Pages (2242 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5293,6 +5294,7 @@
 - [Ein Jahr Nach Dem Us Zollschock Schweizer Exporteure Unsicher](https://frontaliereticino.ch/de/schweiz-artikel/ein-jahr-nach-dem-us-zollschock-schweizer-exporteure-unsicher/)
 - [Ein Unternehmen Im Kanton Uri Registrieren Und Kosten](https://frontaliereticino.ch/de/schweiz-artikel/ein-unternehmen-im-kanton-uri-registrieren-und-kosten/)
 - [Ein Untersnehmen In Glarus Eroffnen](https://frontaliereticino.ch/de/schweiz-artikel/ein-untersnehmen-in-glarus-eroffnen/)
+- [Einbuergerung Appenzell Ausserrhoden Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-appenzell-ausserrhoden-anforderungen-verfahren/)
 - [Einbuergerung Appenzell Innerrhoden Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-appenzell-innerrhoden-verfahren/)
 - [Einbuergerung Basel Landschaft Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-basel-landschaft-anforderungen-verfahren/)
 - [Einbuergerung Freiburg Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-freiburg-anforderungen-verfahren/)
@@ -6008,6 +6010,7 @@
 - [Lohne Arbeitsmarkt Freiburg Sektoren Niveaus](https://frontaliereticino.ch/de/schweiz-artikel/lohne-arbeitsmarkt-freiburg-sektoren-niveaus/)
 - [Lohne Arbeitsmarkt Kanton Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/lohne-arbeitsmarkt-kanton-schwyz/)
 - [Lohne Arbeitsmarkt Soletta Sektoren](https://frontaliereticino.ch/de/schweiz-artikel/lohne-arbeitsmarkt-soletta-sektoren/)
+- [Lohne Schweiz Sektoren Bildung Kollektivvertraege](https://frontaliereticino.ch/de/schweiz-artikel/lohne-schweiz-sektoren-bildung-kollektivvertraege/)
 - [Lohne Und Arbeitsmarkt In Uri Wer Beschaftigt Und Tarifvertrage](https://frontaliereticino.ch/de/schweiz-artikel/lohne-und-arbeitsmarkt-in-uri-wer-beschaftigt-und-tarifvertrage/)
 - [Lohngefalle Ust 2024 Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/lohngefalle-ust-2024-schweiz/)
 - [Lohnluecke Geschlecht August 2026](https://frontaliereticino.ch/de/schweiz-artikel/lohnluecke-geschlecht-august-2026/)
@@ -6114,6 +6117,7 @@
 - [Ndrangheta Prozess Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/ndrangheta-prozess-schweiz/)
 - [Nebenjob Teilzeit Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/nebenjob-teilzeit-grenzgaenger/)
 - [Neu Im Schweiz Ccl Fur Bodenpersonal](https://frontaliereticino.ch/de/schweiz-artikel/neu-im-schweiz-ccl-fur-bodenpersonal/)
+- [Neuchatel Stipendien Voraussetzungen Betrage](https://frontaliereticino.ch/de/schweiz-artikel/neuchatel-stipendien-voraussetzungen-betrage/)
 - [Neue Benachrichtigung Uber Die Einstellung Der Ermittlungen Des Sisi](https://frontaliereticino.ch/de/schweiz-artikel/neue-benachrichtigung-uber-die-einstellung-der-ermittlungen-des-sisi/)
 - [Neue Eurovision Sicherheitsregeln](https://frontaliereticino.ch/de/schweiz-artikel/neue-eurovision-sicherheitsregeln/)
 - [Neue Grenzpendler Immer Armer](https://frontaliereticino.ch/de/schweiz-artikel/neue-grenzpendler-immer-armer/)
@@ -6297,6 +6301,7 @@
 - [Sbb Fahrpreiserhoehung Wyss](https://frontaliereticino.ch/de/schweiz-artikel/sbb-fahrpreiserhoehung-wyss/)
 - [Sbb Wachstum Erstes Halbjahr 2026](https://frontaliereticino.ch/de/schweiz-artikel/sbb-wachstum-erstes-halbjahr-2026/)
 - [Sbt Finanzen Umweltkonferenz](https://frontaliereticino.ch/de/schweiz-artikel/sbt-finanzen-umweltkonferenz/)
+- [Schaffhausen Arbeit Kollektivvertrage](https://frontaliereticino.ch/de/schweiz-artikel/schaffhausen-arbeit-kollektivvertrage/)
 - [Schaffhausen Aufenthaltsgenehmigung Kategorie B](https://frontaliereticino.ch/de/schweiz-artikel/schaffhausen-aufenthaltsgenehmigung-kategorie-b/)
 - [Schaffhausen Erbschaft Schenkungsteuer Saetze](https://frontaliereticino.ch/de/schweiz-artikel/schaffhausen-erbschaft-schenkungsteuer-saetze/)
 - [Schaffhausen Mietkaution Nebenkosten](https://frontaliereticino.ch/de/schweiz-artikel/schaffhausen-mietkaution-nebenkosten/)
@@ -6626,6 +6631,7 @@
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-7/)
+- [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-8/)
 - [Franken Und Preise](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-3/)
@@ -6656,7 +6662,6 @@
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/renten-ahv-bvg/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/renten-ahv-bvg/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/renten-ahv-bvg/page-6/)
-- [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/renten-ahv-bvg/page-7/)
 - [Sicherheit Und Kriminalitaet](https://frontaliereticino.ch/de/schweiz-artikel/themen/sicherheit-und-kriminalitaet/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/sicherheit-und-kriminalitaet/page-2/)
 - [Steuern](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/)
@@ -6666,6 +6671,7 @@
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-7/)
+- [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/page-8/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/verkehr-und-transport/page-3/)
