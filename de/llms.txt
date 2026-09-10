@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7082 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7083 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4731,7 +4731,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2404 pages)
+### Other Pages (2405 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5469,6 +5469,7 @@
 - [Eu Ueberwachung Ai Act](https://frontaliereticino.ch/de/schweiz-artikel/eu-ueberwachung-ai-act/)
 - [Experiment Materie Dunkelheit Unter Sedrun](https://frontaliereticino.ch/de/schweiz-artikel/experiment-materie-dunkelheit-unter-sedrun/)
 - [Extreme Hitze Baustellen Strafen Ssic](https://frontaliereticino.ch/de/schweiz-artikel/extreme-hitze-baustellen-strafen-ssic/)
+- [F 35 Amherd Verjaehrung Verantwortung](https://frontaliereticino.ch/de/schweiz-artikel/f-35-amherd-verjaehrung-verantwortung/)
 - [F35 Kampfflugzeuge Kommission Amherd](https://frontaliereticino.ch/de/schweiz-artikel/f35-kampfflugzeuge-kommission-amherd/)
 - [F35a Kein Festpreis Vereinbart](https://frontaliereticino.ch/de/schweiz-artikel/f35a-kein-festpreis-vereinbart/)
 - [Facharzt Abrechnungen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/facharzt-abrechnungen-schweiz/)
