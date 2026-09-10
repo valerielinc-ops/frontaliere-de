@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7085 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7086 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3979 pages)
+### Blog Articles (3980 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -4375,6 +4375,7 @@
 - [Usi Supsi 25 Millionen Kuerzungen Krankenversicherung Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/usi-supsi-25-millionen-kuerzungen-krankenversicherung-tessin/)
 - [Usi Supsi Petition 500 Unterschriften](https://frontaliereticino.ch/de/grenzgaenger-artikel/usi-supsi-petition-500-unterschriften/)
 - [Usi Tessin Budgetkurzungen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/usi-tessin-budgetkurzungen-2026/)
+- [Uss Mindestlohn 2027](https://frontaliereticino.ch/de/grenzgaenger-artikel/uss-mindestlohn-2027/)
 - [Ust Neuchatel Telearbeit 300 Mitarbeiter](https://frontaliereticino.ch/de/grenzgaenger-artikel/ust-neuchatel-telearbeit-300-mitarbeiter/)
 - [Ustat Wartung Und Weihnachts Service Schliessungen 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/ustat-wartung-und-weihnachts-service-schliessungen-2025/)
 - [Vacallo Grenze Illegale Ubergange 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/vacallo-grenze-illegale-ubergange-2026/)
