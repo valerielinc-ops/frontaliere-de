@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7076 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7082 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3977 pages)
+### Blog Articles (3978 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -4530,6 +4530,7 @@
 - [Wasser Notstand Lombardei 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/wasser-notstand-lombardei-2026/)
 - [Wasserkosten Mendrisiotto Tarif Erhoehung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/wasserkosten-mendrisiotto-tarif-erhoehung-2026/)
 - [Wasserkraftwerk Grono Aktiv](https://frontaliereticino.ch/de/grenzgaenger-artikel/wasserkraftwerk-grono-aktiv/)
+- [Wasserkraftwerk Ritom Explosion Gotthardlinie](https://frontaliereticino.ch/de/grenzgaenger-artikel/wasserkraftwerk-ritom-explosion-gotthardlinie/)
 - [Wassermelonen Panels Feuerschutz Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/wassermelonen-panels-feuerschutz-tessin-2026/)
 - [Wasserverbrauch Warnung Magliaso](https://frontaliereticino.ch/de/grenzgaenger-artikel/wasserverbrauch-warnung-magliaso/)
 - [Webinar Ki Unternehmen Strategie Fallstudien](https://frontaliereticino.ch/de/grenzgaenger-artikel/webinar-ki-unternehmen-strategie-fallstudien/)
@@ -4730,12 +4731,13 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2399 pages)
+### Other Pages (2404 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano/)
 - [Arbeit Tessin Arbeiter](https://frontaliereticino.ch/de/arbeit-tessin-arbeiter/)
+- [Arbeit Tessin Architekt](https://frontaliereticino.ch/de/arbeit-tessin-architekt/)
 - [Arbeit Tessin Buchhalter](https://frontaliereticino.ch/de/arbeit-tessin-buchhalter/)
 - [Arbeit Tessin Elektriker](https://frontaliereticino.ch/de/arbeit-tessin-elektriker/)
 - [Arbeit Tessin Erzieher](https://frontaliereticino.ch/de/arbeit-tessin-erzieher/)
@@ -5620,6 +5622,7 @@
 - [Geburtenraten Finanzpolitik Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/geburtenraten-finanzpolitik-schweiz/)
 - [Gehaelter Arbeitsmarkt Kanton Zuerich](https://frontaliereticino.ch/de/schweiz-artikel/gehaelter-arbeitsmarkt-kanton-zuerich/)
 - [Gehaelter Arbeitsmarkt Solothurn Bildung](https://frontaliereticino.ch/de/schweiz-artikel/gehaelter-arbeitsmarkt-solothurn-bildung/)
+- [Gehaelter Arbeitsmarkt Turgovia Sektoren Niveaus](https://frontaliereticino.ch/de/schweiz-artikel/gehaelter-arbeitsmarkt-turgovia-sektoren-niveaus/)
 - [Gehaelter Radiologen Bonus Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/gehaelter-radiologen-bonus-schweiz/)
 - [Gehalt Differenzen Praktika Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/gehalt-differenzen-praktika-schweiz/)
 - [Gehalt Grenzgaenger 6250 Monat](https://frontaliereticino.ch/de/schweiz-artikel/gehalt-grenzgaenger-6250-monat/)
@@ -6019,6 +6022,7 @@
 - [Krankenversicherungspraemien Schaffhausen](https://frontaliereticino.ch/de/schweiz-artikel/krankenversicherungspraemien-schaffhausen/)
 - [Krankenversicherungspramien Appenzello Interno Reduktion](https://frontaliereticino.ch/de/schweiz-artikel/krankenversicherungspramien-appenzello-interno-reduktion/)
 - [Krankenversicherungspramien Luzern](https://frontaliereticino.ch/de/schweiz-artikel/krankenversicherungspramien-luzern/)
+- [Krankenversicherungspramien St Gallen Reduktion](https://frontaliereticino.ch/de/schweiz-artikel/krankenversicherungspramien-st-gallen-reduktion/)
 - [Kreditkarte Offline Zahlungen 2027](https://frontaliereticino.ch/de/schweiz-artikel/kreditkarte-offline-zahlungen-2027/)
 - [Kremlin Abstimmung Neutralitaet Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/kremlin-abstimmung-neutralitaet-schweiz/)
 - [Kreuzungsbahnhof Arbeiten Settembre](https://frontaliereticino.ch/de/schweiz-artikel/kreuzungsbahnhof-arbeiten-settembre/)
@@ -6429,6 +6433,7 @@
 - [Reno Zu Mindestpreisen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/reno-zu-mindestpreisen-schweiz/)
 - [Rente Berechnung Grenzgaenger Avs Italienisch](https://frontaliereticino.ch/de/schweiz-artikel/rente-berechnung-grenzgaenger-avs-italienisch/)
 - [Rentenberechnung Grenzgaenger Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/rentenberechnung-grenzgaenger-schweiz/)
+- [Reorganisation Ausserparlamentarischer Kommissionen](https://frontaliereticino.ch/de/schweiz-artikel/reorganisation-ausserparlamentarischer-kommissionen/)
 - [Reri Moneypark Ruckgang Drei Jahre](https://frontaliereticino.ch/de/schweiz-artikel/reri-moneypark-ruckgang-drei-jahre/)
 - [Rhein Duerre Schweizer Wirtschaft](https://frontaliereticino.ch/de/schweiz-artikel/rhein-duerre-schweizer-wirtschaft/)
 - [Rhein Schiffbarkeit Zukunft Alarm](https://frontaliereticino.ch/de/schweiz-artikel/rhein-schiffbarkeit-zukunft-alarm/)
@@ -6503,6 +6508,7 @@
 - [Schweiz Inflation Snb Zinsen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-inflation-snb-zinsen/)
 - [Schweiz Italien Steuerabkommen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-italien-steuerabkommen/)
 - [Schweiz Italien Steuerliches Treffen Rom](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-italien-steuerliches-treffen-rom/)
+- [Schweiz Korruption Rueckerstattung Banken](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-korruption-rueckerstattung-banken/)
 - [Schweiz Mietwohnungen Markt 2026 Kanton San Gallo](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-mietwohnungen-markt-2026-kanton-san-gallo/)
 - [Schweiz Moskau Ziel Militaer](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-moskau-ziel-militaer/)
 - [Schweiz Multipolare Welt](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-multipolare-welt/)
