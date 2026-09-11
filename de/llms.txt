@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7086 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7095 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3980 pages)
+### Blog Articles (3982 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1719,6 +1719,7 @@
 - [Finanzkontrolle Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/finanzkontrolle-tessin-2026/)
 - [Finanzkontrollen Comasco 226 Personen](https://frontaliereticino.ch/de/grenzgaenger-artikel/finanzkontrollen-comasco-226-personen/)
 - [Finanzwache Como Kraftstoff 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/finanzwache-como-kraftstoff-2026/)
+- [Fino Mornasco Grenzgaenger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/fino-mornasco-grenzgaenger-tessin/)
 - [Fiorenzo Dado Le Sue Tre P E Gli Statali Nella Morsa Politica](https://frontaliereticino.ch/de/grenzgaenger-artikel/fiorenzo-dado-le-sue-tre-p-e-gli-statali-nella-morsa-politica/)
 - [Fischsaison Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/fischsaison-tessin/)
 - [Fischsterben Berneck 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fischsterben-berneck-2026/)
@@ -4090,7 +4091,6 @@
 - [Page 21](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-21/)
 - [Page 22](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-22/)
 - [Page 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-23/)
-- [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -4099,6 +4099,7 @@
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-8/)
 - [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-9/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/)
+- [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-10/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-4/)
@@ -4228,6 +4229,7 @@
 - [Trend Frontalieri Ticino 2026 Q2](https://frontaliereticino.ch/de/grenzgaenger-artikel/trend-frontalieri-ticino-2026-q2/)
 - [Trennungen Tessin Einelternfamilien](https://frontaliereticino.ch/de/grenzgaenger-artikel/trennungen-tessin-einelternfamilien/)
 - [Trenord Ausfaelle 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/trenord-ausfaelle-2026/)
+- [Trenord Como Mailand Zusatzzuge 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/trenord-como-mailand-zusatzzuge-2025/)
 - [Trenord Entschaedigung Pendler Como 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/trenord-entschaedigung-pendler-como-2026/)
 - [Trenord Kupferdiebstahl Como Mailand](https://frontaliereticino.ch/de/grenzgaenger-artikel/trenord-kupferdiebstahl-como-mailand/)
 - [Trenord Preiserhoehung 388 Tessin Linien](https://frontaliereticino.ch/de/grenzgaenger-artikel/trenord-preiserhoehung-388-tessin-linien/)
@@ -4733,7 +4735,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2406 pages)
+### Other Pages (2413 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5058,6 +5060,8 @@
 - [Aufenthaltsbewilligung B Appenzello Interno Anforderungen Verlangerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-appenzello-interno-anforderungen-verlangerung/)
 - [Aufenthaltsbewilligung B Bern Voraussetzungen Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-bern-voraussetzungen-verlaengerung/)
 - [Aufenthaltsbewilligung B Im Kanton Nidwalden Voraussetzungen Und Verlangerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-im-kanton-nidwalden-voraussetzungen-und-verlangerung/)
+- [Aufenthaltsbewilligung B Jura](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-jura/)
+- [Aufenthaltsbewilligung B Jura Anforderungen Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-jura-anforderungen-verlaengerung/)
 - [Aufenthaltsbewilligung B Kanton Genf Anforderungen Erneuerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-kanton-genf-anforderungen-erneuerung/)
 - [Aufenthaltsbewilligung B Kanton Thurgau Voraussetzungen Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-kanton-thurgau-voraussetzungen-verlaengerung/)
 - [Aufenthaltsbewilligung B Kanton Uri Voraussetzungen](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-kanton-uri-voraussetzungen/)
@@ -5468,6 +5472,7 @@
 - [Essen Swiss Italien Frontalier Arbeiter](https://frontaliereticino.ch/de/schweiz-artikel/essen-swiss-italien-frontalier-arbeiter/)
 - [Estetista Frontaliere Ticino Stipendio Requisiti](https://frontaliereticino.ch/de/schweiz-artikel/estetista-frontaliere-ticino-stipendio-requisiti/)
 - [Ethos Ceo Gehalt Nachhaltigkeit](https://frontaliereticino.ch/de/schweiz-artikel/ethos-ceo-gehalt-nachhaltigkeit/)
+- [Eu Kommission Genehmigt Schweiz Abkommen](https://frontaliereticino.ch/de/schweiz-artikel/eu-kommission-genehmigt-schweiz-abkommen/)
 - [Eu Ueberwachung Ai Act](https://frontaliereticino.ch/de/schweiz-artikel/eu-ueberwachung-ai-act/)
 - [Experiment Materie Dunkelheit Unter Sedrun](https://frontaliereticino.ch/de/schweiz-artikel/experiment-materie-dunkelheit-unter-sedrun/)
 - [Extreme Hitze Baustellen Strafen Ssic](https://frontaliereticino.ch/de/schweiz-artikel/extreme-hitze-baustellen-strafen-ssic/)
@@ -5905,6 +5910,7 @@
 - [Jugendarbeitslosigkeit Schweiz August 2023](https://frontaliereticino.ch/de/schweiz-artikel/jugendarbeitslosigkeit-schweiz-august-2023/)
 - [Junge Tat Prozess Zurich](https://frontaliereticino.ch/de/schweiz-artikel/junge-tat-prozess-zurich/)
 - [Juni Hotelbuchungen Ruckgang](https://frontaliereticino.ch/de/schweiz-artikel/juni-hotelbuchungen-ruckgang/)
+- [Jura Kantonssteuer Saetze Abzuege](https://frontaliereticino.ch/de/schweiz-artikel/jura-kantonssteuer-saetze-abzuege/)
 - [Kaffeefrosch In Kosta Rica Entdeckt](https://frontaliereticino.ch/de/schweiz-artikel/kaffeefrosch-in-kosta-rica-entdeckt/)
 - [Kagi Chef Export Schwierigkeiten](https://frontaliereticino.ch/de/schweiz-artikel/kagi-chef-export-schwierigkeiten/)
 - [Kampf Gegen Schwarzarbeit Konsultation](https://frontaliereticino.ch/de/schweiz-artikel/kampf-gegen-schwarzarbeit-konsultation/)
@@ -6009,6 +6015,7 @@
 - [Krankenkasse Praemien Graubuenden](https://frontaliereticino.ch/de/schweiz-artikel/krankenkasse-praemien-graubuenden/)
 - [Krankenkassen Manager Kommission](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassen-manager-kommission/)
 - [Krankenkassen Managerloehne Deckel](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassen-managerloehne-deckel/)
+- [Krankenkassenpraemien Kanton Jura Verbilligungen](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassenpraemien-kanton-jura-verbilligungen/)
 - [Krankenkassenpraemien Schweiz 2026](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassenpraemien-schweiz-2026/)
 - [Krankenkassenpraemien Schwyz](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassenpraemien-schwyz/)
 - [Krankenkassenpraemien Uri Reduktion](https://frontaliereticino.ch/de/schweiz-artikel/krankenkassenpraemien-uri-reduktion/)
@@ -6582,6 +6589,7 @@
 - [Schweizer Hotel Gehaekt](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-hotel-gehaekt/)
 - [Schweizer Hypothekenmarkt Rekord 2025](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-hypothekenmarkt-rekord-2025/)
 - [Schweizer Immobilien Bubble Risiko 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-immobilien-bubble-risiko-2026/)
+- [Schweizer Investition Usa Lonza](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-investition-usa-lonza/)
 - [Schweizer Kantonalsteuer Vergleich](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-kantonalsteuer-vergleich/)
 - [Schweizer Kantonsteuern Satze Abzuge](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-kantonsteuern-satze-abzuge/)
 - [Schweizer Kernkraftwerk Kosten 14 43 Milliarden](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-kernkraftwerk-kosten-14-43-milliarden/)
@@ -6804,6 +6812,7 @@
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-9/)
 - [Arbeit Und Beschaeftigung](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-3/)
