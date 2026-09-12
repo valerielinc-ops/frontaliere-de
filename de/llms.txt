@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7098 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7100 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3984 pages)
+### Blog Articles (3985 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -989,6 +989,7 @@
 - [Avis Lombardei Blutspende Privat 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/avis-lombardei-blutspende-privat-2026/)
 - [Avs 13 Parlament Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-13-parlament-grenzgaenger/)
 - [Avs 2030 Grenzganger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-2030-grenzganger-tessin/)
+- [Avs 2030 Rentenreform](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-2030-rentenreform/)
 - [Avs Ai Finanzielle Schwierigkeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-ai-finanzielle-schwierigkeiten/)
 - [Avs Ai Finanzprognosen Verschlechtern Sich](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-ai-finanzprognosen-verschlechtern-sich/)
 - [Avs Ausgleichskasse Betrug Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/avs-ausgleichskasse-betrug-ticino/)
@@ -4737,7 +4738,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2414 pages)
+### Other Pages (2415 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5043,6 +5044,7 @@
 - [Arzt Innere Intensivmedizin Eoc](https://frontaliereticino.ch/de/schweiz-artikel/arzt-innere-intensivmedizin-eoc/)
 - [Arzte Mangel Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/arzte-mangel-schweiz/)
 - [Asb Schweizer Banken Wachstum 2026](https://frontaliereticino.ch/de/schweiz-artikel/asb-schweizer-banken-wachstum-2026/)
+- [Asib Bank Gehaltsforderungen](https://frontaliereticino.ch/de/schweiz-artikel/asib-bank-gehaltsforderungen/)
 - [Asib Ubs Regulierung Unterstuetzung](https://frontaliereticino.ch/de/schweiz-artikel/asib-ubs-regulierung-unterstuetzung/)
 - [Asilo Nido Custodia Bambini Canton Svitto Kosten](https://frontaliereticino.ch/de/schweiz-artikel/asilo-nido-custodia-bambini-canton-svitto-kosten/)
 - [Asilo Nido Custodia Friburgo Kosten](https://frontaliereticino.ch/de/schweiz-artikel/asilo-nido-custodia-friburgo-kosten/)
