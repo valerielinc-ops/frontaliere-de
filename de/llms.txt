@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7118 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7121 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3993 pages)
+### Blog Articles (3995 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1081,6 +1081,7 @@
 - [Benzin Inflation Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-inflation-schweiz-2026/)
 - [Benzin Preise Ticino MäRz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-preise-ticino-märz-2026/)
 - [Benzin Rabatt Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-rabatt-tessin/)
+- [Benzin Reserven Schweiz Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-reserven-schweiz-grenzgaenger/)
 - [Benzin Tessin Mittelosten](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-tessin-mittelosten/)
 - [Benzin Ticino Beschlusse](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-ticino-beschlusse/)
 - [Benzinkosten Tessin Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzinkosten-tessin-grenzgaenger-2026/)
@@ -2126,6 +2127,7 @@
 - [Grenzgaenger Tagesbulletin 2026 09 08](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-08/)
 - [Grenzgaenger Tagesbulletin 2026 09 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-10/)
 - [Grenzgaenger Tagesbulletin 2026 09 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-11/)
+- [Grenzgaenger Tagesbulletin 2026 09 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-12/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
@@ -4746,7 +4748,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2425 pages)
+### Other Pages (2426 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5404,6 +5406,7 @@
 - [Einbuergerung Freiburg Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-freiburg-anforderungen-verfahren/)
 - [Einbuergerung Kanton Aargau Voraussetzungen Und Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-kanton-aargau-voraussetzungen-und-verfahren/)
 - [Einbuergerung Kanton Obwalden Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-kanton-obwalden-leitfaden/)
+- [Einbuergerung Kanton Sankt Gallen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-kanton-sankt-gallen-verfahren/)
 - [Einbuergerung Kanton Wallis Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-kanton-wallis-anforderungen-verfahren/)
 - [Einbuergerung Kanton Zug Voraussetzungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-kanton-zug-voraussetzungen-verfahren/)
 - [Einbuergerung Luzern Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einbuergerung-luzern-verfahren/)
@@ -7152,6 +7155,7 @@
 - [Juni 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/juni-2026/)
 - [Maerz 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/maerz-2026/)
 - [Mai 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/mai-2026/)
+- [Woche 25 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-25-2026/)
 - [Woche 26 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-26-2026/)
 - [Woche 27 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-27-2026/)
 - [Woche 28 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-28-2026/)
@@ -7163,7 +7167,6 @@
 - [Woche 34 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-34-2026/)
 - [Woche 35 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-35-2026/)
 - [Woche 36 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-36-2026/)
-- [Woche 37 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-37-2026/)
 - [Tessiner Dialekt](https://frontaliereticino.ch/de/tessiner-dialekt/)
 - [Tfr Abfindung Grenzgaenger Rechner](https://frontaliereticino.ch/de/tfr-abfindung-grenzgaenger-rechner/)
 - [Ueber Uns](https://frontaliereticino.ch/de/ueber-uns/)
