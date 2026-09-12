@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7113 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7118 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (3991 pages)
+### Blog Articles (3993 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1549,6 +1549,7 @@
 - [Einkommen Como 2024 Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/einkommen-como-2024-grenzgaenger/)
 - [Einkommen Varesotti 2024 Luvinate](https://frontaliereticino.ch/de/grenzgaenger-artikel/einkommen-varesotti-2024-luvinate/)
 - [Einspruch Fuehrerschein Arbeit Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/einspruch-fuehrerschein-arbeit-varese-2026/)
+- [Einstellungen Oberes Piemont September 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/einstellungen-oberes-piemont-september-2026/)
 - [Eintritt Schweiz Dokumente Zoll 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/eintritt-schweiz-dokumente-zoll-2026/)
 - [Einwanderungssteuer Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/einwanderungssteuer-grenzgaenger-2026/)
 - [Einweihung Des Parchetto Biumo Via Arconati](https://frontaliereticino.ch/de/grenzgaenger-artikel/einweihung-des-parchetto-biumo-via-arconati/)
@@ -2642,6 +2643,7 @@
 - [Kuchenhilfe Frontalier Ticino Lohn](https://frontaliereticino.ch/de/grenzgaenger-artikel/kuchenhilfe-frontalier-ticino-lohn/)
 - [Kuenstliche Intelligenz Lombardei Tessin Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kuenstliche-intelligenz-lombardei-tessin-grenzgaenger-2026/)
 - [Kuhne Nagel Stellenabbau Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/kuhne-nagel-stellenabbau-tessin-2026/)
+- [Kulturunternehmen Schweiz 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/kulturunternehmen-schweiz-2024/)
 - [Kunstausstellung Geliehene Koerper Agno Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/kunstausstellung-geliehene-koerper-agno-tessin/)
 - [Kunstaustellung Tessin Gefuehl Beobachtung Lac Lugano](https://frontaliereticino.ch/de/grenzgaenger-artikel/kunstaustellung-tessin-gefuehl-beobachtung-lac-lugano/)
 - [Kunstgras Schulen Tessin Gesundheitsrisiken](https://frontaliereticino.ch/de/grenzgaenger-artikel/kunstgras-schulen-tessin-gesundheitsrisiken/)
@@ -2739,6 +2741,7 @@
 - [Leben In Charvensod Arbeiten In Wallis Von Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-charvensod-arbeiten-in-wallis-von-frontalier/)
 - [Leben In Claino Con Osteno Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-claino-con-osteno-arbeiten-im-tessin/)
 - [Leben In Clivio Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-clivio-arbeiten-im-tessin/)
+- [Leben In Cucciago Arbeiten In Ticino Als Grenzarbeiter](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-cucciago-arbeiten-in-ticino-als-grenzarbeiter/)
 - [Leben In Cugliate Fabiasco Und Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-cugliate-fabiasco-und-arbeiten-in-ticino-als-frontalier/)
 - [Leben In Druogno Arbeiten In Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-druogno-arbeiten-in-tessin/)
 - [Leben In Induno Olona Arbeiten In Tessin Pendler](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-induno-olona-arbeiten-in-tessin-pendler/)
@@ -4031,7 +4034,6 @@
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
-- [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-4/)
 - [Gesundheit Krankenkasse](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-11/)
@@ -4744,7 +4746,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2422 pages)
+### Other Pages (2425 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5922,6 +5924,7 @@
 - [Jobsuche Lidl Locarno](https://frontaliereticino.ch/de/schweiz-artikel/jobsuche-lidl-locarno/)
 - [Jobsuche Schweiz Leitfaden 2026](https://frontaliereticino.ch/de/schweiz-artikel/jobsuche-schweiz-leitfaden-2026/)
 - [Jugendarbeitslosigkeit Schweiz August 2023](https://frontaliereticino.ch/de/schweiz-artikel/jugendarbeitslosigkeit-schweiz-august-2023/)
+- [Junge Menschen Tessin Demografie Ustat](https://frontaliereticino.ch/de/schweiz-artikel/junge-menschen-tessin-demografie-ustat/)
 - [Junge Tat Prozess Zurich](https://frontaliereticino.ch/de/schweiz-artikel/junge-tat-prozess-zurich/)
 - [Juni Hotelbuchungen Ruckgang](https://frontaliereticino.ch/de/schweiz-artikel/juni-hotelbuchungen-ruckgang/)
 - [Jura Kantonssteuer Saetze Abzuege](https://frontaliereticino.ch/de/schweiz-artikel/jura-kantonssteuer-saetze-abzuege/)
@@ -6474,6 +6477,7 @@
 - [Rueckkehr In Die Schweiz Ohne Arbeitslosigkeit](https://frontaliereticino.ch/de/schweiz-artikel/rueckkehr-in-die-schweiz-ohne-arbeitslosigkeit/)
 - [Russisch Im Lugano Geduld Ist Gefragt](https://frontaliereticino.ch/de/schweiz-artikel/russisch-im-lugano-geduld-ist-gefragt/)
 - [Sac Huetten Reservierungsgebuehr Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/sac-huetten-reservierungsgebuehr-schweiz/)
+- [Saisonarbeitskraefte Tourismus Wohngeschaefte](https://frontaliereticino.ch/de/schweiz-artikel/saisonarbeitskraefte-tourismus-wohngeschaefte/)
 - [Salario Medio Svizzera Professione](https://frontaliereticino.ch/de/schweiz-artikel/salario-medio-svizzera-professione/)
 - [San Gallen Abonnementsverkehr](https://frontaliereticino.ch/de/schweiz-artikel/san-gallen-abonnementsverkehr/)
 - [Sandoz Biosimilare 2026](https://frontaliereticino.ch/de/schweiz-artikel/sandoz-biosimilare-2026/)
@@ -6732,6 +6736,7 @@
 - [Spoofing Anrufe In Abnahme](https://frontaliereticino.ch/de/schweiz-artikel/spoofing-anrufe-in-abnahme/)
 - [Sprung Pool Niederuzwil Wiederbelebt](https://frontaliereticino.ch/de/schweiz-artikel/sprung-pool-niederuzwil-wiederbelebt/)
 - [Ssr Umfrage Abstimmungen 27 September](https://frontaliereticino.ch/de/schweiz-artikel/ssr-umfrage-abstimmungen-27-september/)
+- [St Gallen Mietmarkt Mieten Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/st-gallen-mietmarkt-mieten-mietrecht/)
 - [Stabio Zoll Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/stabio-zoll-schweiz/)
 - [Stablecoin Franken Operativ Phase](https://frontaliereticino.ch/de/schweiz-artikel/stablecoin-franken-operativ-phase/)
 - [Stadler Rail Freiburg 117 Millionen](https://frontaliereticino.ch/de/schweiz-artikel/stadler-rail-freiburg-117-millionen/)
