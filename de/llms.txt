@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7147 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7157 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -705,7 +705,7 @@
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
 
-### Blog Articles (4007 pages)
+### Blog Articles (4011 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2131,6 +2131,7 @@
 - [Grenzgaenger Tagesbulletin 2026 09 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-10/)
 - [Grenzgaenger Tagesbulletin 2026 09 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-11/)
 - [Grenzgaenger Tagesbulletin 2026 09 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-12/)
+- [Grenzgaenger Tagesbulletin 2026 09 13](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-13/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
@@ -2157,6 +2158,7 @@
 - [Grenzganger Chf Eur Wechselkurs Strategie 2026 Praktische Simulation](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-chf-eur-wechselkurs-strategie-2026-praktische-simulation/)
 - [Grenzganger Doppelarbeit Kameras](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-doppelarbeit-kameras/)
 - [Grenzganger Flexible Arbeitszeiten Wohnsitz](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-flexible-arbeitszeiten-wohnsitz/)
+- [Grenzganger Freibetrag Casalzuigno](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-freibetrag-casalzuigno/)
 - [Grenzganger It Mitarbeiter Schweiz Gehalt Anforderungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-it-mitarbeiter-schweiz-gehalt-anforderungen/)
 - [Grenzganger Kaufmann Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-kaufmann-tessin/)
 - [Grenzganger Kfz Versicherung Schweiz Italien](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzganger-kfz-versicherung-schweiz-italien/)
@@ -2613,6 +2615,7 @@
 - [Krankengeld Lega Anwendbar Sofort](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankengeld-lega-anwendbar-sofort/)
 - [Krankengeld Oder Online Antrag](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankengeld-oder-online-antrag/)
 - [Krankenhaus Como Frontalieri 15 May 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenhaus-como-frontalieri-15-may-2026/)
+- [Krankenhaus Del Ponte Dritter Los](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenhaus-del-ponte-dritter-los/)
 - [Krankenhaus Erba Krebsversorgung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenhaus-erba-krebsversorgung-2026/)
 - [Krankenhaus Niguarda Nationales Krebsinstitut Notfaelle Onkologische Patienten](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenhaus-niguarda-nationales-krebsinstitut-notfaelle-onkologische-patienten/)
 - [Krankenhaus Varese Heisses Wasser Onkologie](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenhaus-varese-heisses-wasser-onkologie/)
@@ -4045,6 +4048,7 @@
 - [Gesundheit Krankenkasse](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-11/)
+- [Page 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-12/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-4/)
@@ -4760,7 +4764,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2440 pages)
+### Other Pages (2446 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4999,6 +5003,7 @@
 - [Ai Verso La Bancarotta Forse Gia Nel 2030](https://frontaliereticino.ch/de/schweiz-artikel/ai-verso-la-bancarotta-forse-gia-nel-2030/)
 - [Aktivitaet Zug Anmeldung Beitraege Pflichten](https://frontaliereticino.ch/de/schweiz-artikel/aktivitaet-zug-anmeldung-beitraege-pflichten/)
 - [Aktualisierung Des Freihandelsabkommens Schweiz Uk](https://frontaliereticino.ch/de/schweiz-artikel/aktualisierung-des-freihandelsabkommens-schweiz-uk/)
+- [Alarm Grenzgaenger Aerzte Tessin](https://frontaliereticino.ch/de/schweiz-artikel/alarm-grenzgaenger-aerzte-tessin/)
 - [Albula Bahn Gesperrt](https://frontaliereticino.ch/de/schweiz-artikel/albula-bahn-gesperrt/)
 - [Alcon Q2 2026 Finanzergebnisse](https://frontaliereticino.ch/de/schweiz-artikel/alcon-q2-2026-finanzergebnisse/)
 - [Alle](https://frontaliereticino.ch/de/schweiz-artikel/alle/)
@@ -5369,6 +5374,7 @@
 - [Die Schweizerische Finanzbranche Untersucht Auf Ihren Klimaeinfluss](https://frontaliereticino.ch/de/schweiz-artikel/die-schweizerische-finanzbranche-untersucht-auf-ihren-klimaeinfluss/)
 - [Die Wohnungswerte Sind Im Merkmal Bei Der Erwaermung Im Merkmal Angekommen](https://frontaliereticino.ch/de/schweiz-artikel/die-wohnungswerte-sind-im-merkmal-bei-der-erwaermung-im-merkmal-angekommen/)
 - [Die Zukunft Der Arbeit](https://frontaliereticino.ch/de/schweiz-artikel/die-zukunft-der-arbeit/)
+- [Diebstahl Medizinische Geraete Rom](https://frontaliereticino.ch/de/schweiz-artikel/diebstahl-medizinische-geraete-rom/)
 - [Dienstleistungssektor Umsatzsteigerung Juni](https://frontaliereticino.ch/de/schweiz-artikel/dienstleistungssektor-umsatzsteigerung-juni/)
 - [Diesel Preise Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/diesel-preise-schweiz/)
 - [Diesel Teuerung Geopolitik Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/diesel-teuerung-geopolitik-schweiz/)
@@ -6373,6 +6379,7 @@
 - [Ordinanz Iran Formulare August](https://frontaliereticino.ch/de/schweiz-artikel/ordinanz-iran-formulare-august/)
 - [Osce Konferenz Berne](https://frontaliereticino.ch/de/schweiz-artikel/osce-konferenz-berne/)
 - [Osce Konferenz Berne 2026](https://frontaliereticino.ch/de/schweiz-artikel/osce-konferenz-berne-2026/)
+- [Osce Wirtschafts Und Umweltforum Prag](https://frontaliereticino.ch/de/schweiz-artikel/osce-wirtschafts-und-umweltforum-prag/)
 - [Ov Abos Kanton Luzern Zonen Und Tarife](https://frontaliereticino.ch/de/schweiz-artikel/ov-abos-kanton-luzern-zonen-und-tarife/)
 - [Pa30 Baeuerliche Autonomie](https://frontaliereticino.ch/de/schweiz-artikel/pa30-baeuerliche-autonomie/)
 - [Pa30 Landwirtschaftliche Konsultation](https://frontaliereticino.ch/de/schweiz-artikel/pa30-landwirtschaftliche-konsultation/)
@@ -6484,6 +6491,7 @@
 - [Reiseveranstalter Rueckgang Konflikte](https://frontaliereticino.ch/de/schweiz-artikel/reiseveranstalter-rueckgang-konflikte/)
 - [Rekord Bahn Verkehr Zweites Quartal](https://frontaliereticino.ch/de/schweiz-artikel/rekord-bahn-verkehr-zweites-quartal/)
 - [Rekord Frauen Parlament Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/rekord-frauen-parlament-schweiz/)
+- [Rekord Kulturunternehmen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/rekord-kulturunternehmen-schweiz/)
 - [Rekrutierung Lugano](https://frontaliereticino.ch/de/schweiz-artikel/rekrutierung-lugano/)
 - [Reno Zu Mindestpreisen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/reno-zu-mindestpreisen-schweiz/)
 - [Rente Berechnung Grenzgaenger Avs Italienisch](https://frontaliereticino.ch/de/schweiz-artikel/rente-berechnung-grenzgaenger-avs-italienisch/)
@@ -7037,6 +7045,7 @@
 - [Us Zoelle 2026 Freihandelsabkommen](https://frontaliereticino.ch/de/schweiz-artikel/us-zoelle-2026-freihandelsabkommen/)
 - [Us Zolle Seco Schweiz 2026](https://frontaliereticino.ch/de/schweiz-artikel/us-zolle-seco-schweiz-2026/)
 - [Usa Zoelle Rueckerstattung Behoerdenangst](https://frontaliereticino.ch/de/schweiz-artikel/usa-zoelle-rueckerstattung-behoerdenangst/)
+- [Usa Zoelle Seco Handel](https://frontaliereticino.ch/de/schweiz-artikel/usa-zoelle-seco-handel/)
 - [Usa Zolle Bundesrat](https://frontaliereticino.ch/de/schweiz-artikel/usa-zolle-bundesrat/)
 - [Usa Zolle Schweiz Juli 2026](https://frontaliereticino.ch/de/schweiz-artikel/usa-zolle-schweiz-juli-2026/)
 - [Usam Schweizer Kreuz Kontroverse](https://frontaliereticino.ch/de/schweiz-artikel/usam-schweizer-kreuz-kontroverse/)
@@ -7104,6 +7113,7 @@
 - [Wissenschaft Und Medizin Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/wissenschaft-und-medizin-schweiz/)
 - [Witz New Measures Of The Federal Council](https://frontaliereticino.ch/de/schweiz-artikel/witz-new-measures-of-the-federal-council/)
 - [Wo Leben Lombardische Grenzgaenger Trends](https://frontaliereticino.ch/de/schweiz-artikel/wo-leben-lombardische-grenzgaenger-trends/)
+- [Woche Gegen Lebensmittelverschwendung Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/woche-gegen-lebensmittelverschwendung-schweiz/)
 - [Wohnungssanierung Co2 Bern](https://frontaliereticino.ch/de/schweiz-artikel/wohnungssanierung-co2-bern/)
 - [Yumo Plattform Junge Leute Finanzen](https://frontaliereticino.ch/de/schweiz-artikel/yumo-plattform-junge-leute-finanzen/)
 - [Zali Und Die Drucke Fur Eine Anstellung](https://frontaliereticino.ch/de/schweiz-artikel/zali-und-die-drucke-fur-eine-anstellung/)
