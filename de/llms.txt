@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7166 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7181 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -698,12 +698,25 @@
 - [Spritpreise Grenze](https://frontaliereticino.ch/de/statistiken/spritpreise-grenze/)
 - [Stellen Und Lohn Observatorium Tessin](https://frontaliereticino.ch/de/statistiken/stellen-und-lohn-observatorium-tessin/)
 
-### Job Board (4 pages)
+### Job Board (17 pages)
 
 - [Alle](https://frontaliereticino.ch/de/jobs-im-tessin/alle/)
 - [Branchen](https://frontaliereticino.ch/de/jobs-im-tessin/branchen/)
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
 - [Seit Gestern](https://frontaliereticino.ch/de/jobs-im-tessin/seit-gestern/)
+- [Page Index 1](https://frontaliereticino.ch/de/jobs-in-bern/alle/page-index-1/)
+- [Page Index 2](https://frontaliereticino.ch/de/jobs-in-bern/alle/page-index-2/)
+- [Page Index 3](https://frontaliereticino.ch/de/jobs-in-bern/alle/page-index-3/)
+- [Page Index 4](https://frontaliereticino.ch/de/jobs-in-bern/alle/page-index-4/)
+- [Page Index 5](https://frontaliereticino.ch/de/jobs-in-bern/alle/page-index-5/)
+- [Page Index 1](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-1/)
+- [Page Index 2](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-2/)
+- [Page Index 3](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-3/)
+- [Page Index 4](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-4/)
+- [Page Index 5](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-5/)
+- [Page Index 6](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-6/)
+- [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
+- [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
 ### Blog Articles (4015 pages)
 
@@ -4768,7 +4781,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2451 pages)
+### Other Pages (2453 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5518,6 +5531,7 @@
 - [Erste Saeule Soletta Leistungen](https://frontaliereticino.ch/de/schweiz-artikel/erste-saeule-soletta-leistungen/)
 - [Erste Saule Zuerich Existenzminimum](https://frontaliereticino.ch/de/schweiz-artikel/erste-saule-zuerich-existenzminimum/)
 - [Erstes Saeulenidvwald Ahv Rente](https://frontaliereticino.ch/de/schweiz-artikel/erstes-saeulenidvwald-ahv-rente/)
+- [Erzeuger Importpreise August 2026](https://frontaliereticino.ch/de/schweiz-artikel/erzeuger-importpreise-august-2026/)
 - [Essen Swiss Italien Frontalier Arbeiter](https://frontaliereticino.ch/de/schweiz-artikel/essen-swiss-italien-frontalier-arbeiter/)
 - [Estetista Frontaliere Ticino Stipendio Requisiti](https://frontaliereticino.ch/de/schweiz-artikel/estetista-frontaliere-ticino-stipendio-requisiti/)
 - [Ethos Ceo Gehalt Nachhaltigkeit](https://frontaliereticino.ch/de/schweiz-artikel/ethos-ceo-gehalt-nachhaltigkeit/)
@@ -6873,6 +6887,7 @@
 - [Tete De Moine Impakte](https://frontaliereticino.ch/de/schweiz-artikel/tete-de-moine-impakte/)
 - [Themen](https://frontaliereticino.ch/de/schweiz-artikel/themen/)
 - [Abkommen Und Politik](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/)
+- [Page 10](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-10/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-4/)
