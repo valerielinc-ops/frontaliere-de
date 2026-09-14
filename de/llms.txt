@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7181 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7196 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -698,8 +698,13 @@
 - [Spritpreise Grenze](https://frontaliereticino.ch/de/statistiken/spritpreise-grenze/)
 - [Stellen Und Lohn Observatorium Tessin](https://frontaliereticino.ch/de/statistiken/stellen-und-lohn-observatorium-tessin/)
 
-### Job Board (17 pages)
+### Job Board (28 pages)
 
+- [Page Index 1](https://frontaliereticino.ch/de/jobs-im-aargau/alle/page-index-1/)
+- [Page Index 2](https://frontaliereticino.ch/de/jobs-im-aargau/alle/page-index-2/)
+- [Page Index 3](https://frontaliereticino.ch/de/jobs-im-aargau/alle/page-index-3/)
+- [Page Index 4](https://frontaliereticino.ch/de/jobs-im-aargau/alle/page-index-4/)
+- [Page Index 5](https://frontaliereticino.ch/de/jobs-im-aargau/alle/page-index-5/)
 - [Alle](https://frontaliereticino.ch/de/jobs-im-tessin/alle/)
 - [Branchen](https://frontaliereticino.ch/de/jobs-im-tessin/branchen/)
 - [Letzte 3 Tage](https://frontaliereticino.ch/de/jobs-im-tessin/letzte-3-tage/)
@@ -709,6 +714,11 @@
 - [Page Index 3](https://frontaliereticino.ch/de/jobs-in-bern/alle/page-index-3/)
 - [Page Index 4](https://frontaliereticino.ch/de/jobs-in-bern/alle/page-index-4/)
 - [Page Index 5](https://frontaliereticino.ch/de/jobs-in-bern/alle/page-index-5/)
+- [Page Index 1](https://frontaliereticino.ch/de/jobs-in-luzern/alle/page-index-1/)
+- [Page Index 2](https://frontaliereticino.ch/de/jobs-in-luzern/alle/page-index-2/)
+- [Page Index 3](https://frontaliereticino.ch/de/jobs-in-luzern/alle/page-index-3/)
+- [Page Index 4](https://frontaliereticino.ch/de/jobs-in-luzern/alle/page-index-4/)
+- [Page Index 5](https://frontaliereticino.ch/de/jobs-in-luzern/alle/page-index-5/)
 - [Page Index 1](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-1/)
 - [Page Index 2](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-2/)
 - [Page Index 3](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-3/)
@@ -717,8 +727,9 @@
 - [Page Index 6](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-6/)
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
+- [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4015 pages)
+### Blog Articles (4018 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2147,6 +2158,7 @@
 - [Grenzgaenger Tagesbulletin 2026 09 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-11/)
 - [Grenzgaenger Tagesbulletin 2026 09 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-12/)
 - [Grenzgaenger Tagesbulletin 2026 09 13](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-13/)
+- [Grenzgaenger Tagesbulletin 2026 09 14](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-14/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
@@ -4044,6 +4056,7 @@
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/energie-und-treibstoff/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/energie-und-treibstoff/page-4/)
 - [Familie Und Schule](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/)
+- [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-10/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-4/)
@@ -4079,6 +4092,7 @@
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-11/)
 - [Page 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-12/)
+- [Page 13](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-13/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-4/)
@@ -4781,7 +4795,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2453 pages)
+### Other Pages (2454 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5251,6 +5265,7 @@
 - [Bern Erneuert Schweizer Filmfestivals](https://frontaliereticino.ch/de/schweiz-artikel/bern-erneuert-schweizer-filmfestivals/)
 - [Bern Kinderbetreuung Kosten Tarife](https://frontaliereticino.ch/de/schweiz-artikel/bern-kinderbetreuung-kosten-tarife/)
 - [Bern Will Keine Reibungen Mit Italien](https://frontaliereticino.ch/de/schweiz-artikel/bern-will-keine-reibungen-mit-italien/)
+- [Berner Schulqualita Volksabstimmung 2026](https://frontaliereticino.ch/de/schweiz-artikel/berner-schulqualita-volksabstimmung-2026/)
 - [Berufsausbildung Grenzgaenger 2026](https://frontaliereticino.ch/de/schweiz-artikel/berufsausbildung-grenzgaenger-2026/)
 - [Berufsausbildung Lehrling Zurich](https://frontaliereticino.ch/de/schweiz-artikel/berufsausbildung-lehrling-zurich/)
 - [Berufsausbildung Praktikum Kanton Uri](https://frontaliereticino.ch/de/schweiz-artikel/berufsausbildung-praktikum-kanton-uri/)
