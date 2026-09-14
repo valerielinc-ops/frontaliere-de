@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7196 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7198 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4795,7 +4795,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2454 pages)
+### Other Pages (2456 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4985,6 +4985,7 @@
 - [Schweiz Artikel](https://frontaliereticino.ch/de/schweiz-artikel/)
 - [20 Minuten Ebit Zu Wachsen](https://frontaliereticino.ch/de/schweiz-artikel/20-minuten-ebit-zu-wachsen/)
 - [300 000 Neue Arbeitsplatze In Die Schweiz In Fuenf Jahren](https://frontaliereticino.ch/de/schweiz-artikel/300-000-neue-arbeitsplatze-in-die-schweiz-in-fuenf-jahren/)
+- [48 Stunden Festnahme Demonstrationen](https://frontaliereticino.ch/de/schweiz-artikel/48-stunden-festnahme-demonstrationen/)
 - [730 Erstattungen Ersatzsteuer](https://frontaliereticino.ch/de/schweiz-artikel/730-erstattungen-ersatzsteuer/)
 - [A2 Noch Im Stau](https://frontaliereticino.ch/de/schweiz-artikel/a2-noch-im-stau/)
 - [Aargau Arbeitsmarkt Lohne Rechte](https://frontaliereticino.ch/de/schweiz-artikel/aargau-arbeitsmarkt-lohne-rechte/)
@@ -6997,6 +6998,7 @@
 - [Tpl 2025 Rekordzahlen](https://frontaliereticino.ch/de/schweiz-artikel/tpl-2025-rekordzahlen/)
 - [Tragodie Mit Heissluftballon Tessin](https://frontaliereticino.ch/de/schweiz-artikel/tragodie-mit-heissluftballon-tessin/)
 - [Tram Zug Vergeben Vertrag](https://frontaliereticino.ch/de/schweiz-artikel/tram-zug-vergeben-vertrag/)
+- [Transpa Reg Quadri Aufschiebung Okt](https://frontaliereticino.ch/de/schweiz-artikel/transpa-reg-quadri-aufschiebung-okt/)
 - [Transparenz Hospitalrechnungen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/transparenz-hospitalrechnungen-schweiz/)
 - [Travail Suisse Eu Vertrag](https://frontaliereticino.ch/de/schweiz-artikel/travail-suisse-eu-vertrag/)
 - [Travailsuisse Lohne 2026](https://frontaliereticino.ch/de/schweiz-artikel/travailsuisse-lohne-2026/)
