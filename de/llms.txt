@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7210 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7213 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -729,7 +729,7 @@
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4021 pages)
+### Blog Articles (4022 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2160,6 +2160,7 @@
 - [Grenzgaenger Tagesbulletin 2026 09 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-12/)
 - [Grenzgaenger Tagesbulletin 2026 09 13](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-13/)
 - [Grenzgaenger Tagesbulletin 2026 09 14](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-14/)
+- [Grenzgaenger Tagesbulletin 2026 09 15](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-15/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
@@ -4798,7 +4799,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2465 pages)
+### Other Pages (2467 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5301,6 +5302,7 @@
 - [Bier Mangel](https://frontaliereticino.ch/de/schweiz-artikel/bier-mangel/)
 - [Bilaterale Iii Kantonale Regierungen](https://frontaliereticino.ch/de/schweiz-artikel/bilaterale-iii-kantonale-regierungen/)
 - [Bilaterali Iii Vacilliert Unterstutzende Ma Nahme](https://frontaliereticino.ch/de/schweiz-artikel/bilaterali-iii-vacilliert-unterstutzende-ma-nahme/)
+- [Bildung Erwachsene Einkommen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/bildung-erwachsene-einkommen-schweiz/)
 - [Bildungssystem Kanton Bern Anmeldung Und Noten](https://frontaliereticino.ch/de/schweiz-artikel/bildungssystem-kanton-bern-anmeldung-und-noten/)
 - [Bildungssystem Kanton Glarus Anmeldung Und Lehrjahre](https://frontaliereticino.ch/de/schweiz-artikel/bildungssystem-kanton-glarus-anmeldung-und-lehrjahre/)
 - [Bildungssystem Kanton Schwyz Anmeldung Und Phasen](https://frontaliereticino.ch/de/schweiz-artikel/bildungssystem-kanton-schwyz-anmeldung-und-phasen/)
@@ -6928,6 +6930,7 @@
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-5/)
+- [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-6/)
 - [Energie Und Treibstoff](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-2/)
 - [Familie Und Schule](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/)
