@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7207 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7210 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -729,7 +729,7 @@
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4020 pages)
+### Blog Articles (4021 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -3062,6 +3062,7 @@
 - [Mendrisio Baustellen Kontrollen Schweiz Italien](https://frontaliereticino.ch/de/grenzgaenger-artikel/mendrisio-baustellen-kontrollen-schweiz-italien/)
 - [Mendrisio Kulturhauptstadt 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/mendrisio-kulturhauptstadt-2026/)
 - [Mendrisio Kulturhauptstadt Chancen](https://frontaliereticino.ch/de/grenzgaenger-artikel/mendrisio-kulturhauptstadt-chancen/)
+- [Mendrisio Melano Meme Projekt Larmreduzierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/mendrisio-melano-meme-projekt-larmreduzierung/)
 - [Mendrisio Positive Auswirkungen 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/mendrisio-positive-auswirkungen-2025/)
 - [Mendrisio Positive Bilanz 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/mendrisio-positive-bilanz-2025/)
 - [Mendrisio Positive Bilanz 2025 Analyse](https://frontaliereticino.ch/de/grenzgaenger-artikel/mendrisio-positive-bilanz-2025-analyse/)
@@ -4797,7 +4798,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2463 pages)
+### Other Pages (2465 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -6145,6 +6146,7 @@
 - [Kurzzeitaufenthalt Freiburg Verlangerung](https://frontaliereticino.ch/de/schweiz-artikel/kurzzeitaufenthalt-freiburg-verlangerung/)
 - [Kvg 2026 Krankenkasse Waehlen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/kvg-2026-krankenkasse-waehlen-schweiz/)
 - [Kvg Glarus Subsidie Praemien](https://frontaliereticino.ch/de/schweiz-artikel/kvg-glarus-subsidie-praemien/)
+- [Kvg Praemien Politik Verantwortung](https://frontaliereticino.ch/de/schweiz-artikel/kvg-praemien-politik-verantwortung/)
 - [L Bewilligung Freiburg Gueltigkeitsdauer Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/l-bewilligung-freiburg-gueltigkeitsdauer-verlaengerung/)
 - [L Bewilligung Kanton St Gallen Gueltigkeit Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/l-bewilligung-kanton-st-gallen-gueltigkeit-verlaengerung/)
 - [L Permit Erneuerung Appenzell Innerrhoden](https://frontaliereticino.ch/de/schweiz-artikel/l-permit-erneuerung-appenzell-innerrhoden/)
@@ -6819,6 +6821,7 @@
 - [Spionage Schweiz Kontrollen](https://frontaliereticino.ch/de/schweiz-artikel/spionage-schweiz-kontrollen/)
 - [Spoofing Anrufe In Abnahme](https://frontaliereticino.ch/de/schweiz-artikel/spoofing-anrufe-in-abnahme/)
 - [Sprung Pool Niederuzwil Wiederbelebt](https://frontaliereticino.ch/de/schweiz-artikel/sprung-pool-niederuzwil-wiederbelebt/)
+- [Ssr Einsparungen 270 Millionen 2029](https://frontaliereticino.ch/de/schweiz-artikel/ssr-einsparungen-270-millionen-2029/)
 - [Ssr Umfrage Abstimmungen 27 September](https://frontaliereticino.ch/de/schweiz-artikel/ssr-umfrage-abstimmungen-27-september/)
 - [St Gallen Mietmarkt Mieten Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/st-gallen-mietmarkt-mieten-mietrecht/)
 - [Stabio Zoll Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/stabio-zoll-schweiz/)
