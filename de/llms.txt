@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7198 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7207 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -729,7 +729,7 @@
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4018 pages)
+### Blog Articles (4020 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1919,6 +1919,7 @@
 - [Geblockte Frontalier Ruckerstattungen Reina](https://frontaliereticino.ch/de/grenzgaenger-artikel/geblockte-frontalier-ruckerstattungen-reina/)
 - [Gebrauchter Kompaktwagen Pendler Varese Mailand](https://frontaliereticino.ch/de/grenzgaenger-artikel/gebrauchter-kompaktwagen-pendler-varese-mailand/)
 - [Geburt Kind Grenztraeber Innerhalb 20km](https://frontaliereticino.ch/de/grenzgaenger-artikel/geburt-kind-grenztraeber-innerhalb-20km/)
+- [Gehaelter Como Lombardei 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/gehaelter-como-lombardei-2024/)
 - [Gehalt Frontalier Netto Neues Abkommen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gehalt-frontalier-netto-neues-abkommen-2026/)
 - [Gehalt Grenzgaenger Single 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gehalt-grenzgaenger-single-2026/)
 - [Gehalt Schweizer Italienischer Grenzganger](https://frontaliereticino.ch/de/grenzgaenger-artikel/gehalt-schweizer-italienischer-grenzganger/)
@@ -2657,6 +2658,7 @@
 - [Krankenkassen Tessin Liga Sozialist](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassen-tessin-liga-sozialist/)
 - [Krankenkassen Wohnung Landsgemeinde 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassen-wohnung-landsgemeinde-2026/)
 - [Krankenkassenkosten Zunahmen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassenkosten-zunahmen-2026/)
+- [Krankenkassenpraemien 2027 Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassenpraemien-2027-tessin/)
 - [Krankenkassenpramien Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassenpramien-tessin-2026/)
 - [Krankenkassenzuschusse Mendrisio Verzogerungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkassenzuschusse-mendrisio-verzogerungen/)
 - [Krankenkosten Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/krankenkosten-grenzgaenger-2026/)
@@ -4795,7 +4797,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2456 pages)
+### Other Pages (2463 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5054,6 +5056,8 @@
 - [Antara Tantra Festival In Lenk Die Neuen Regeln](https://frontaliereticino.ch/de/schweiz-artikel/antara-tantra-festival-in-lenk-die-neuen-regeln/)
 - [Anti G7 Demonstration Einsatzmassnahme Rechtmaessig](https://frontaliereticino.ch/de/schweiz-artikel/anti-g7-demonstration-einsatzmassnahme-rechtmaessig/)
 - [Anwendung Von Grenzganger Vereinbarungen Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/anwendung-von-grenzganger-vereinbarungen-schweiz/)
+- [Apotheke Geoeffnet Notdienst Verzeichnis](https://frontaliereticino.ch/de/schweiz-artikel/apotheke-geoeffnet-notdienst-verzeichnis/)
+- [Apotheken Tessin Verzeichnis Kontakte](https://frontaliereticino.ch/de/schweiz-artikel/apotheken-tessin-verzeichnis-kontakte/)
 - [Appenzell Innerrhoden Hauserwerb](https://frontaliereticino.ch/de/schweiz-artikel/appenzell-innerrhoden-hauserwerb/)
 - [Appenzello Ostern Mietmarkt](https://frontaliereticino.ch/de/schweiz-artikel/appenzello-ostern-mietmarkt/)
 - [Apple Chip Mangel Lieferketten Auswirkungen](https://frontaliereticino.ch/de/schweiz-artikel/apple-chip-mangel-lieferketten-auswirkungen/)
@@ -5762,6 +5766,7 @@
 - [Gesundheit Schweizer Spielplaetze Zigarettenstummel](https://frontaliereticino.ch/de/schweiz-artikel/gesundheit-schweizer-spielplaetze-zigarettenstummel/)
 - [Gesundheitsabgabe Frontalier Angriff Ticino](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsabgabe-frontalier-angriff-ticino/)
 - [Gesundheitsabgabe Grenzgaenger Gewerkschaften](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsabgabe-grenzgaenger-gewerkschaften/)
+- [Gesundheitsakte Mercosur Parlament](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsakte-mercosur-parlament/)
 - [Gesundheitsbeitrag Alte Grenzganger](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsbeitrag-alte-grenzganger/)
 - [Gesundheitsdienstleister An Der Grenze Zwischen Schweiz Und Italien Ticino](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitsdienstleister-an-der-grenze-zwischen-schweiz-und-italien-ticino/)
 - [Gesundheitssteuer Grenzarbeiter Verschiebung Rom](https://frontaliereticino.ch/de/schweiz-artikel/gesundheitssteuer-grenzarbeiter-verschiebung-rom/)
@@ -5803,6 +5808,7 @@
 - [Graubunden Immobilien Kauf](https://frontaliereticino.ch/de/schweiz-artikel/graubunden-immobilien-kauf/)
 - [Graubunden Recht Auf Bargeldzahlung](https://frontaliereticino.ch/de/schweiz-artikel/graubunden-recht-auf-bargeldzahlung/)
 - [Grenzaer Blockieren Verringern Erstattung Roma](https://frontaliereticino.ch/de/schweiz-artikel/grenzaer-blockieren-verringern-erstattung-roma/)
+- [Grenzapotheken Como Varese Verbano](https://frontaliereticino.ch/de/schweiz-artikel/grenzapotheken-como-varese-verbano/)
 - [Grenzarbeiter Rente Avs Inps 2026](https://frontaliereticino.ch/de/schweiz-artikel/grenzarbeiter-rente-avs-inps-2026/)
 - [Grenze Chiasso Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/grenze-chiasso-schweiz/)
 - [Grenzfiduziarius Ticino Lohnanforderungen](https://frontaliereticino.ch/de/schweiz-artikel/grenzfiduziarius-ticino-lohnanforderungen/)
@@ -6340,6 +6346,7 @@
 - [Naspi Frontalier Requisiten Berechnung](https://frontaliereticino.ch/de/schweiz-artikel/naspi-frontalier-requisiten-berechnung/)
 - [Naspi Fuer Frontalier](https://frontaliereticino.ch/de/schweiz-artikel/naspi-fuer-frontalier/)
 - [Nationale Ausstellungen Botschaft 2026](https://frontaliereticino.ch/de/schweiz-artikel/nationale-ausstellungen-botschaft-2026/)
+- [Nationalrat Elektronische Gesundheitsakte](https://frontaliereticino.ch/de/schweiz-artikel/nationalrat-elektronische-gesundheitsakte/)
 - [Naturalisation Basel Stadt Anforderungen](https://frontaliereticino.ch/de/schweiz-artikel/naturalisation-basel-stadt-anforderungen/)
 - [Naturalisierung Kanton Basilea Campagna](https://frontaliereticino.ch/de/schweiz-artikel/naturalisierung-kanton-basilea-campagna/)
 - [Naturalisierung Kanton Bern Requisiten Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/naturalisierung-kanton-bern-requisiten-verfahren/)
@@ -6380,6 +6387,7 @@
 - [Niederlassungsbewilligung C Zug Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/niederlassungsbewilligung-c-zug-leitfaden/)
 - [Niederlassungsbewilligungen C Im Kanton Freiburg Voraussetzungen Und Antrag](https://frontaliereticino.ch/de/schweiz-artikel/niederlassungsbewilligungen-c-im-kanton-freiburg-voraussetzungen-und-antrag/)
 - [Niederlassungsbewilligungen C Im Kanton Schwyz Voraussetzungen Und Antrag](https://frontaliereticino.ch/de/schweiz-artikel/niederlassungsbewilligungen-c-im-kanton-schwyz-voraussetzungen-und-antrag/)
+- [Notdienst Apotheken Tessin Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/notdienst-apotheken-tessin-leitfaden/)
 - [Notfallplan Digitale Zahlungen](https://frontaliereticino.ch/de/schweiz-artikel/notfallplan-digitale-zahlungen/)
 - [Novartis 130 Umstrukturierung Basel](https://frontaliereticino.ch/de/schweiz-artikel/novartis-130-umstrukturierung-basel/)
 - [Novartis Erhoeht Erwartungen](https://frontaliereticino.ch/de/schweiz-artikel/novartis-erhoeht-erwartungen/)
@@ -7132,6 +7140,7 @@
 - [Wallis Stipendien Anforderungen](https://frontaliereticino.ch/de/schweiz-artikel/wallis-stipendien-anforderungen/)
 - [Walliser Aufenthaltsbewilligung B Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/walliser-aufenthaltsbewilligung-b-verfahren/)
 - [Wartezeiten Zoll Chiasso Strasse](https://frontaliereticino.ch/de/schweiz-artikel/wartezeiten-zoll-chiasso-strasse/)
+- [Warum Die Zinsen In Der Schweiz Niedrig Bleiben](https://frontaliereticino.ch/de/schweiz-artikel/warum-die-zinsen-in-der-schweiz-niedrig-bleiben/)
 - [Warum Schweizer Tutor Italien Ignorieren](https://frontaliereticino.ch/de/schweiz-artikel/warum-schweizer-tutor-italien-ignorieren/)
 - [Was Man Im Ticino Zu Tun Hat](https://frontaliereticino.ch/de/schweiz-artikel/was-man-im-ticino-zu-tun-hat/)
 - [Wechsel Kommando Lugano Freiwillige](https://frontaliereticino.ch/de/schweiz-artikel/wechsel-kommando-lugano-freiwillige/)
