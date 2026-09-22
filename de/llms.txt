@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7309 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7314 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4061 pages)
+### Blog Articles (4064 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2759,6 +2759,7 @@
 - [Leben Caslino Erba Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-caslino-erba-grenzgaenger/)
 - [Leben Cassano Valcuvia Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-cassano-valcuvia-arbeiten-tessin-grenzgaenger/)
 - [Leben Cassina Rizzardi Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-cassina-rizzardi-arbeiten-tessin/)
+- [Leben Castiglione Olona Arbeiten Ticino Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-castiglione-olona-arbeiten-ticino-grenzgaenger/)
 - [Leben Cazzago Brabbia Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-cazzago-brabbia-grenzgaenger/)
 - [Leben Cermenate Arbeit Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-cermenate-arbeit-tessin-grenzgaenger/)
 - [Leben Chiuro Arbeiten Grigioni Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-chiuro-arbeiten-grigioni-frontalier/)
@@ -2781,6 +2782,7 @@
 - [Leben In Biandronno Arbeit In Tessin Als Grenzganger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-biandronno-arbeit-in-tessin-als-grenzganger/)
 - [Leben In Bisuschio Arbeiten In Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-bisuschio-arbeiten-in-ticino/)
 - [Leben In Bosisio Parini Und Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-bosisio-parini-und-arbeiten-in-ticino-als-frontalier/)
+- [Leben In Bregnano Arbeiten In Ticino Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-bregnano-arbeiten-in-ticino-grenzgaenger/)
 - [Leben In Brinzio Arbeiten Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-brinzio-arbeiten-im-tessin/)
 - [Leben In Cannero Riviera Und Arbeiten In Ticino Als Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-cannero-riviera-und-arbeiten-in-ticino-als-frontalier/)
 - [Leben In Castelnuovo Bozzente Arbeiten In Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/leben-in-castelnuovo-bozzente-arbeiten-in-tessin-grenzgaenger/)
@@ -4174,6 +4176,7 @@
 - [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
 - [Page 25](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-25/)
 - [Page 26](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-26/)
+- [Page 27](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-27/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -4828,7 +4831,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2534 pages)
+### Other Pages (2536 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5164,6 +5167,7 @@
 - [Aufenthaltsbewilligung B Im Kanton Nidwalden Voraussetzungen Und Verlangerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-im-kanton-nidwalden-voraussetzungen-und-verlangerung/)
 - [Aufenthaltsbewilligung B Jura](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-jura/)
 - [Aufenthaltsbewilligung B Jura Anforderungen Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-jura-anforderungen-verlaengerung/)
+- [Aufenthaltsbewilligung B Kanton Freiburg Voraussetzungen Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-kanton-freiburg-voraussetzungen-verlaengerung/)
 - [Aufenthaltsbewilligung B Kanton Genf Anforderungen Erneuerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-kanton-genf-anforderungen-erneuerung/)
 - [Aufenthaltsbewilligung B Kanton Thurgau Voraussetzungen Verlaengerung](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-kanton-thurgau-voraussetzungen-verlaengerung/)
 - [Aufenthaltsbewilligung B Kanton Uri Voraussetzungen](https://frontaliereticino.ch/de/schweiz-artikel/aufenthaltsbewilligung-b-kanton-uri-voraussetzungen/)
@@ -6444,6 +6448,7 @@
 - [Nidwald Immobilien Hypothek Guide](https://frontaliereticino.ch/de/schweiz-artikel/nidwald-immobilien-hypothek-guide/)
 - [Nidwalden Hauskauf Hypothek Kosten](https://frontaliereticino.ch/de/schweiz-artikel/nidwalden-hauskauf-hypothek-kosten/)
 - [Nidwalden Oev Abos Zonen](https://frontaliereticino.ch/de/schweiz-artikel/nidwalden-oev-abos-zonen/)
+- [Niederlassungsbewilligung C Freiburg Voraussetzungen Gesuch](https://frontaliereticino.ch/de/schweiz-artikel/niederlassungsbewilligung-c-freiburg-voraussetzungen-gesuch/)
 - [Niederlassungsbewilligung C Kanton Solothurn Voraussetzungen](https://frontaliereticino.ch/de/schweiz-artikel/niederlassungsbewilligung-c-kanton-solothurn-voraussetzungen/)
 - [Niederlassungsbewilligung C Zug Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/niederlassungsbewilligung-c-zug-leitfaden/)
 - [Niederlassungsbewilligungen C Im Kanton Freiburg Voraussetzungen Und Antrag](https://frontaliereticino.ch/de/schweiz-artikel/niederlassungsbewilligungen-c-im-kanton-freiburg-voraussetzungen-und-antrag/)
