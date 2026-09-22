@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7307 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7309 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4828,7 +4828,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2532 pages)
+### Other Pages (2534 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4847,6 +4847,7 @@
 - [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
 - [Arbeit Tessin Metzger](https://frontaliereticino.ch/de/arbeit-tessin-metzger/)
 - [Arbeit Tessin Physiotherapeut](https://frontaliereticino.ch/de/arbeit-tessin-physiotherapeut/)
+- [Arbeit Tessin Psychologe](https://frontaliereticino.ch/de/arbeit-tessin-psychologe/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
 - [Arbeit Tessin Schweisser](https://frontaliereticino.ch/de/arbeit-tessin-schweisser/)
 - [Laura Bianchi](https://frontaliereticino.ch/de/autoren/laura-bianchi/)
@@ -7279,6 +7280,7 @@
 - [Zuerich Mietrecht Kaution Beschwerde Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/zuerich-mietrecht-kaution-beschwerde-verfahren/)
 - [Zuerich Zugbusse Bestechung](https://frontaliereticino.ch/de/schweiz-artikel/zuerich-zugbusse-bestechung/)
 - [Zuericher Avs Ergaenzungsleistungen Rente](https://frontaliereticino.ch/de/schweiz-artikel/zuericher-avs-ergaenzungsleistungen-rente/)
+- [Zug Fuhrerschein Umtausch Prufungen](https://frontaliereticino.ch/de/schweiz-artikel/zug-fuhrerschein-umtausch-prufungen/)
 - [Zug Hauspreise Hypothek](https://frontaliereticino.ch/de/schweiz-artikel/zug-hauspreise-hypothek/)
 - [Zug Mietvertrag Kaution Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/zug-mietvertrag-kaution-verfahren/)
 - [Zug Stipendien Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/zug-stipendien-leitfaden/)
