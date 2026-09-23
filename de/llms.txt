@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7324 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7327 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4069 pages)
+### Blog Articles (4072 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2166,6 +2166,7 @@
 - [Grenzgaenger Tagesbulletin 2026 09 20](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-20/)
 - [Grenzgaenger Tagesbulletin 2026 09 21](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-21/)
 - [Grenzgaenger Tagesbulletin 2026 09 22](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-22/)
+- [Grenzgaenger Tagesbulletin 2026 09 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-23/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
@@ -2968,6 +2969,7 @@
 - [Lpp Minimum Zweiter Pfeiler 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/lpp-minimum-zweiter-pfeiler-2026/)
 - [Lpp Nigri Landesmanager Italien](https://frontaliereticino.ch/de/grenzgaenger-artikel/lpp-nigri-landesmanager-italien/)
 - [Lpp Rente Besteuerung Ohne Zwischenperson](https://frontaliereticino.ch/de/grenzgaenger-artikel/lpp-rente-besteuerung-ohne-zwischenperson/)
+- [Lpp Steuererstattung 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/lpp-steuererstattung-2024/)
 - [Lucibello Disti Grundverifizierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/lucibello-disti-grundverifizierung/)
 - [Lucke Geneve Olympic Basketball](https://frontaliereticino.ch/de/grenzgaenger-artikel/lucke-geneve-olympic-basketball/)
 - [Lufthansa Stricht Kostenloses Handgepaeck](https://frontaliereticino.ch/de/grenzgaenger-artikel/lufthansa-stricht-kostenloses-handgepaeck/)
@@ -4053,6 +4055,7 @@
 - [Tessiner Arbeitsmarkt Verlangsamt 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessiner-arbeitsmarkt-verlangsamt-2025/)
 - [Tessiner Bahnhofe Sicherheit](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessiner-bahnhofe-sicherheit/)
 - [Tessiner Delegation Coira Organisierte Kriminalitaet](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessiner-delegation-coira-organisierte-kriminalitaet/)
+- [Tessiner Fahrzeugbestand September 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessiner-fahrzeugbestand-september-2026/)
 - [Tessiner Foreign Worker Backer Lohne](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessiner-foreign-worker-backer-lohne/)
 - [Tessiner Grenzsicherheit Chiasso](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessiner-grenzsicherheit-chiasso/)
 - [Tessiner Klima Jahr](https://frontaliereticino.ch/de/grenzgaenger-artikel/tessiner-klima-jahr/)
@@ -4855,7 +4858,6 @@
 - [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
 - [Arbeit Tessin Metzger](https://frontaliereticino.ch/de/arbeit-tessin-metzger/)
 - [Arbeit Tessin Physiotherapeut](https://frontaliereticino.ch/de/arbeit-tessin-physiotherapeut/)
-- [Arbeit Tessin Psychologe](https://frontaliereticino.ch/de/arbeit-tessin-psychologe/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
 - [Arbeit Tessin Schweisser](https://frontaliereticino.ch/de/arbeit-tessin-schweisser/)
 - [Laura Bianchi](https://frontaliereticino.ch/de/autoren/laura-bianchi/)
@@ -6160,6 +6162,7 @@
 - [Kopftuch Handy Verbot Schulen Zuerich](https://frontaliereticino.ch/de/schweiz-artikel/kopftuch-handy-verbot-schulen-zuerich/)
 - [Kosten Asyl Transfers Blockade](https://frontaliereticino.ch/de/schweiz-artikel/kosten-asyl-transfers-blockade/)
 - [Kosten Des Autos Fur Pendler Tessin](https://frontaliereticino.ch/de/schweiz-artikel/kosten-des-autos-fur-pendler-tessin/)
+- [Kosten Elektroauto Benzin Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/kosten-elektroauto-benzin-schweiz/)
 - [Kostenvoranschlag Kv Bern Kanton](https://frontaliereticino.ch/de/schweiz-artikel/kostenvoranschlag-kv-bern-kanton/)
 - [Kostenvoranschlage Fur Krankenversicherung Nach Kanton](https://frontaliereticino.ch/de/schweiz-artikel/kostenvoranschlage-fur-krankenversicherung-nach-kanton/)
 - [Krankengeld System Ausreichend](https://frontaliereticino.ch/de/schweiz-artikel/krankengeld-system-ausreichend/)
