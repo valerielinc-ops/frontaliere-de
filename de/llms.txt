@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7314 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7323 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4064 pages)
+### Blog Articles (4068 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1240,6 +1240,7 @@
 - [Bus Vandalismus Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/bus-vandalismus-tessin-grenzgaenger/)
 - [Busto Arsizio Gefangnis Denunziation Strada](https://frontaliereticino.ch/de/grenzgaenger-artikel/busto-arsizio-gefangnis-denunziation-strada/)
 - [Byd Expansion Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/byd-expansion-schweiz-2026/)
+- [Cadenazzo Ampeln Verkehr](https://frontaliereticino.ch/de/grenzgaenger-artikel/cadenazzo-ampeln-verkehr/)
 - [Cadenazzo Sonnenuntergang](https://frontaliereticino.ch/de/grenzgaenger-artikel/cadenazzo-sonnenuntergang/)
 - [Cadorago Grenzgaenger Pendler Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/cadorago-grenzgaenger-pendler-leitfaden/)
 - [Calendario Festivi Ticino 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/calendario-festivi-ticino-2026/)
@@ -1383,6 +1384,7 @@
 - [Como Napoli Unentschieden 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-napoli-unentschieden-2026/)
 - [Como Neue Polizisten 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-neue-polizisten-2026/)
 - [Como Parken Probleme Einwohner Suchen Parken](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-parken-probleme-einwohner-suchen-parken/)
+- [Como Pharmaziestudium Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-pharmaziestudium-schweiz/)
 - [Como Schuler Polizei On Road 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-schuler-polizei-on-road-2026/)
 - [Como Schwimmbad 750k Euro Gericht](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-schwimmbad-750k-euro-gericht/)
 - [Como Tag Der Arbeit Rechte Loehne](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-tag-der-arbeit-rechte-loehne/)
@@ -3966,6 +3968,7 @@
 - [Sun Valley Festival Malvaglia 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sun-valley-festival-malvaglia-2026/)
 - [Sunrise Integriert Hbb Ssr 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sunrise-integriert-hbb-ssr-2026/)
 - [Sunrise Klauseln Unrechtmaessig 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sunrise-klauseln-unrechtmaessig-2026/)
+- [Sunrise Stellenabbau Restrukturierung](https://frontaliereticino.ch/de/grenzgaenger-artikel/sunrise-stellenabbau-restrukturierung/)
 - [Sunrise Tariferhoehungen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sunrise-tariferhoehungen-2026/)
 - [Supermaerkte Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/supermaerkte-tessin-2026/)
 - [Supermarkt Diebstaehle Ponte Tresa](https://frontaliereticino.ch/de/grenzgaenger-artikel/supermarkt-diebstaehle-ponte-tresa/)
@@ -4314,6 +4317,7 @@
 - [Treibstoff Preisanstieg Tessin Grenze](https://frontaliereticino.ch/de/grenzgaenger-artikel/treibstoff-preisanstieg-tessin-grenze/)
 - [Treibstoffmangel Lombardische Grenngaenger Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/treibstoffmangel-lombardische-grenngaenger-tessin-2026/)
 - [Treibstoffmangel Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/treibstoffmangel-schweiz-2026/)
+- [Treibstoffpreise Steuern Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/treibstoffpreise-steuern-tessin/)
 - [Trend Frontalieri Ticino 2026 Q2](https://frontaliereticino.ch/de/grenzgaenger-artikel/trend-frontalieri-ticino-2026-q2/)
 - [Trennungen Tessin Einelternfamilien](https://frontaliereticino.ch/de/grenzgaenger-artikel/trennungen-tessin-einelternfamilien/)
 - [Trenord Ausfaelle 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/trenord-ausfaelle-2026/)
@@ -4831,7 +4835,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2536 pages)
+### Other Pages (2541 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5055,6 +5059,7 @@
 - [Ahv Ergaenzungsleistungen Versicherungsluecken](https://frontaliereticino.ch/de/schweiz-artikel/ahv-ergaenzungsleistungen-versicherungsluecken/)
 - [Ahv Finanzierung 13](https://frontaliereticino.ch/de/schweiz-artikel/ahv-finanzierung-13/)
 - [Ahv Im Kanton Obwalden Die Ausgleichskasse](https://frontaliereticino.ch/de/schweiz-artikel/ahv-im-kanton-obwalden-die-ausgleichskasse/)
+- [Ahv Iv Digitaler Datenzugriff](https://frontaliereticino.ch/de/schweiz-artikel/ahv-iv-digitaler-datenzugriff/)
 - [Ahv Rente Ausland Bedingungen](https://frontaliereticino.ch/de/schweiz-artikel/ahv-rente-ausland-bedingungen/)
 - [Ahv Rente Eichenberger Kritik](https://frontaliereticino.ch/de/schweiz-artikel/ahv-rente-eichenberger-kritik/)
 - [Ahv Rente Im Ausland](https://frontaliereticino.ch/de/schweiz-artikel/ahv-rente-im-ausland/)
@@ -5449,6 +5454,7 @@
 - [Demografischer Rueckgang 2025 Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/demografischer-rueckgang-2025-schweiz/)
 - [Deutsch Franzoesisch Kurse Grenzgaenger Italophon Tessin](https://frontaliereticino.ch/de/schweiz-artikel/deutsch-franzoesisch-kurse-grenzgaenger-italophon-tessin/)
 - [Deutsche Bahn Bahnverkehr Stopp Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/deutsche-bahn-bahnverkehr-stopp-deutschland/)
+- [Dff Kalte Progression Steuern 2027](https://frontaliereticino.ch/de/schweiz-artikel/dff-kalte-progression-steuern-2027/)
 - [Die Audiovisuelle Industrie Steht Vor Einer Haerten Prufung](https://frontaliereticino.ch/de/schweiz-artikel/die-audiovisuelle-industrie-steht-vor-einer-haerten-prufung/)
 - [Die Duerre Steigt Auf Grad 2 In Breggia](https://frontaliereticino.ch/de/schweiz-artikel/die-duerre-steigt-auf-grad-2-in-breggia/)
 - [Die Durre Betritt Schweizer Wasserwege](https://frontaliereticino.ch/de/schweiz-artikel/die-durre-betritt-schweizer-wasserwege/)
@@ -6617,6 +6623,7 @@
 - [Rentenberechnung Grenzgaenger Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/rentenberechnung-grenzgaenger-schweiz/)
 - [Reorganisation Ausserparlamentarischer Kommissionen](https://frontaliereticino.ch/de/schweiz-artikel/reorganisation-ausserparlamentarischer-kommissionen/)
 - [Reri Moneypark Ruckgang Drei Jahre](https://frontaliereticino.ch/de/schweiz-artikel/reri-moneypark-ruckgang-drei-jahre/)
+- [Revision Epidemiegesetz Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/revision-epidemiegesetz-schweiz/)
 - [Revolut Hacker Schweiz Pec](https://frontaliereticino.ch/de/schweiz-artikel/revolut-hacker-schweiz-pec/)
 - [Revolut Schweizer Banklizenz](https://frontaliereticino.ch/de/schweiz-artikel/revolut-schweizer-banklizenz/)
 - [Rhein Duerre Schweizer Wirtschaft](https://frontaliereticino.ch/de/schweiz-artikel/rhein-duerre-schweizer-wirtschaft/)
@@ -7012,6 +7019,7 @@
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-9/)
 - [Arbeit Und Beschaeftigung](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-3/)
@@ -7050,6 +7058,7 @@
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/gesundheit-krankenkasse/page-6/)
 - [Grenze Und Zoll](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/page-2/)
+- [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/grenze-und-zoll/page-3/)
 - [Loehne](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/)
 - [Page 10](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/page-11/)
