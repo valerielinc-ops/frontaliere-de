@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7323 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7324 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4068 pages)
+### Blog Articles (4069 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -4684,6 +4684,7 @@
 - [Wohnen Aosta Arbeiten Wallis Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-aosta-arbeiten-wallis-grenzgaenger/)
 - [Wohnen Beregazzo Arbeiten Ticino Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-beregazzo-arbeiten-ticino-frontalier/)
 - [Wohnen Binago Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-binago-arbeiten-tessin-grenzgaenger/)
+- [Wohnen Brenna Arbeiten Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-brenna-arbeiten-ticino/)
 - [Wohnen Campione Italia Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-campione-italia-arbeiten-tessin-grenzgaenger/)
 - [Wohnen Cannobina Arbeiten Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-cannobina-arbeiten-tessin-grenzgaenger/)
 - [Wohnen Cantello Arbeiten Ticino As Frontalier](https://frontaliereticino.ch/de/grenzgaenger-artikel/wohnen-cantello-arbeiten-ticino-as-frontalier/)
