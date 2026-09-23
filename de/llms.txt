@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7327 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7330 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4072 pages)
+### Blog Articles (4074 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1690,6 +1690,7 @@
 - [Fahrraddiebstahl Mendrisiotto 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fahrraddiebstahl-mendrisiotto-2026/)
 - [Fahrradweg Saronno Rovello Porro 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fahrradweg-saronno-rovello-porro-2026/)
 - [Fahrzeug In Flammen Vergiate Besnate](https://frontaliereticino.ch/de/grenzgaenger-artikel/fahrzeug-in-flammen-vergiate-besnate/)
+- [Fahrzeugzulassungen Tessin W38 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fahrzeugzulassungen-tessin-w38-2026/)
 - [Fair Trade Fruhstuck Tessin 9 Mai 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fair-trade-fruhstuck-tessin-9-mai-2026/)
 - [Fall Karimova 3 Millionen Strafe](https://frontaliereticino.ch/de/grenzgaenger-artikel/fall-karimova-3-millionen-strafe/)
 - [Falsche Priester Barasso Betrug An Alten](https://frontaliereticino.ch/de/grenzgaenger-artikel/falsche-priester-barasso-betrug-an-alten/)
@@ -4183,6 +4184,7 @@
 - [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
 - [Page 25](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-25/)
 - [Page 26](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-26/)
+- [Page 27](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-27/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -4839,7 +4841,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2541 pages)
+### Other Pages (2542 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5627,6 +5629,7 @@
 - [Fahrerschein Kanton Soletta Umstellung Und Pruefungen](https://frontaliereticino.ch/de/schweiz-artikel/fahrerschein-kanton-soletta-umstellung-und-pruefungen/)
 - [Fahrkarten Appenzell Innerrhoden](https://frontaliereticino.ch/de/schweiz-artikel/fahrkarten-appenzell-innerrhoden/)
 - [Fahrradunfall Rapperswil Jona](https://frontaliereticino.ch/de/schweiz-artikel/fahrradunfall-rapperswil-jona/)
+- [Fahrzeugbestand Schweiz 2026](https://frontaliereticino.ch/de/schweiz-artikel/fahrzeugbestand-schweiz-2026/)
 - [Falscher Alarm Goldach](https://frontaliereticino.ch/de/schweiz-artikel/falscher-alarm-goldach/)
 - [Familien Arbeit Lugano Kita Plattform](https://frontaliereticino.ch/de/schweiz-artikel/familien-arbeit-lugano-kita-plattform/)
 - [Familienausgleiche Kanton Schwyz Antrag](https://frontaliereticino.ch/de/schweiz-artikel/familienausgleiche-kanton-schwyz-antrag/)
