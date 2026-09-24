@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7332 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7336 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4075 pages)
+### Blog Articles (4077 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1296,6 +1296,7 @@
 - [Centromedico Castello Ambulante Chirurgie](https://frontaliereticino.ch/de/grenzgaenger-artikel/centromedico-castello-ambulante-chirurgie/)
 - [Cerano Intelvi Grenzgaenger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/cerano-intelvi-grenzgaenger-tessin/)
 - [Cervelat Die Nationale Wurst Der Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/cervelat-die-nationale-wurst-der-schweiz/)
+- [Cgil Regio Insubrica Treffen November](https://frontaliereticino.ch/de/grenzgaenger-artikel/cgil-regio-insubrica-treffen-november/)
 - [Chancengleichheit Kultur Lugano 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/chancengleichheit-kultur-lugano-2026/)
 - [Chancengleichheit Kultur Tessin 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/chancengleichheit-kultur-tessin-2024/)
 - [Chaos Anwendung Omnibus Dekret Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/chaos-anwendung-omnibus-dekret-grenzgaenger/)
@@ -3314,6 +3315,7 @@
 - [Oesterreichische Schule Bitcoin Lugano 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/oesterreichische-schule-bitcoin-lugano-2026/)
 - [Offenes Feuer Verbot Tessin 2024](https://frontaliereticino.ch/de/grenzgaenger-artikel/offenes-feuer-verbot-tessin-2024/)
 - [Offentliche Kinderkrippe Bellinzona Asp 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/offentliche-kinderkrippe-bellinzona-asp-2026/)
+- [Offentliche Rente Schweiz Keine Besteuerung In Italien](https://frontaliereticino.ch/de/grenzgaenger-artikel/offentliche-rente-schweiz-keine-besteuerung-in-italien/)
 - [Ogm Initiative Gescheitert](https://frontaliereticino.ch/de/grenzgaenger-artikel/ogm-initiative-gescheitert/)
 - [Olgiate Olona Domotische Wohnung Behinderungen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/olgiate-olona-domotische-wohnung-behinderungen-2026/)
 - [Omegna Radfahrer Sturz Klippe Krankenhausaufenthalt Rot Code](https://frontaliereticino.ch/de/grenzgaenger-artikel/omegna-radfahrer-sturz-klippe-krankenhausaufenthalt-rot-code/)
@@ -4842,12 +4844,13 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2543 pages)
+### Other Pages (2545 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
 - [Arbeit In Lugano](https://frontaliereticino.ch/de/arbeit-in-lugano/)
 - [Arbeit Tessin Arbeiter](https://frontaliereticino.ch/de/arbeit-tessin-arbeiter/)
+- [Arbeit Tessin Architekt](https://frontaliereticino.ch/de/arbeit-tessin-architekt/)
 - [Arbeit Tessin Buchhalter](https://frontaliereticino.ch/de/arbeit-tessin-buchhalter/)
 - [Arbeit Tessin Elektriker](https://frontaliereticino.ch/de/arbeit-tessin-elektriker/)
 - [Arbeit Tessin Erzieher](https://frontaliereticino.ch/de/arbeit-tessin-erzieher/)
@@ -7132,6 +7135,7 @@
 - [Trockenheit Klaeranlage Wasserkrise](https://frontaliereticino.ch/de/schweiz-artikel/trockenheit-klaeranlage-wasserkrise/)
 - [Trump Us Senat Sommerzeit](https://frontaliereticino.ch/de/schweiz-artikel/trump-us-senat-sommerzeit/)
 - [Trump Zolle 2026](https://frontaliereticino.ch/de/schweiz-artikel/trump-zolle-2026/)
+- [Tuberkulose Schweiz Zunahme 2025](https://frontaliereticino.ch/de/schweiz-artikel/tuberkulose-schweiz-zunahme-2025/)
 - [Twint Direct Debit 2027](https://frontaliereticino.ch/de/schweiz-artikel/twint-direct-debit-2027/)
 - [Twint Direkter Abzug](https://frontaliereticino.ch/de/schweiz-artikel/twint-direkter-abzug/)
 - [Twint Gebuehren Kleine Haendler](https://frontaliereticino.ch/de/schweiz-artikel/twint-gebuehren-kleine-haendler/)
