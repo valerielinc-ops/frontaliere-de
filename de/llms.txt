@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7330 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7332 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4074 pages)
+### Blog Articles (4075 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -2168,6 +2168,7 @@
 - [Grenzgaenger Tagesbulletin 2026 09 21](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-21/)
 - [Grenzgaenger Tagesbulletin 2026 09 22](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-22/)
 - [Grenzgaenger Tagesbulletin 2026 09 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-23/)
+- [Grenzgaenger Tagesbulletin 2026 09 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-24/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
@@ -3863,6 +3864,7 @@
 - [Smartphones In Schulen Und Neue Richtlinien](https://frontaliereticino.ch/de/grenzgaenger-artikel/smartphones-in-schulen-und-neue-richtlinien/)
 - [Smartworking Verlaengert 2023](https://frontaliereticino.ch/de/grenzgaenger-artikel/smartworking-verlaengert-2023/)
 - [Smood Stellt Betrieb Tessin Ein Auswirkungen Jobs Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/smood-stellt-betrieb-tessin-ein-auswirkungen-jobs-grenzgaenger/)
+- [Snb Entscheidung Schweizer Franken Euro Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-artikel/snb-entscheidung-schweizer-franken-euro-wechselkurs/)
 - [Snb Gewinnrueckgang 2025 Tessin Auswirkungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/snb-gewinnrueckgang-2025-tessin-auswirkungen/)
 - [Snl Saison Gruen Konzession 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/snl-saison-gruen-konzession-2026/)
 - [Sns Ubs Massnahmen Nicht Extrem 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sns-ubs-massnahmen-nicht-extrem-2026/)
@@ -4184,7 +4186,6 @@
 - [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
 - [Page 25](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-25/)
 - [Page 26](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-26/)
-- [Page 27](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-27/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -4841,7 +4842,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2542 pages)
+### Other Pages (2543 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -6517,6 +6518,7 @@
 - [Parahotellerie Progression Quartal 2026](https://frontaliereticino.ch/de/schweiz-artikel/parahotellerie-progression-quartal-2026/)
 - [Parkplatz Schaden Kosten 2025](https://frontaliereticino.ch/de/schweiz-artikel/parkplatz-schaden-kosten-2025/)
 - [Parlament Avs Adozione Schutz](https://frontaliereticino.ch/de/schweiz-artikel/parlament-avs-adozione-schutz/)
+- [Parlament Lehnt Naturalisierung Nach 5 Jahren Ab](https://frontaliereticino.ch/de/schweiz-artikel/parlament-lehnt-naturalisierung-nach-5-jahren-ab/)
 - [Parmelin Duerre Landwirtschaftskredite 2025](https://frontaliereticino.ch/de/schweiz-artikel/parmelin-duerre-landwirtschaftskredite-2025/)
 - [Parmelin Landwirtschaft Duerre](https://frontaliereticino.ch/de/schweiz-artikel/parmelin-landwirtschaft-duerre/)
 - [Parmelin Tag Der Wirtschaft De](https://frontaliereticino.ch/de/schweiz-artikel/parmelin-tag-der-wirtschaft-de/)
