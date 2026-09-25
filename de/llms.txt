@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7346 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7351 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4080 pages)
+### Blog Articles (4083 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1182,6 +1182,7 @@
 - [Blues To Bop Lugano Besuch](https://frontaliereticino.ch/de/grenzgaenger-artikel/blues-to-bop-lugano-besuch/)
 - [Blumenstadt Orticolario Tricolor 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/blumenstadt-orticolario-tricolor-2026/)
 - [Blutspendezentrum Locarno Schliesst Am 24 Juni](https://frontaliereticino.ch/de/grenzgaenger-artikel/blutspendezentrum-locarno-schliesst-am-24-juni/)
+- [Bns Entscheidung Zinssatz Unverandert 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bns-entscheidung-zinssatz-unverandert-2026/)
 - [Bns Gewinn 2025 Ticino](https://frontaliereticino.ch/de/grenzgaenger-artikel/bns-gewinn-2025-ticino/)
 - [Bns Sagt Nein Zum Digitalem Frank](https://frontaliereticino.ch/de/grenzgaenger-artikel/bns-sagt-nein-zum-digitalem-frank/)
 - [Bodensee Abkommen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bodensee-abkommen-2026/)
@@ -2032,6 +2033,7 @@
 - [Goldbarren Zurich Zoll Beschlagnahmt](https://frontaliereticino.ch/de/grenzgaenger-artikel/goldbarren-zurich-zoll-beschlagnahmt/)
 - [Golfkrise Treibstoffe Logistik Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/golfkrise-treibstoffe-logistik-tessin/)
 - [Gordola Santa Maria Einspruch 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gordola-santa-maria-einspruch-2026/)
+- [Gornate Olona Steuer Guide](https://frontaliereticino.ch/de/grenzgaenger-artikel/gornate-olona-steuer-guide/)
 - [Gottardo Erdbeben Frontalieri](https://frontaliereticino.ch/de/grenzgaenger-artikel/gottardo-erdbeben-frontalieri/)
 - [Gottardo Oeffnet Am 8 Mai 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gottardo-oeffnet-am-8-mai-2026/)
 - [Gotthard Tunnel Arbeitskrafte 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/gotthard-tunnel-arbeitskrafte-2026/)
@@ -4095,6 +4097,7 @@
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/arbeit-und-beschaeftigung/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/arbeit-und-beschaeftigung/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/arbeit-und-beschaeftigung/page-7/)
+- [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/arbeit-und-beschaeftigung/page-8/)
 - [Energie Und Treibstoff](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/energie-und-treibstoff/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/energie-und-treibstoff/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/energie-und-treibstoff/page-3/)
@@ -4117,7 +4120,6 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-9/)
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
@@ -4164,6 +4166,7 @@
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-6/)
+- [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-7/)
 - [Sicherheit Und Kriminalitaet](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-3/)
@@ -4847,7 +4850,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2552 pages)
+### Other Pages (2554 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -6334,6 +6337,7 @@
 - [Luganer Klima Saison](https://frontaliereticino.ch/de/schweiz-artikel/luganer-klima-saison/)
 - [Lugano Arbeitsmarkt Uebersicht](https://frontaliereticino.ch/de/schweiz-artikel/lugano-arbeitsmarkt-uebersicht/)
 - [Luglio 2026 Assegno Inclusione](https://frontaliereticino.ch/de/schweiz-artikel/luglio-2026-assegno-inclusione/)
+- [Lumpy Skin Disease Impfende](https://frontaliereticino.ch/de/schweiz-artikel/lumpy-skin-disease-impfende/)
 - [Luna Wedler Golden Eye Award Zuerich](https://frontaliereticino.ch/de/schweiz-artikel/luna-wedler-golden-eye-award-zuerich/)
 - [Luzern Loehne Ausbildung](https://frontaliereticino.ch/de/schweiz-artikel/luzern-loehne-ausbildung/)
 - [Luzern Naturalisierung Dokumente Zeitplan](https://frontaliereticino.ch/de/schweiz-artikel/luzern-naturalisierung-dokumente-zeitplan/)
@@ -6749,6 +6753,7 @@
 - [Schweiz Verliert Attraktivitaet Multinationalkonzerne](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-verliert-attraktivitaet-multinationalkonzerne/)
 - [Schweiz Wechseln It Gericht](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-wechseln-it-gericht/)
 - [Schweiz Zug Gegenstaende Auf Gleisen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-zug-gegenstaende-auf-gleisen/)
+- [Schweiz Zwei Initiativen 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-zwei-initiativen-2026/)
 - [Schweizer Arbeitslosenentschadigung Fur Frontalier](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-arbeitslosenentschadigung-fur-frontalier/)
 - [Schweizer Arbeitslosenversicherung Funktionsweise](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-arbeitslosenversicherung-funktionsweise/)
 - [Schweizer Arbeitsmarkt August 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-arbeitsmarkt-august-2026/)
@@ -7083,7 +7088,6 @@
 - [Loehne](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/)
 - [Page 10](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/page-11/)
-- [Page 12](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/page-12/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/loehne/page-4/)
@@ -7255,6 +7259,7 @@
 - [Volg Binn Neuigkeiten 2024](https://frontaliereticino.ch/de/schweiz-artikel/volg-binn-neuigkeiten-2024/)
 - [Volg Reckingen 2026](https://frontaliereticino.ch/de/schweiz-artikel/volg-reckingen-2026/)
 - [Volg Wiler Supermaerkte Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/volg-wiler-supermaerkte-schweiz/)
+- [Volksschutz Konferenz Bern](https://frontaliereticino.ch/de/schweiz-artikel/volksschutz-konferenz-bern/)
 - [Volkswagen Arbeitsplaetze Abbau 2024](https://frontaliereticino.ch/de/schweiz-artikel/volkswagen-arbeitsplaetze-abbau-2024/)
 - [Volkswagen Kuerzzungen Amag Beruhigt](https://frontaliereticino.ch/de/schweiz-artikel/volkswagen-kuerzzungen-amag-beruhigt/)
 - [Volkswagen Schweizer Zulieferer Risiko](https://frontaliereticino.ch/de/schweiz-artikel/volkswagen-schweizer-zulieferer-risiko/)
