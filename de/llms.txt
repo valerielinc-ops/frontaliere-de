@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7336 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7346 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4077 pages)
+### Blog Articles (4080 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1022,6 +1022,7 @@
 - [Baer Kehrt Valposchiavo 2026 Zurueck](https://frontaliereticino.ch/de/grenzgaenger-artikel/baer-kehrt-valposchiavo-2026-zurueck/)
 - [Baer Valposchiavo Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/baer-valposchiavo-grenzgaenger-2026/)
 - [Bagatin Siegt Auf Der Turkei Tour Etappe](https://frontaliereticino.ch/de/grenzgaenger-artikel/bagatin-siegt-auf-der-turkei-tour-etappe/)
+- [Bahn Mobilisierung Luino Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/bahn-mobilisierung-luino-schweiz/)
 - [Bahnhofsgarten Balerna 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bahnhofsgarten-balerna-2026/)
 - [Bahnstreik Italien Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/bahnstreik-italien-tessin/)
 - [Bahnverkehr Unterbrochen Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/bahnverkehr-unterbrochen-tessin/)
@@ -3867,6 +3868,7 @@
 - [Smartworking Verlaengert 2023](https://frontaliereticino.ch/de/grenzgaenger-artikel/smartworking-verlaengert-2023/)
 - [Smood Stellt Betrieb Tessin Ein Auswirkungen Jobs Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/smood-stellt-betrieb-tessin-ein-auswirkungen-jobs-grenzgaenger/)
 - [Snb Entscheidung Schweizer Franken Euro Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-artikel/snb-entscheidung-schweizer-franken-euro-wechselkurs/)
+- [Snb Franken Euro Wechsel](https://frontaliereticino.ch/de/grenzgaenger-artikel/snb-franken-euro-wechsel/)
 - [Snb Gewinnrueckgang 2025 Tessin Auswirkungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/snb-gewinnrueckgang-2025-tessin-auswirkungen/)
 - [Snl Saison Gruen Konzession 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/snl-saison-gruen-konzession-2026/)
 - [Sns Ubs Massnahmen Nicht Extrem 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sns-ubs-massnahmen-nicht-extrem-2026/)
@@ -4115,6 +4117,7 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-9/)
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
@@ -4844,7 +4847,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2545 pages)
+### Other Pages (2552 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -6172,6 +6175,7 @@
 - [Kosten Elektroauto Benzin Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/kosten-elektroauto-benzin-schweiz/)
 - [Kostenvoranschlag Kv Bern Kanton](https://frontaliereticino.ch/de/schweiz-artikel/kostenvoranschlag-kv-bern-kanton/)
 - [Kostenvoranschlage Fur Krankenversicherung Nach Kanton](https://frontaliereticino.ch/de/schweiz-artikel/kostenvoranschlage-fur-krankenversicherung-nach-kanton/)
+- [Kraftstoffpreis Anstieg Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/kraftstoffpreis-anstieg-schweiz/)
 - [Krankengeld System Ausreichend](https://frontaliereticino.ch/de/schweiz-artikel/krankengeld-system-ausreichend/)
 - [Krankenkasse Appenzell Ausserrhoden Reduktion](https://frontaliereticino.ch/de/schweiz-artikel/krankenkasse-appenzell-ausserrhoden-reduktion/)
 - [Krankenkasse Neuchatel Jugendliche](https://frontaliereticino.ch/de/schweiz-artikel/krankenkasse-neuchatel-jugendliche/)
@@ -6335,6 +6339,7 @@
 - [Luzern Naturalisierung Dokumente Zeitplan](https://frontaliereticino.ch/de/schweiz-artikel/luzern-naturalisierung-dokumente-zeitplan/)
 - [Luzern Teuerste Taxis Welt](https://frontaliereticino.ch/de/schweiz-artikel/luzern-teuerste-taxis-welt/)
 - [Maccabi Lugano Proteste](https://frontaliereticino.ch/de/schweiz-artikel/maccabi-lugano-proteste/)
+- [Made In Europe Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/made-in-europe-schweiz/)
 - [Mammut Eigentuemerwechsel China](https://frontaliereticino.ch/de/schweiz-artikel/mammut-eigentuemerwechsel-china/)
 - [Mangel An Lehrern Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/mangel-an-lehrern-schweiz/)
 - [Manor Entlassungen Basel](https://frontaliereticino.ch/de/schweiz-artikel/manor-entlassungen-basel/)
@@ -6418,6 +6423,7 @@
 - [Modernisierungsprogramm Berghotels](https://frontaliereticino.ch/de/schweiz-artikel/modernisierungsprogramm-berghotels/)
 - [Modifikation Der Liquiditaetsvorschriften](https://frontaliereticino.ch/de/schweiz-artikel/modifikation-der-liquiditaetsvorschriften/)
 - [Monte Ceneri Rettungsuebung](https://frontaliereticino.ch/de/schweiz-artikel/monte-ceneri-rettungsuebung/)
+- [Motion Staaten Die Organisatoren Zahlen Die Sicherheitskosten](https://frontaliereticino.ch/de/schweiz-artikel/motion-staaten-die-organisatoren-zahlen-die-sicherheitskosten/)
 - [Motorradunfall Amlikon Bissegg 18 Jaehrig](https://frontaliereticino.ch/de/schweiz-artikel/motorradunfall-amlikon-bissegg-18-jaehrig/)
 - [Mps Sisa Unigeb Usi Supsi](https://frontaliereticino.ch/de/schweiz-artikel/mps-sisa-unigeb-usi-supsi/)
 - [Musikausbildung Gebuehren 2026](https://frontaliereticino.ch/de/schweiz-artikel/musikausbildung-gebuehren-2026/)
@@ -6735,6 +6741,7 @@
 - [Schweiz Steuererklaerung 2026 Leitfaden Kanton St Gallen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-steuererklaerung-2026-leitfaden-kanton-st-gallen/)
 - [Schweiz Steuererklaerung Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-steuererklaerung-leitfaden/)
 - [Schweiz Stromkosten](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-stromkosten/)
+- [Schweiz Tourismus August Auslandgaeste](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-tourismus-august-auslandgaeste/)
 - [Schweiz Tourismus Sommer Normalisierung](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-tourismus-sommer-normalisierung/)
 - [Schweiz Usa Zwangsarbeit Zoelle](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-usa-zwangsarbeit-zoelle/)
 - [Schweiz Usam Schweizer Kreuz Polemik](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-usam-schweizer-kreuz-polemik/)
@@ -6903,6 +6910,7 @@
 - [Smi Galderma Und Sandoz Betreten Kuhne Nagel Und Swisscom Verlassen](https://frontaliereticino.ch/de/schweiz-artikel/smi-galderma-und-sandoz-betreten-kuhne-nagel-und-swisscom-verlassen/)
 - [Snb Devisenreserven Anstieg August](https://frontaliereticino.ch/de/schweiz-artikel/snb-devisenreserven-anstieg-august/)
 - [Snb Gewinn Erstes Halbjahr 2026 Ergebnisse](https://frontaliereticino.ch/de/schweiz-artikel/snb-gewinn-erstes-halbjahr-2026-ergebnisse/)
+- [Snb Lasst Leitzins Bei 0 Und Erhoht Schatzungen Bip 2026](https://frontaliereticino.ch/de/schweiz-artikel/snb-lasst-leitzins-bei-0-und-erhoht-schatzungen-bip-2026/)
 - [Snb Zinsen September Pruefung](https://frontaliereticino.ch/de/schweiz-artikel/snb-zinsen-september-pruefung/)
 - [Snb Zinssaetze Ubs](https://frontaliereticino.ch/de/schweiz-artikel/snb-zinssaetze-ubs/)
 - [Snl Ricorso Lago Maggiore](https://frontaliereticino.ch/de/schweiz-artikel/snl-ricorso-lago-maggiore/)
@@ -7010,6 +7018,7 @@
 - [Telearbeit Fur Frontalierer Praktische Folgen](https://frontaliereticino.ch/de/schweiz-artikel/telearbeit-fur-frontalierer-praktische-folgen/)
 - [Telearbeit Grenzgaenger Tage 2026](https://frontaliereticino.ch/de/schweiz-artikel/telearbeit-grenzgaenger-tage-2026/)
 - [Telearbeit Vereinbarung Grenzganger Schweiz Italien](https://frontaliereticino.ch/de/schweiz-artikel/telearbeit-vereinbarung-grenzganger-schweiz-italien/)
+- [Temporaerarbeiter Wetterentschaedigung](https://frontaliereticino.ch/de/schweiz-artikel/temporaerarbeiter-wetterentschaedigung/)
 - [Temu Skv Zusammenarbeit](https://frontaliereticino.ch/de/schweiz-artikel/temu-skv-zusammenarbeit/)
 - [Tendicione Arresti Veicoli 2024](https://frontaliereticino.ch/de/schweiz-artikel/tendicione-arresti-veicoli-2024/)
 - [Terziario Eine Wende Fur Chiasso](https://frontaliereticino.ch/de/schweiz-artikel/terziario-eine-wende-fur-chiasso/)
@@ -7143,6 +7152,7 @@
 - [Tx Gruppe Geschadigt Durch Abwertungen](https://frontaliereticino.ch/de/schweiz-artikel/tx-gruppe-geschadigt-durch-abwertungen/)
 - [Ubs Bankregulierung Kompromiss](https://frontaliereticino.ch/de/schweiz-artikel/ubs-bankregulierung-kompromiss/)
 - [Ubs Bip Wachstum 2026 Erhoehung](https://frontaliereticino.ch/de/schweiz-artikel/ubs-bip-wachstum-2026-erhoehung/)
+- [Ubs Kapital 90 Snb](https://frontaliereticino.ch/de/schweiz-artikel/ubs-kapital-90-snb/)
 - [Ubs Kapitalanforderungen](https://frontaliereticino.ch/de/schweiz-artikel/ubs-kapitalanforderungen/)
 - [Ubs Neues Altersvorsorge Modell](https://frontaliereticino.ch/de/schweiz-artikel/ubs-neues-altersvorsorge-modell/)
 - [Ubs Panda Bond China Markt](https://frontaliereticino.ch/de/schweiz-artikel/ubs-panda-bond-china-markt/)
