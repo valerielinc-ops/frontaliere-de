@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7371 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7374 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4095 pages)
+### Blog Articles (4097 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1045,6 +1045,7 @@
 - [Bankgebuehren Aktien Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/bankgebuehren-aktien-grenzgaenger/)
 - [Bankkundenservice Bewertet](https://frontaliereticino.ch/de/grenzgaenger-artikel/bankkundenservice-bewertet/)
 - [Barasso San Martino Platz Gruen](https://frontaliereticino.ch/de/grenzgaenger-artikel/barasso-san-martino-platz-gruen/)
+- [Barco Saronno Proteststreik 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/barco-saronno-proteststreik-2026/)
 - [Basiletti Main Draw Chiasso 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/basiletti-main-draw-chiasso-2026/)
 - [Bau Abkommen Tessin Neu](https://frontaliereticino.ch/de/grenzgaenger-artikel/bau-abkommen-tessin-neu/)
 - [Bauarbeiten Chiasso Franscini 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bauarbeiten-chiasso-franscini-2026/)
@@ -2942,6 +2943,7 @@
 - [Logistik Varese Malpensa Transformation](https://frontaliereticino.ch/de/grenzgaenger-artikel/logistik-varese-malpensa-transformation/)
 - [Logopade Gehalt Frontalier Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/logopade-gehalt-frontalier-tessin/)
 - [Lohn Gleichheit Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/lohn-gleichheit-tessin-2026/)
+- [Lohn Ticket Einkaeufe Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/lohn-ticket-einkaeufe-tessin/)
 - [Lohnausweis Grenzgaenger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/lohnausweis-grenzgaenger-tessin/)
 - [Lohndumping Arbeitnehmerrechte Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/lohndumping-arbeitnehmerrechte-tessin/)
 - [Lohndumping Mps Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/lohndumping-mps-initiative/)
@@ -3014,6 +3016,7 @@
 - [Lumen Claro Preistraeger Varese 1989](https://frontaliereticino.ch/de/grenzgaenger-artikel/lumen-claro-preistraeger-varese-1989/)
 - [Lungolago Como Sperrung Verkehr](https://frontaliereticino.ch/de/grenzgaenger-artikel/lungolago-como-sperrung-verkehr/)
 - [Luve Hyperscaler Ai 100 Mio Vertrag](https://frontaliereticino.ch/de/grenzgaenger-artikel/luve-hyperscaler-ai-100-mio-vertrag/)
+- [Luxusauto Diebstahl Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/luxusauto-diebstahl-tessin/)
 - [Luxusautos Diebstahl Murten 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/luxusautos-diebstahl-murten-2026/)
 - [Luxushaeuser Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/luxushaeuser-schweiz-2026/)
 - [Luxusimmobilien Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/luxusimmobilien-schweiz-2026/)
@@ -4129,7 +4132,6 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-9/)
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
@@ -4862,7 +4864,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2562 pages)
+### Other Pages (2563 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -6769,6 +6771,7 @@
 - [Schweiz Usam Schweizer Kreuz Polemik](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-usam-schweizer-kreuz-polemik/)
 - [Schweiz Vacillas Myt Disoccupazione Frontalieri](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-vacillas-myt-disoccupazione-frontalieri/)
 - [Schweiz Verliert Attraktivitaet Multinationalkonzerne](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-verliert-attraktivitaet-multinationalkonzerne/)
+- [Schweiz Verteidigungsbudget Mwst](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-verteidigungsbudget-mwst/)
 - [Schweiz Wechseln It Gericht](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-wechseln-it-gericht/)
 - [Schweiz Zug Gegenstaende Auf Gleisen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-zug-gegenstaende-auf-gleisen/)
 - [Schweiz Zwei Initiativen 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-zwei-initiativen-2026/)
