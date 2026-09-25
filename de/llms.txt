@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7351 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7352 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4850,7 +4850,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2554 pages)
+### Other Pages (2555 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -6725,6 +6725,7 @@
 - [Schweiz Export Zuwachs](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-export-zuwachs/)
 - [Schweiz Forschungsfronten](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-forschungsfronten/)
 - [Schweiz Gesundheit Pharmazeutik](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-gesundheit-pharmazeutik/)
+- [Schweiz Hitzewelle Wirtschaftsschaeden 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-hitzewelle-wirtschaftsschaeden-2026/)
 - [Schweiz Inflation Snb Zinsen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-inflation-snb-zinsen/)
 - [Schweiz Italien Steuerabkommen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-italien-steuerabkommen/)
 - [Schweiz Italien Steuerliches Treffen Rom](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-italien-steuerliches-treffen-rom/)
