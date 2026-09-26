@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7378 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7385 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4099 pages)
+### Blog Articles (4102 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -950,6 +950,7 @@
 - [Arzte Ohne Genehmigung Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/arzte-ohne-genehmigung-schweiz-2026/)
 - [Arztkandidat Eoc Bellinzona](https://frontaliereticino.ch/de/grenzgaenger-artikel/arztkandidat-eoc-bellinzona/)
 - [Asylbewerber Ukrainer Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/asylbewerber-ukrainer-arbeiten/)
+- [Asylzentren Chiasso Pasture 40 Platze 2027 Gefahrdet](https://frontaliereticino.ch/de/grenzgaenger-artikel/asylzentren-chiasso-pasture-40-platze-2027-gefahrdet/)
 - [Athora Italien Zusatzrente 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/athora-italien-zusatzrente-2026/)
 - [Ats Insubria Krankenhauslosungen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/ats-insubria-krankenhauslosungen-2026/)
 - [Audit Polizei Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/audit-polizei-tessin-2026/)
@@ -1764,6 +1765,7 @@
 - [Fitnessstudio Mitgliedschaften Schweiz Rekord 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fitnessstudio-mitgliedschaften-schweiz-rekord-2026/)
 - [Flat Tax Im Tuir 25 Der Schweizer Steuern Ab 2027](https://frontaliereticino.ch/de/grenzgaenger-artikel/flat-tax-im-tuir-25-der-schweizer-steuern-ab-2027/)
 - [Flotilla Aktivisten Werden In Israel Verhort](https://frontaliereticino.ch/de/grenzgaenger-artikel/flotilla-aktivisten-werden-in-israel-verhort/)
+- [Fluechtiger In Como Festgenommen](https://frontaliereticino.ch/de/grenzgaenger-artikel/fluechtiger-in-como-festgenommen/)
 - [Flugplatz Lugano Kosten Anfrage 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/flugplatz-lugano-kosten-anfrage-2025/)
 - [Flugplatz Lugano Kosten Interpellation](https://frontaliereticino.ch/de/grenzgaenger-artikel/flugplatz-lugano-kosten-interpellation/)
 - [Flugstreiks Italien 11 May 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/flugstreiks-italien-11-may-2026/)
@@ -3911,6 +3913,7 @@
 - [Sozialer Mindestlohn Tessin Debatte Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/sozialer-mindestlohn-tessin-debatte-grenzgaenger/)
 - [Spargelmesse Cantello 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/spargelmesse-cantello-2026/)
 - [Speedaf In Der Schweiz 50 000 Pakete Pro Tag](https://frontaliereticino.ch/de/grenzgaenger-artikel/speedaf-in-der-schweiz-50-000-pakete-pro-tag/)
+- [Sperrung Der Uberfuhrung Boesio Laveno Mombello 25 Settembre 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sperrung-der-uberfuhrung-boesio-laveno-mombello-25-settembre-2026/)
 - [Sperrung Der Uberweisungen Tessin Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/sperrung-der-uberweisungen-tessin-grenzgaenger-2026/)
 - [Sperrung Eisenbruecke Sesto Calende Juli](https://frontaliereticino.ch/de/grenzgaenger-artikel/sperrung-eisenbruecke-sesto-calende-juli/)
 - [Sperrung Ristorni Ticino Pd Reaktion](https://frontaliereticino.ch/de/grenzgaenger-artikel/sperrung-ristorni-ticino-pd-reaktion/)
@@ -4866,7 +4869,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2565 pages)
+### Other Pages (2569 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5176,6 +5179,7 @@
 - [Armee Polizei Bern Drohnen](https://frontaliereticino.ch/de/schweiz-artikel/armee-polizei-bern-drohnen/)
 - [Armeechef Lugano Bedrohungen 2025](https://frontaliereticino.ch/de/schweiz-artikel/armeechef-lugano-bedrohungen-2025/)
 - [Armeefonds Mwst Kompromiss](https://frontaliereticino.ch/de/schweiz-artikel/armeefonds-mwst-kompromiss/)
+- [Arzneimittel Mangel Schweiz 2026](https://frontaliereticino.ch/de/schweiz-artikel/arzneimittel-mangel-schweiz-2026/)
 - [Arzt Innere Intensivmedizin Eoc](https://frontaliereticino.ch/de/schweiz-artikel/arzt-innere-intensivmedizin-eoc/)
 - [Arzte Mangel Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/arzte-mangel-schweiz/)
 - [Asb Schweizer Banken Wachstum 2026](https://frontaliereticino.ch/de/schweiz-artikel/asb-schweizer-banken-wachstum-2026/)
@@ -6188,6 +6192,7 @@
 - [Klima Handels Vereinbarung Konsultation](https://frontaliereticino.ch/de/schweiz-artikel/klima-handels-vereinbarung-konsultation/)
 - [Klimainflation Preise Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/klimainflation-preise-schweiz/)
 - [Kmu Absenzten Arbeitsmarkt Studie](https://frontaliereticino.ch/de/schweiz-artikel/kmu-absenzten-arbeitsmarkt-studie/)
+- [Kof Vorhersage Schweizer Bip 2026](https://frontaliereticino.ch/de/schweiz-artikel/kof-vorhersage-schweizer-bip-2026/)
 - [Kohle Rekordtief Elektrizitat](https://frontaliereticino.ch/de/schweiz-artikel/kohle-rekordtief-elektrizitat/)
 - [Kompass Initiative Regierung Ablehnung](https://frontaliereticino.ch/de/schweiz-artikel/kompass-initiative-regierung-ablehnung/)
 - [Konsultation Landwirtschaftspolitik 2030](https://frontaliereticino.ch/de/schweiz-artikel/konsultation-landwirtschaftspolitik-2030/)
@@ -7058,6 +7063,7 @@
 - [Tessin Blitzer Einnahmen](https://frontaliereticino.ch/de/schweiz-artikel/tessin-blitzer-einnahmen/)
 - [Tessin Blockiert Lombardische Ruckerstattungen](https://frontaliereticino.ch/de/schweiz-artikel/tessin-blockiert-lombardische-ruckerstattungen/)
 - [Tessin Neutralitaet Umfrage 2026](https://frontaliereticino.ch/de/schweiz-artikel/tessin-neutralitaet-umfrage-2026/)
+- [Tessin Rechte Wahlen April](https://frontaliereticino.ch/de/schweiz-artikel/tessin-rechte-wahlen-april/)
 - [Tessin Schule Pisa 2025 Rueckgang](https://frontaliereticino.ch/de/schweiz-artikel/tessin-schule-pisa-2025-rueckgang/)
 - [Tessin Schule Vpod Lehrpersonen Bedingungen](https://frontaliereticino.ch/de/schweiz-artikel/tessin-schule-vpod-lehrpersonen-bedingungen/)
 - [Tessin Solaranlage Photovoltaik 1982](https://frontaliereticino.ch/de/schweiz-artikel/tessin-solaranlage-photovoltaik-1982/)
@@ -7185,6 +7191,7 @@
 - [Ubs Bip Wachstum 2026 Erhoehung](https://frontaliereticino.ch/de/schweiz-artikel/ubs-bip-wachstum-2026-erhoehung/)
 - [Ubs Kapital 90 Snb](https://frontaliereticino.ch/de/schweiz-artikel/ubs-kapital-90-snb/)
 - [Ubs Kapitalanforderungen](https://frontaliereticino.ch/de/schweiz-artikel/ubs-kapitalanforderungen/)
+- [Ubs Morgan Stanley Fusionsgeruechte](https://frontaliereticino.ch/de/schweiz-artikel/ubs-morgan-stanley-fusionsgeruechte/)
 - [Ubs Neues Altersvorsorge Modell](https://frontaliereticino.ch/de/schweiz-artikel/ubs-neues-altersvorsorge-modell/)
 - [Ubs Panda Bond China Markt](https://frontaliereticino.ch/de/schweiz-artikel/ubs-panda-bond-china-markt/)
 - [Ubs Vorschlag Kompromiss](https://frontaliereticino.ch/de/schweiz-artikel/ubs-vorschlag-kompromiss/)
