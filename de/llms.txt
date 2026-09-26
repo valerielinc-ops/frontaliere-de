@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7400 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7410 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4110 pages)
+### Blog Articles (4115 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1421,6 +1421,7 @@
 - [Copernicus Klima 2025 Europa](https://frontaliereticino.ch/de/grenzgaenger-artikel/copernicus-klima-2025-europa/)
 - [Cornaredo Milliarden Versprechen Beton](https://frontaliereticino.ch/de/grenzgaenger-artikel/cornaredo-milliarden-versprechen-beton/)
 - [Coronavirus Frontalieri Ticino Schweiz](https://frontaliereticino.ch/de/grenzgaenger-artikel/coronavirus-frontalieri-ticino-schweiz/)
+- [Cotonificio Liuc Im Mittelpunkt Von Industrial Quest 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/cotonificio-liuc-im-mittelpunkt-von-industrial-quest-2026/)
 - [Cottarelli Lyzeum Manzoni Geopolitik](https://frontaliereticino.ch/de/grenzgaenger-artikel/cottarelli-lyzeum-manzoni-geopolitik/)
 - [Coworking Raume Lugano](https://frontaliereticino.ch/de/grenzgaenger-artikel/coworking-raume-lugano/)
 - [Coworking Und Shared Workspaces Lugano](https://frontaliereticino.ch/de/grenzgaenger-artikel/coworking-und-shared-workspaces-lugano/)
@@ -2183,6 +2184,7 @@
 - [Grenzgaenger Tagesbulletin 2026 09 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-23/)
 - [Grenzgaenger Tagesbulletin 2026 09 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-24/)
 - [Grenzgaenger Tagesbulletin 2026 09 25](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-25/)
+- [Grenzgaenger Tagesbulletin 2026 09 26](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tagesbulletin-2026-09-26/)
 - [Grenzgaenger Telearbeit 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-telearbeit-2026/)
 - [Grenzgaenger Tessin Daten Rueckgang Ende 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-daten-rueckgang-ende-2025/)
 - [Grenzgaenger Tessin Rueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/grenzgaenger-tessin-rueckgang-2026/)
@@ -2536,6 +2538,7 @@
 - [Italienischer Grenzgaenger Heizungsfachmann](https://frontaliereticino.ch/de/grenzgaenger-artikel/italienischer-grenzgaenger-heizungsfachmann/)
 - [Italienischer Grenzganger Heiratet Schweizer Buerger Steuerregime](https://frontaliereticino.ch/de/grenzgaenger-artikel/italienischer-grenzganger-heiratet-schweizer-buerger-steuerregime/)
 - [Italo Schweizer Galerie Enigmast](https://frontaliereticino.ch/de/grenzgaenger-artikel/italo-schweizer-galerie-enigmast/)
+- [Iwt Pharma Weiht Neues Gebaude In Casale Litta Ein](https://frontaliereticino.ch/de/grenzgaenger-artikel/iwt-pharma-weiht-neues-gebaude-in-casale-litta-ein/)
 - [Jans Udc Initiative 10 Millionen](https://frontaliereticino.ch/de/grenzgaenger-artikel/jans-udc-initiative-10-millionen/)
 - [Jashari Milan Versagen](https://frontaliereticino.ch/de/grenzgaenger-artikel/jashari-milan-versagen/)
 - [Jazzfestival Chiasso 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/jazzfestival-chiasso-2026/)
@@ -4138,6 +4141,9 @@
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-8/)
 - [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-9/)
 - [Franken Und Preise](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/)
+- [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-10/)
+- [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-11/)
+- [Page 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-12/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-4/)
@@ -4145,6 +4151,7 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-9/)
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
@@ -4216,9 +4223,6 @@
 - [Page 21](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-21/)
 - [Page 22](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-22/)
 - [Page 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-23/)
-- [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
-- [Page 25](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-25/)
-- [Page 26](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-26/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -4556,6 +4560,7 @@
 - [Varese Solidale Konferenz Gesundheits Und Ernahrungsarmut 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-solidale-konferenz-gesundheits-und-ernahrungsarmut-2026/)
 - [Varese Sommer Erfahrung 2026 Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-sommer-erfahrung-2026-grenzgaenger/)
 - [Varese Sturz Kanal Frontalieri](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-sturz-kanal-frontalieri/)
+- [Varese Ticket An Bord Doppio](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-ticket-an-bord-doppio/)
 - [Varese Trento Basket Playoffs 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-trento-basket-playoffs-2026/)
 - [Varese Unsichtbare Fussgangeruebergaenge 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-unsichtbare-fussgangeruebergaenge-2026/)
 - [Varese Veranstaltung Psychische Gewalt Essstoerungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/varese-veranstaltung-psychische-gewalt-essstoerungen/)
@@ -4877,7 +4882,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2576 pages)
+### Other Pages (2581 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5404,6 +5409,7 @@
 - [Blockierung Der Ruckerstattungen Tessin Entscheidung Freiheitlich Demokratische ](https://frontaliereticino.ch/de/schweiz-artikel/blockierung-der-ruckerstattungen-tessin-entscheidung-freiheitlich-demokratische-/)
 - [Bls Stellenabbau Reisezentren](https://frontaliereticino.ch/de/schweiz-artikel/bls-stellenabbau-reisezentren/)
 - [Bns Foerdert Berne](https://frontaliereticino.ch/de/schweiz-artikel/bns-foerdert-berne/)
+- [Bns Inflation Bip Prognosen 2026](https://frontaliereticino.ch/de/schweiz-artikel/bns-inflation-bip-prognosen-2026/)
 - [Bondo Prozess Verteidigung Kritisiert Anklage](https://frontaliereticino.ch/de/schweiz-artikel/bondo-prozess-verteidigung-kritisiert-anklage/)
 - [Borse Di Studio Canton Nidvaldo De](https://frontaliereticino.ch/de/schweiz-artikel/borse-di-studio-canton-nidvaldo-de/)
 - [Brand Autostrada Piotta](https://frontaliereticino.ch/de/schweiz-artikel/brand-autostrada-piotta/)
@@ -5582,6 +5588,7 @@
 - [Einburgerung Kanton Solothurn Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/einburgerung-kanton-solothurn-anforderungen-verfahren/)
 - [Eine Blockierung Von Restaurants Eine Verstandliche Reaktion](https://frontaliereticino.ch/de/schweiz-artikel/eine-blockierung-von-restaurants-eine-verstandliche-reaktion/)
 - [Eine Haus Kauft In Soletta](https://frontaliereticino.ch/de/schweiz-artikel/eine-haus-kauft-in-soletta/)
+- [Einfuhr Futtermais Proroga](https://frontaliereticino.ch/de/schweiz-artikel/einfuhr-futtermais-proroga/)
 - [Einkommen Ersparnisse Schweizer Rekord](https://frontaliereticino.ch/de/schweiz-artikel/einkommen-ersparnisse-schweizer-rekord/)
 - [Einkommen Im Ausland Kontrollen Doppelbesteuerung Vermeiden](https://frontaliereticino.ch/de/schweiz-artikel/einkommen-im-ausland-kontrollen-doppelbesteuerung-vermeiden/)
 - [Einreise Schweiz Grenzgaenger Dokumente 2026](https://frontaliereticino.ch/de/schweiz-artikel/einreise-schweiz-grenzgaenger-dokumente-2026/)
@@ -5597,6 +5604,7 @@
 - [Elternleistungen 2027](https://frontaliereticino.ch/de/schweiz-artikel/elternleistungen-2027/)
 - [Elternrechte Frontaliers](https://frontaliereticino.ch/de/schweiz-artikel/elternrechte-frontaliers/)
 - [Elternurlaub Grenzgaenger](https://frontaliereticino.ch/de/schweiz-artikel/elternurlaub-grenzgaenger/)
+- [Elternurlaub Initiative Quorum](https://frontaliereticino.ch/de/schweiz-artikel/elternurlaub-initiative-quorum/)
 - [Elternzeit Schweiz Dauer Entschaedigung](https://frontaliereticino.ch/de/schweiz-artikel/elternzeit-schweiz-dauer-entschaedigung/)
 - [Elvis Presley Biologischer Vater](https://frontaliereticino.ch/de/schweiz-artikel/elvis-presley-biologischer-vater/)
 - [Emission Bundesanleihen September 2026](https://frontaliereticino.ch/de/schweiz-artikel/emission-bundesanleihen-september-2026/)
@@ -7101,6 +7109,7 @@
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-6/)
+- [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-7/)
 - [Energie Und Treibstoff](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-2/)
 - [Familie Und Schule](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/)
@@ -7223,6 +7232,7 @@
 - [Unfallversicherung Lainf Grenzgaenger 2026](https://frontaliereticino.ch/de/schweiz-artikel/unfallversicherung-lainf-grenzgaenger-2026/)
 - [Unfallversicherung Schwelle Selbststaendige 2027](https://frontaliereticino.ch/de/schweiz-artikel/unfallversicherung-schwelle-selbststaendige-2027/)
 - [Unions Launch Referendum Mindestlohnerform 2026](https://frontaliereticino.ch/de/schweiz-artikel/unions-launch-referendum-mindestlohnerform-2026/)
+- [Universitaetsbewertung Kuenstliche Intelligenz](https://frontaliereticino.ch/de/schweiz-artikel/universitaetsbewertung-kuenstliche-intelligenz/)
 - [Uno Sanktionen Sesam 2026](https://frontaliereticino.ch/de/schweiz-artikel/uno-sanktionen-sesam-2026/)
 - [Uno Sanktionen Sesam Aktualisierung](https://frontaliereticino.ch/de/schweiz-artikel/uno-sanktionen-sesam-aktualisierung/)
 - [Unterbringung Assistenz Revision 2026](https://frontaliereticino.ch/de/schweiz-artikel/unterbringung-assistenz-revision-2026/)
