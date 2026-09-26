@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7374 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7378 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4097 pages)
+### Blog Articles (4099 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1078,6 +1078,7 @@
 - [Bellinzona Arbeitgeber Work Life Balance](https://frontaliereticino.ch/de/grenzgaenger-artikel/bellinzona-arbeitgeber-work-life-balance/)
 - [Bellinzona Athleten Deutschland Karate 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bellinzona-athleten-deutschland-karate-2026/)
 - [Bellinzona Besiegt Stade Nyonnais](https://frontaliereticino.ch/de/grenzgaenger-artikel/bellinzona-besiegt-stade-nyonnais/)
+- [Bellinzona Festung Plr Investition](https://frontaliereticino.ch/de/grenzgaenger-artikel/bellinzona-festung-plr-investition/)
 - [Bellinzona Fussball Lizenz Verweigert Finanzen](https://frontaliereticino.ch/de/grenzgaenger-artikel/bellinzona-fussball-lizenz-verweigert-finanzen/)
 - [Bellinzona Kindergarten Pilotprojekt Ausgeweitete Zeiten 2027](https://frontaliereticino.ch/de/grenzgaenger-artikel/bellinzona-kindergarten-pilotprojekt-ausgeweitete-zeiten-2027/)
 - [Bellinzona Kinderkrippen Offentliche Initiative Unterschriften 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/bellinzona-kinderkrippen-offentliche-initiative-unterschriften-2026/)
@@ -3726,6 +3727,7 @@
 - [Schweizer Bankkonto Rw Formular](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-bankkonto-rw-formular/)
 - [Schweizer Benzinpreis Rekord 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-benzinpreis-rekord-2026/)
 - [Schweizer Beschaeftigung Wachstum Q1 2026 Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-beschaeftigung-wachstum-q1-2026-grenzgaenger/)
+- [Schweizer Bip 2026 Nach Oben Revidiert 1 7 Laut Kof](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-bip-2026-nach-oben-revidiert-1-7-laut-kof/)
 - [Schweizer Bip Wachstum Zweites Quartal](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-bip-wachstum-zweites-quartal/)
 - [Schweizer Bussgeld Italienischer Resident](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-bussgeld-italienischer-resident/)
 - [Schweizer Butter Exporte Verluste](https://frontaliereticino.ch/de/grenzgaenger-artikel/schweizer-butter-exporte-verluste/)
@@ -4864,7 +4866,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2563 pages)
+### Other Pages (2565 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5440,6 +5442,7 @@
 - [Cdf Kampagnenbudgets September Abstimmung](https://frontaliereticino.ch/de/schweiz-artikel/cdf-kampagnenbudgets-september-abstimmung/)
 - [Cdt Epaper Ios](https://frontaliereticino.ch/de/schweiz-artikel/cdt-epaper-ios/)
 - [Cell Broadcast Warnung Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/cell-broadcast-warnung-schweiz/)
+- [Cembra Vontobel Sitz Baden Baar](https://frontaliereticino.ch/de/schweiz-artikel/cembra-vontobel-sitz-baden-baar/)
 - [Cern 19 Milliarden Projekt](https://frontaliereticino.ch/de/schweiz-artikel/cern-19-milliarden-projekt/)
 - [Cern Future Collider Ticino](https://frontaliereticino.ch/de/schweiz-artikel/cern-future-collider-ticino/)
 - [Cessione Del Quinto Della Pensione 2026 Frontalier](https://frontaliereticino.ch/de/schweiz-artikel/cessione-del-quinto-della-pensione-2026-frontalier/)
@@ -5473,6 +5476,7 @@
 - [Cybersecurity Zuhause Datenzentrum](https://frontaliereticino.ch/de/schweiz-artikel/cybersecurity-zuhause-datenzentrum/)
 - [Cyberversicherung Wachstum 2025](https://frontaliereticino.ch/de/schweiz-artikel/cyberversicherung-wachstum-2025/)
 - [Das L Behoerde Kuerze Dauer Im Kanton Uri](https://frontaliereticino.ch/de/schweiz-artikel/das-l-behoerde-kuerze-dauer-im-kanton-uri/)
+- [Das Tessiner Gesundheitswesen Braucht Neue Anreize](https://frontaliereticino.ch/de/schweiz-artikel/das-tessiner-gesundheitswesen-braucht-neue-anreize/)
 - [Daten Steuern Frontalieri Italien](https://frontaliereticino.ch/de/schweiz-artikel/daten-steuern-frontalieri-italien/)
 - [Daten Zentrum Warme Unterschatzte](https://frontaliereticino.ch/de/schweiz-artikel/daten-zentrum-warme-unterschatzte/)
 - [Dazi Usa 24 Juli](https://frontaliereticino.ch/de/schweiz-artikel/dazi-usa-24-juli/)
@@ -7408,7 +7412,6 @@
 - [Juni 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/juni-2026/)
 - [Maerz 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/maerz-2026/)
 - [Mai 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/mai-2026/)
-- [Woche 27 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-27-2026/)
 - [Woche 28 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-28-2026/)
 - [Woche 29 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-29-2026/)
 - [Woche 30 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-30-2026/)
@@ -7420,6 +7423,7 @@
 - [Woche 36 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-36-2026/)
 - [Woche 37 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-37-2026/)
 - [Woche 38 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-38-2026/)
+- [Woche 39 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-39-2026/)
 - [Tessiner Dialekt](https://frontaliereticino.ch/de/tessiner-dialekt/)
 - [Tfr Abfindung Grenzgaenger Rechner](https://frontaliereticino.ch/de/tfr-abfindung-grenzgaenger-rechner/)
 - [Ueber Uns](https://frontaliereticino.ch/de/ueber-uns/)
