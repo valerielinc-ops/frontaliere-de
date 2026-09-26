@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7410 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7415 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -719,7 +719,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4115 pages)
+### Blog Articles (4119 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1099,6 +1099,7 @@
 - [Benachrichtigung Zahlung Busse Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/benachrichtigung-zahlung-busse-grenzgaenger/)
 - [Bene Lario Grenzgaenger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/bene-lario-grenzgaenger-tessin/)
 - [Bennet Stellt Personal Varese](https://frontaliereticino.ch/de/grenzgaenger-artikel/bennet-stellt-personal-varese/)
+- [Bennet Tavernola Raub Zwei Festnahmen](https://frontaliereticino.ch/de/grenzgaenger-artikel/bennet-tavernola-raub-zwei-festnahmen/)
 - [Benzin Grenze Schweiz August 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-grenze-schweiz-august-2026/)
 - [Benzin Inflation Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-inflation-schweiz-2026/)
 - [Benzin Preise Ticino MäRz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/benzin-preise-ticino-märz-2026/)
@@ -1213,6 +1214,7 @@
 - [Brand In Casciago Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/brand-in-casciago-varese-2026/)
 - [Brand In Chiasso Arbeiter Im Krankenhaus](https://frontaliereticino.ch/de/grenzgaenger-artikel/brand-in-chiasso-arbeiter-im-krankenhaus/)
 - [Brand In Chiasso Arbeiter Verletzt](https://frontaliereticino.ch/de/grenzgaenger-artikel/brand-in-chiasso-arbeiter-verletzt/)
+- [Brand Landwirtschaft Turate](https://frontaliereticino.ch/de/grenzgaenger-artikel/brand-landwirtschaft-turate/)
 - [Brand Langnau Zwei Hauser Garage](https://frontaliereticino.ch/de/grenzgaenger-artikel/brand-langnau-zwei-hauser-garage/)
 - [Brand Malpensa Terminal 1 2 May 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/brand-malpensa-terminal-1-2-may-2026/)
 - [Brand Malpensa Terminal 1 Gelost](https://frontaliereticino.ch/de/grenzgaenger-artikel/brand-malpensa-terminal-1-gelost/)
@@ -3118,6 +3120,7 @@
 - [Mentale Gesundheit Arbeit Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/mentale-gesundheit-arbeit-tessin/)
 - [Mera Longhi 130 Jahre Su Igkeiten In Varese](https://frontaliereticino.ch/de/grenzgaenger-artikel/mera-longhi-130-jahre-su-igkeiten-in-varese/)
 - [Meraviglia Festival Laveno Luino 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/meraviglia-festival-laveno-luino-2026/)
+- [Merone Pendeln Im Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/merone-pendeln-im-tessin/)
 - [Mesenzana Arbeiten Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/mesenzana-arbeiten-tessin/)
 - [Mesolcina Sportfestival 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/mesolcina-sportfestival-2026/)
 - [Messe Varese Schiranna 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/messe-varese-schiranna-2026/)
@@ -3478,6 +3481,7 @@
 - [Probleme Beim Gerichtlichen Register Von Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/probleme-beim-gerichtlichen-register-von-varese-2026/)
 - [Prognosemaerkte Trump Business](https://frontaliereticino.ch/de/grenzgaenger-artikel/prognosemaerkte-trump-business/)
 - [Proposte Cernobbio 2026 Textil](https://frontaliereticino.ch/de/grenzgaenger-artikel/proposte-cernobbio-2026-textil/)
+- [Protest Betonwerk Intelvi](https://frontaliereticino.ch/de/grenzgaenger-artikel/protest-betonwerk-intelvi/)
 - [Protest Gegen Die Kosten Fur Hausliche Pflege](https://frontaliereticino.ch/de/grenzgaenger-artikel/protest-gegen-die-kosten-fur-hausliche-pflege/)
 - [Provinz Varese Investiert In Die Unterhaltung Von Strassen Und Grunflachen Mit D](https://frontaliereticino.ch/de/grenzgaenger-artikel/provinz-varese-investiert-in-die-unterhaltung-von-strassen-und-grunflachen-mit-d/)
 - [Prozess Bellinzona Russland Waren 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/prozess-bellinzona-russland-waren-2026/)
@@ -4882,7 +4886,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (2581 pages)
+### Other Pages (2582 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -4899,8 +4903,6 @@
 - [Arbeit Tessin Kellner](https://frontaliereticino.ch/de/arbeit-tessin-kellner/)
 - [Arbeit Tessin Koch](https://frontaliereticino.ch/de/arbeit-tessin-koch/)
 - [Arbeit Tessin Krankenpfleger](https://frontaliereticino.ch/de/arbeit-tessin-krankenpfleger/)
-- [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
-- [Arbeit Tessin Metzger](https://frontaliereticino.ch/de/arbeit-tessin-metzger/)
 - [Arbeit Tessin Physiotherapeut](https://frontaliereticino.ch/de/arbeit-tessin-physiotherapeut/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
 - [Arbeit Tessin Schweisser](https://frontaliereticino.ch/de/arbeit-tessin-schweisser/)
@@ -5506,6 +5508,7 @@
 - [Ddps Thun Verteidigung Innovation](https://frontaliereticino.ch/de/schweiz-artikel/ddps-thun-verteidigung-innovation/)
 - [Defekte Elektroprodukte Esti](https://frontaliereticino.ch/de/schweiz-artikel/defekte-elektroprodukte-esti/)
 - [Demografischer Rueckgang 2025 Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/demografischer-rueckgang-2025-schweiz/)
+- [Dertour Suisse Will Die Umsatzmilliarde Ubertreffen](https://frontaliereticino.ch/de/schweiz-artikel/dertour-suisse-will-die-umsatzmilliarde-ubertreffen/)
 - [Deutsch Franzoesisch Kurse Grenzgaenger Italophon Tessin](https://frontaliereticino.ch/de/schweiz-artikel/deutsch-franzoesisch-kurse-grenzgaenger-italophon-tessin/)
 - [Deutsche Bahn Bahnverkehr Stopp Deutschland](https://frontaliereticino.ch/de/schweiz-artikel/deutsche-bahn-bahnverkehr-stopp-deutschland/)
 - [Dff Kalte Progression Steuern 2027](https://frontaliereticino.ch/de/schweiz-artikel/dff-kalte-progression-steuern-2027/)
@@ -6736,6 +6739,7 @@
 - [Scheidung Grenzgaenger Unterhalt Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/scheidung-grenzgaenger-unterhalt-schweiz/)
 - [Schengen Dublin Bericht 2026](https://frontaliereticino.ch/de/schweiz-artikel/schengen-dublin-bericht-2026/)
 - [Schindler Gewinnbringendes Wachstum](https://frontaliereticino.ch/de/schweiz-artikel/schindler-gewinnbringendes-wachstum/)
+- [Schnelle Mobilisierung Armee](https://frontaliereticino.ch/de/schweiz-artikel/schnelle-mobilisierung-armee/)
 - [Schnelles Internet Breitband Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/schnelles-internet-breitband-schweiz/)
 - [Schoolestsystem Kanton Basel Stadt](https://frontaliereticino.ch/de/schweiz-artikel/schoolestsystem-kanton-basel-stadt/)
 - [Schule 4 Tage Belp](https://frontaliereticino.ch/de/schweiz-artikel/schule-4-tage-belp/)
@@ -6770,6 +6774,7 @@
 - [Schweiz Durre Wasser Diebstahl Sorgen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-durre-wasser-diebstahl-sorgen/)
 - [Schweiz Ees Verlangsamt Kontrollen](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-ees-verlangsamt-kontrollen/)
 - [Schweiz Einkommen Sparrekord 2025](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-einkommen-sparrekord-2025/)
+- [Schweiz Elektroautos Rangliste](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-elektroautos-rangliste/)
 - [Schweiz Eu Abkommen Rat Foderal](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-eu-abkommen-rat-foderal/)
 - [Schweiz Export Zuwachs](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-export-zuwachs/)
 - [Schweiz Forschungsfronten](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-forschungsfronten/)
