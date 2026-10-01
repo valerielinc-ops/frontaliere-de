@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 19043 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 19039 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5330,7 +5330,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (13766 pages)
+### Other Pages (13762 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5778,7 +5778,6 @@
 - [Sta Personal Ag](https://frontaliereticino.ch/de/aziende/sta-personal-ag/)
 - [Stadler Rail](https://frontaliereticino.ch/de/aziende/stadler-rail/)
 - [Stadt Bern](https://frontaliereticino.ch/de/aziende/stadt-bern/)
-- [Stadt Chur](https://frontaliereticino.ch/de/aziende/stadt-chur/)
 - [Stadt Luzern](https://frontaliereticino.ch/de/aziende/stadt-luzern/)
 - [Stadt Zurich](https://frontaliereticino.ch/de/aziende/stadt-zurich/)
 - [Stadtspital Zurich](https://frontaliereticino.ch/de/aziende/stadtspital-zurich/)
@@ -8866,6 +8865,7 @@
 - [Juni 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/juni-2026/)
 - [Maerz 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/maerz-2026/)
 - [Mai 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/mai-2026/)
+- [September 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/september-2026/)
 - [Woche 28 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-28-2026/)
 - [Woche 29 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-29-2026/)
 - [Woche 30 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-30-2026/)
@@ -12448,7 +12448,6 @@
 - [Visita Guidata Alle Erbe Aromatiche E Pranzo 100 2026 09 06](https://frontaliereticino.ch/de/veranstaltungen/jura/alle/visita-guidata-alle-erbe-aromatiche-e-pranzo-100-2026-09-06/)
 - [Boncourt](https://frontaliereticino.ch/de/veranstaltungen/jura/boncourt/)
 - [Concert Annuel De Lharmonie De Lallaine 2027 03 13](https://frontaliereticino.ch/de/veranstaltungen/jura/boncourt/concert-annuel-de-lharmonie-de-lallaine-2027-03-13/)
-- [Clos Du Doubs](https://frontaliereticino.ch/de/veranstaltungen/jura/clos-du-doubs/)
 - [Richesses Invisibles 2026 09 16](https://frontaliereticino.ch/de/veranstaltungen/jura/clos-du-doubs/richesses-invisibles-2026-09-16/)
 - [Cornol](https://frontaliereticino.ch/de/veranstaltungen/jura/cornol/)
 - [Jmj 2027 Cornol 2027 10 31](https://frontaliereticino.ch/de/veranstaltungen/jura/cornol/jmj-2027-cornol-2027-10-31/)
@@ -13269,7 +13268,6 @@
 - [Wmc Konzert Jubilate Deo By Dan Forrest 2026 10 17](https://frontaliereticino.ch/de/veranstaltungen/schwyz/einsiedeln/wmc-konzert-jubilate-deo-by-dan-forrest-2026-10-17/)
 - [Freienbach](https://frontaliereticino.ch/de/veranstaltungen/schwyz/freienbach/)
 - [Herbschtmart Freyebach 2026 10 17](https://frontaliereticino.ch/de/veranstaltungen/schwyz/freienbach/herbschtmart-freyebach-2026-10-17/)
-- [Galgenen](https://frontaliereticino.ch/de/veranstaltungen/schwyz/galgenen/)
 - [Bezirksviehausstellung March 2026 09 30](https://frontaliereticino.ch/de/veranstaltungen/schwyz/galgenen/bezirksviehausstellung-march-2026-09-30/)
 - [Gersau](https://frontaliereticino.ch/de/veranstaltungen/schwyz/gersau/)
 - [Lake Stage Concerts Alphorntrio Add 2026 09 27](https://frontaliereticino.ch/de/veranstaltungen/schwyz/gersau/lake-stage-concerts-alphorntrio-add-2026-09-27/)
@@ -14112,7 +14110,6 @@
 - [Cevio](https://frontaliereticino.ch/de/veranstaltungen/tessin/cevio/)
 - [Alpigiani In Piazza Formaggi Alpe Vallemaggia 2026 09 27](https://frontaliereticino.ch/de/veranstaltungen/tessin/cevio/alpigiani-in-piazza-formaggi-alpe-vallemaggia-2026-09-27/)
 - [Concerti Di Gala Filarmonica Valmaggese 2026 11 29](https://frontaliereticino.ch/de/veranstaltungen/tessin/cevio/concerti-di-gala-filarmonica-valmaggese-2026-11-29/)
-- [Chiasso](https://frontaliereticino.ch/de/veranstaltungen/tessin/chiasso/)
 - [Astrazione Creazione Di Gloria Pasi 2026 09 29](https://frontaliereticino.ch/de/veranstaltungen/tessin/chiasso/astrazione-creazione-di-gloria-pasi-2026-09-29/)
 - [Formazione Gratuita Con La Polizia Cantonale 2026 09 28](https://frontaliereticino.ch/de/veranstaltungen/tessin/chiasso/formazione-gratuita-con-la-polizia-cantonale-2026-09-28/)
 - [Coldrerio](https://frontaliereticino.ch/de/veranstaltungen/tessin/coldrerio/)
@@ -15114,7 +15111,6 @@
 - [Visite Des Tout Petits Tresor De La Foret 2026 12 09](https://frontaliereticino.ch/de/veranstaltungen/waadt/lausanne/visite-des-tout-petits-tresor-de-la-foret-2026-12-09/)
 - [Visite Guidee De Lexposition Kodai 2026 09 05](https://frontaliereticino.ch/de/veranstaltungen/waadt/lausanne/visite-guidee-de-lexposition-kodai-2026-09-05/)
 - [Water Pong 2026 08 17](https://frontaliereticino.ch/de/veranstaltungen/waadt/lausanne/water-pong-2026-08-17/)
-- [Le Chenit](https://frontaliereticino.ch/de/veranstaltungen/waadt/le-chenit/)
 - [Umui Voyage Au C Ur Dokinawa Japon 2026 09 30](https://frontaliereticino.ch/de/veranstaltungen/waadt/le-chenit/umui-voyage-au-c-ur-dokinawa-japon-2026-09-30/)
 - [Leysin](https://frontaliereticino.ch/de/veranstaltungen/waadt/leysin/)
 - [Annual Evening By The La Rose Des Alpes Brass 2026 11 28](https://frontaliereticino.ch/de/veranstaltungen/waadt/leysin/annual-evening-by-the-la-rose-des-alpes-brass-2026-11-28/)
