@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: German (this file) — also available in Italian (primary), English, French
 - **Type**: Free web application, no registration required
-- **Last Updated**: September 2026
+- **Last Updated**: October 2026
 - **Audience**: Deutschsprachige Grenzgänger, die zwischen Italien und der Schweiz (Tessin, Graubünden, Wallis) pendeln
 - **Content Authority**: Original, factual content based on official Swiss and Italian tax regulations, BFS/UST statistics, and UFSP/BAG health insurance data
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 19042 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 19043 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5330,7 +5330,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (13765 pages)
+### Other Pages (13766 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5349,6 +5349,7 @@
 - [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
 - [Arbeit Tessin Metzger](https://frontaliereticino.ch/de/arbeit-tessin-metzger/)
 - [Arbeit Tessin Physiotherapeut](https://frontaliereticino.ch/de/arbeit-tessin-physiotherapeut/)
+- [Arbeit Tessin Psychologe](https://frontaliereticino.ch/de/arbeit-tessin-psychologe/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
 - [Arbeit Tessin Schweisser](https://frontaliereticino.ch/de/arbeit-tessin-schweisser/)
 - [Laura Bianchi](https://frontaliereticino.ch/de/autoren/laura-bianchi/)
@@ -5386,7 +5387,6 @@
 - [Badrutt S Palace Hotel](https://frontaliereticino.ch/de/aziende/badrutt-s-palace-hotel/)
 - [Baloise](https://frontaliereticino.ch/de/aziende/baloise/)
 - [Banca Del Sempione](https://frontaliereticino.ch/de/aziende/banca-del-sempione/)
-- [Bank Cler](https://frontaliereticino.ch/de/aziende/bank-cler/)
 - [Banque Cantonale Vaudoise](https://frontaliereticino.ch/de/aziende/banque-cantonale-vaudoise/)
 - [Banque Migros](https://frontaliereticino.ch/de/aziende/banque-migros/)
 - [Belimo](https://frontaliereticino.ch/de/aziende/belimo/)
@@ -5499,6 +5499,7 @@
 - [Fondation De Nant](https://frontaliereticino.ch/de/aziende/fondation-de-nant/)
 - [Fondation Soins Lausanne](https://frontaliereticino.ch/de/aziende/fondation-soins-lausanne/)
 - [Fresh Food Beverage Group](https://frontaliereticino.ch/de/aziende/fresh-food-beverage-group/)
+- [Fusalp](https://frontaliereticino.ch/de/aziende/fusalp/)
 - [Fust](https://frontaliereticino.ch/de/aziende/fust/)
 - [Galaxus](https://frontaliereticino.ch/de/aziende/galaxus/)
 - [Galenica Ag Galenica](https://frontaliereticino.ch/de/aziende/galenica-ag-galenica/)
@@ -5538,6 +5539,7 @@
 - [Heineken Switzerland](https://frontaliereticino.ch/de/aziende/heineken-switzerland/)
 - [Helsana](https://frontaliereticino.ch/de/aziende/helsana/)
 - [Helvetia Versicherungen](https://frontaliereticino.ch/de/aziende/helvetia-versicherungen/)
+- [Hilti](https://frontaliereticino.ch/de/aziende/hilti/)
 - [Hirslanden Klinik](https://frontaliereticino.ch/de/aziende/hirslanden-klinik/)
 - [Hitachi Energy](https://frontaliereticino.ch/de/aziende/hitachi-energy/)
 - [Hitzberger](https://frontaliereticino.ch/de/aziende/hitzberger/)
@@ -5684,7 +5686,6 @@
 - [Otto S Ag](https://frontaliereticino.ch/de/aziende/otto-s-ag/)
 - [Pallas Kliniken](https://frontaliereticino.ch/de/aziende/pallas-kliniken/)
 - [Palliativklinik Im Park](https://frontaliereticino.ch/de/aziende/palliativklinik-im-park/)
-- [Panerai](https://frontaliereticino.ch/de/aziende/panerai/)
 - [Parmag Ag](https://frontaliereticino.ch/de/aziende/parmag-ag/)
 - [Patek Philippe](https://frontaliereticino.ch/de/aziende/patek-philippe/)
 - [Pemsa](https://frontaliereticino.ch/de/aziende/pemsa/)
@@ -5770,7 +5771,6 @@
 - [Spitalverbund Appenzell Ausserrhoden Svar](https://frontaliereticino.ch/de/aziende/spitalverbund-appenzell-ausserrhoden-svar/)
 - [Spitalzentrum Biel Centre Hospitalier Bienne](https://frontaliereticino.ch/de/aziende/spitalzentrum-biel-centre-hospitalier-bienne/)
 - [Spitex Basel](https://frontaliereticino.ch/de/aziende/spitex-basel/)
-- [Spitex Region Thun Ag](https://frontaliereticino.ch/de/aziende/spitex-region-thun-ag/)
 - [Spitex Zurich](https://frontaliereticino.ch/de/aziende/spitex-zurich/)
 - [Srg Ssr](https://frontaliereticino.ch/de/aziende/srg-ssr/)
 - [Sro Ag Spital Region Oberaargau](https://frontaliereticino.ch/de/aziende/sro-ag-spital-region-oberaargau/)
@@ -5794,6 +5794,7 @@
 - [Stryker](https://frontaliereticino.ch/de/aziende/stryker/)
 - [Sun Store Apotheke Galenica](https://frontaliereticino.ch/de/aziende/sun-store-apotheke-galenica/)
 - [Sunrise Communications Ag](https://frontaliereticino.ch/de/aziende/sunrise-communications-ag/)
+- [Supsi Dti](https://frontaliereticino.ch/de/aziende/supsi-dti/)
 - [Suva](https://frontaliereticino.ch/de/aziende/suva/)
 - [Swica Gesundheitsorganisation](https://frontaliereticino.ch/de/aziende/swica-gesundheitsorganisation/)
 - [Swiss Armed Forces Vtg](https://frontaliereticino.ch/de/aziende/swiss-armed-forces-vtg/)
