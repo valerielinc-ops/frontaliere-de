@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 20576 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 20579 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -1088,7 +1088,7 @@
 - [Page Index 7](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 
-### Blog Articles (4217 pages)
+### Blog Articles (4218 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1140,6 +1140,7 @@
 - [A2 Spur Verzogerungen Lugano 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/a2-spur-verzogerungen-lugano-2026/)
 - [A2 Stau Notfallhilfe](https://frontaliereticino.ch/de/grenzgaenger-artikel/a2-stau-notfallhilfe/)
 - [A2 Stau Tessin Parlamentarische Anfrage](https://frontaliereticino.ch/de/grenzgaenger-artikel/a2-stau-tessin-parlamentarische-anfrage/)
+- [A2 Unfall Mendrisio Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/a2-unfall-mendrisio-grenzgaenger/)
 - [A2 Unfall Verkehrsdebatte Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/a2-unfall-verkehrsdebatte-tessin/)
 - [A2 Verkehr Blockiert](https://frontaliereticino.ch/de/grenzgaenger-artikel/a2-verkehr-blockiert/)
 - [A2 Verkehrsstau Lugano 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/a2-verkehrsstau-lugano-2026/)
@@ -4655,7 +4656,6 @@
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-7/)
-- [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-8/)
 - [Sicherheit Und Kriminalitaet](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-3/)
@@ -4681,6 +4681,7 @@
 - [Page 22](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-22/)
 - [Page 23](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-23/)
 - [Page 24](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-24/)
+- [Page 25](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-25/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
@@ -5353,7 +5354,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (15276 pages)
+### Other Pages (15278 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -7280,6 +7281,7 @@
 - [Geschaeft Eroeffnen St Gallen Register Kosten](https://frontaliereticino.ch/de/schweiz-artikel/geschaeft-eroeffnen-st-gallen-register-kosten/)
 - [Geschaeft Eroeffnen Zug Handelsregister](https://frontaliereticino.ch/de/schweiz-artikel/geschaeft-eroeffnen-zug-handelsregister/)
 - [Geschaeft Eroeffnung Bern Registrierung](https://frontaliereticino.ch/de/schweiz-artikel/geschaeft-eroeffnung-bern-registrierung/)
+- [Geschaeft Gruenden Graubuenden Kosten](https://frontaliereticino.ch/de/schweiz-artikel/geschaeft-gruenden-graubuenden-kosten/)
 - [Geschaeft Gruenden Kanton Obwalden Handelsregister](https://frontaliereticino.ch/de/schweiz-artikel/geschaeft-gruenden-kanton-obwalden-handelsregister/)
 - [Geschaeft Gruenden Nidwalden Kosten Handelsregister](https://frontaliereticino.ch/de/schweiz-artikel/geschaeft-gruenden-nidwalden-kosten-handelsregister/)
 - [Geschaeft Gruenden Solothurn Vollstaendige Anleitung](https://frontaliereticino.ch/de/schweiz-artikel/geschaeft-gruenden-solothurn-vollstaendige-anleitung/)
@@ -8223,6 +8225,7 @@
 - [Ruag Reorganisation Stellenabbau](https://frontaliereticino.ch/de/schweiz-artikel/ruag-reorganisation-stellenabbau/)
 - [Rueckgang Asylgesuche 2026](https://frontaliereticino.ch/de/schweiz-artikel/rueckgang-asylgesuche-2026/)
 - [Rueckkehr In Die Schweiz Ohne Arbeitslosigkeit](https://frontaliereticino.ch/de/schweiz-artikel/rueckkehr-in-die-schweiz-ohne-arbeitslosigkeit/)
+- [Ruecktritt Guy Parmelin 2026](https://frontaliereticino.ch/de/schweiz-artikel/ruecktritt-guy-parmelin-2026/)
 - [Russisch Im Lugano Geduld Ist Gefragt](https://frontaliereticino.ch/de/schweiz-artikel/russisch-im-lugano-geduld-ist-gefragt/)
 - [Sac Huetten Reservierungsgebuehr Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/sac-huetten-reservierungsgebuehr-schweiz/)
 - [Saisonarbeitskraefte Tourismus Wohngeschaefte](https://frontaliereticino.ch/de/schweiz-artikel/saisonarbeitskraefte-tourismus-wohngeschaefte/)
@@ -8416,6 +8419,7 @@
 - [Schweizer Krankenhaeuser Pulizia Im Besseren](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-krankenhaeuser-pulizia-im-besseren/)
 - [Schweizer Kuhe Hitzewelle](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-kuhe-hitzewelle/)
 - [Schweizer Loehne 2026 Inflation](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-loehne-2026-inflation/)
+- [Schweizer Loehne Berufe Bern](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-loehne-berufe-bern/)
 - [Schweizer Loehne Genf 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-loehne-genf-2026/)
 - [Schweizer Lohn Brutto Netto 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-lohn-brutto-netto-2026/)
 - [Schweizer Lohnabrechnung 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-lohnabrechnung-2026/)
@@ -8693,6 +8697,7 @@
 - [Page 14](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-14/)
 - [Page 15](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-15/)
 - [Page 16](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-16/)
+- [Page 17](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-17/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/abkommen-und-politik/page-4/)
@@ -8708,7 +8713,6 @@
 - [Page 5](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-7/)
-- [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-8/)
 - [Energie Und Treibstoff](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-2/)
 - [Familie Und Schule](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/)
@@ -8758,7 +8762,6 @@
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/renten-ahv-bvg/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/renten-ahv-bvg/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/renten-ahv-bvg/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/renten-ahv-bvg/page-9/)
 - [Sicherheit Und Kriminalitaet](https://frontaliereticino.ch/de/schweiz-artikel/themen/sicherheit-und-kriminalitaet/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/sicherheit-und-kriminalitaet/page-2/)
 - [Steuern](https://frontaliereticino.ch/de/schweiz-artikel/themen/steuern/)
