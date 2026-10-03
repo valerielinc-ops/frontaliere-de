@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 20582 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 20579 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5354,7 +5354,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (15281 pages)
+### Other Pages (15278 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -9844,7 +9844,6 @@
 - [Wild Hogs Hc Arosa Vs Sc Herisau 2026 10 31](https://frontaliereticino.ch/de/veranstaltungen/appenzell/herisau/wild-hogs-hc-arosa-vs-sc-herisau-2026-10-31/)
 - [Hundwil](https://frontaliereticino.ch/de/veranstaltungen/appenzell/hundwil/)
 - [Mostra Del Bestiame Di Hundwil 2026 10 10](https://frontaliereticino.ch/de/veranstaltungen/appenzell/hundwil/mostra-del-bestiame-di-hundwil-2026-10-10/)
-- [Lutzenberg](https://frontaliereticino.ch/de/veranstaltungen/appenzell/lutzenberg/)
 - [Mostra Del Bestiame Di Wolfhalden Lutzenberg 2026 10 02](https://frontaliereticino.ch/de/veranstaltungen/appenzell/lutzenberg/mostra-del-bestiame-di-wolfhalden-lutzenberg-2026-10-02/)
 - [Oberegg](https://frontaliereticino.ch/de/veranstaltungen/appenzell/oberegg/)
 - [Magia Del Suono 2026 A Oberegg 2026 12 13](https://frontaliereticino.ch/de/veranstaltungen/appenzell/oberegg/magia-del-suono-2026-a-oberegg-2026-12-13/)
@@ -16560,7 +16559,6 @@
 - [Un Si Bel Amour Gil Pidoux 2026 12 12](https://frontaliereticino.ch/de/veranstaltungen/waadt/villeneuve-vd/un-si-bel-amour-gil-pidoux-2026-12-12/)
 - [Vinzel](https://frontaliereticino.ch/de/veranstaltungen/waadt/vinzel/)
 - [Discovering The Bourru In The Vineyards La Cote 2026 11 07](https://frontaliereticino.ch/de/veranstaltungen/waadt/vinzel/discovering-the-bourru-in-the-vineyards-la-cote-2026-11-07/)
-- [Vufflens Le Chateau](https://frontaliereticino.ch/de/veranstaltungen/waadt/vufflens-le-chateau/)
 - [Abbavoice Konzert 2026 10 02](https://frontaliereticino.ch/de/veranstaltungen/waadt/vufflens-le-chateau/abbavoice-konzert-2026-10-02/)
 - [Vullierens](https://frontaliereticino.ch/de/veranstaltungen/waadt/vullierens/)
 - [Accords Divins Wine Chocolates 2026 10 03](https://frontaliereticino.ch/de/veranstaltungen/waadt/vullierens/accords-divins-wine-chocolates-2026-10-03/)
@@ -18119,7 +18117,6 @@
 - [Page 2](https://frontaliereticino.ch/de/veranstaltungen/weitere-kantone/weitere-veranstaltungen/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/veranstaltungen/weitere-kantone/weitere-veranstaltungen/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/veranstaltungen/weitere-kantone/weitere-veranstaltungen/page-4/)
-- [Page 5](https://frontaliereticino.ch/de/veranstaltungen/weitere-kantone/weitere-veranstaltungen/page-5/)
 - [Palettenmesse Bremgarten 2026 10 22](https://frontaliereticino.ch/de/veranstaltungen/weitere-kantone/weitere-veranstaltungen/palettenmesse-bremgarten-2026-10-22/)
 - [Palp Festival 2026 08 13](https://frontaliereticino.ch/de/veranstaltungen/weitere-kantone/weitere-veranstaltungen/palp-festival-2026-08-13/)
 - [Paraphones 2026 10 09](https://frontaliereticino.ch/de/veranstaltungen/weitere-kantone/weitere-veranstaltungen/paraphones-2026-10-09/)
