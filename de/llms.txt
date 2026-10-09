@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22047 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22048 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4601,6 +4601,7 @@
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-11/)
 - [Page 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-12/)
+- [Page 13](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-13/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/grenze-und-zoll/page-4/)
@@ -4629,6 +4630,7 @@
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-7/)
 - [Sicherheit Und Kriminalitaet](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-10/)
+- [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-11/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-4/)
@@ -4664,7 +4666,6 @@
 - [Page 31](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-31/)
 - [Page 32](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-32/)
 - [Page 33](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-33/)
-- [Page 34](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-34/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-6/)
@@ -4679,7 +4680,6 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-9/)
 - [Wohnen Und Miete](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/wohnen-und-miete/page-3/)
@@ -5360,7 +5360,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (16740 pages)
+### Other Pages (16741 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -8862,6 +8862,7 @@
 - [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-9/)
 - [Franken Und Preise](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/)
 - [Page 10](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-10/)
+- [Page 11](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-11/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-4/)
