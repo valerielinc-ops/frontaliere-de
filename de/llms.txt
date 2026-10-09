@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22342 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22337 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5361,7 +5361,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (17034 pages)
+### Other Pages (17029 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5408,7 +5408,6 @@
 - [Amstein Walthert Ag](https://frontaliereticino.ch/de/aziende/amstein-walthert-ag/)
 - [Anker Swiss Ticino Ag](https://frontaliereticino.ch/de/aziende/anker-swiss-ticino-ag/)
 - [Anybotics](https://frontaliereticino.ch/de/aziende/anybotics/)
-- [Apg Sga](https://frontaliereticino.ch/de/aziende/apg-sga/)
 - [Apleona Schweiz Ag](https://frontaliereticino.ch/de/aziende/apleona-schweiz-ag/)
 - [Apple Retail Switzerland](https://frontaliereticino.ch/de/aziende/apple-retail-switzerland/)
 - [Ardentis](https://frontaliereticino.ch/de/aziende/ardentis/)
@@ -5467,7 +5466,6 @@
 - [Citta Di Lugano](https://frontaliereticino.ch/de/aziende/citta-di-lugano/)
 - [Ckw](https://frontaliereticino.ch/de/aziende/ckw/)
 - [Clienia Ag](https://frontaliereticino.ch/de/aziende/clienia-ag/)
-- [Climeworks](https://frontaliereticino.ch/de/aziende/climeworks/)
 - [Clinica Holistica Engiadina](https://frontaliereticino.ch/de/aziende/clinica-holistica-engiadina/)
 - [Clinique De La Source](https://frontaliereticino.ch/de/aziende/clinique-de-la-source/)
 - [Colin Cie Wealth Management](https://frontaliereticino.ch/de/aziende/colin-cie-wealth-management/)
@@ -5533,7 +5531,6 @@
 - [Fachkraft Ch Gmbh](https://frontaliereticino.ch/de/aziende/fachkraft-ch-gmbh/)
 - [Fachspital Sune Egge](https://frontaliereticino.ch/de/aziende/fachspital-sune-egge/)
 - [Felfel](https://frontaliereticino.ch/de/aziende/felfel/)
-- [Fenaco](https://frontaliereticino.ch/de/aziende/fenaco/)
 - [Ferrovia Retica Rhb](https://frontaliereticino.ch/de/aziende/ferrovia-retica-rhb/)
 - [Ffs Officine Ferrovie Federali](https://frontaliereticino.ch/de/aziende/ffs-officine-ferrovie-federali/)
 - [Fielmann Group](https://frontaliereticino.ch/de/aziende/fielmann-group/)
@@ -5672,7 +5669,6 @@
 - [Landi Reba Ag](https://frontaliereticino.ch/de/aziende/landi-reba-ag/)
 - [Landi Schweiz Ag](https://frontaliereticino.ch/de/aziende/landi-schweiz-ag/)
 - [Landi Seeland Ag](https://frontaliereticino.ch/de/aziende/landi-seeland-ag/)
-- [Landi Sempach Emmen Genossenschaft](https://frontaliereticino.ch/de/aziende/landi-sempach-emmen-genossenschaft/)
 - [Landi Weinland Genossenschaft](https://frontaliereticino.ch/de/aziende/landi-weinland-genossenschaft/)
 - [Landi Zola Ag](https://frontaliereticino.ch/de/aziende/landi-zola-ag/)
 - [Landi Zuri Unterland Genossenschaft](https://frontaliereticino.ch/de/aziende/landi-zuri-unterland-genossenschaft/)
@@ -5711,7 +5707,6 @@
 - [Migrolino](https://frontaliereticino.ch/de/aziende/migrolino/)
 - [Migros](https://frontaliereticino.ch/de/aziende/migros/)
 - [Migros Bank](https://frontaliereticino.ch/de/aziende/migros-bank/)
-- [Migros Industrie Ag](https://frontaliereticino.ch/de/aziende/migros-industrie-ag/)
 - [Migros Logistics](https://frontaliereticino.ch/de/aziende/migros-logistics/)
 - [Migros Restaurant](https://frontaliereticino.ch/de/aziende/migros-restaurant/)
 - [Migros Take Away](https://frontaliereticino.ch/de/aziende/migros-take-away/)
