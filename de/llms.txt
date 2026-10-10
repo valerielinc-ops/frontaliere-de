@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: German (this file) — also available in Italian (primary), English, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-09
+- **Index Generated**: 2026-10-10
 - **Audience**: Deutschsprachige Grenzgänger, die zwischen Italien und der Schweiz (Tessin, Graubünden, Wallis) pendeln
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22546 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22560 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -955,7 +955,7 @@
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4393 pages)
+### Blog Articles (4399 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1560,6 +1560,7 @@
 - [Casanova Druck Unternehmen](https://frontaliereticino.ch/de/grenzgaenger-artikel/casanova-druck-unternehmen/)
 - [Casciago Park Sanierung Arbeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/casciago-park-sanierung-arbeiten/)
 - [Casellario Von Bern Das Ok Fur Das Studium Eines Vereinbarung Fur Daten Austaus](https://frontaliereticino.ch/de/grenzgaenger-artikel/casellario-von-bern-das-ok-fur-das-studium-eines-vereinbarung-fur-daten-austaus/)
+- [Caslano Colombera Motorradunfall](https://frontaliereticino.ch/de/grenzgaenger-artikel/caslano-colombera-motorradunfall/)
 - [Caslano Haushalt 2025 Ueberschuss](https://frontaliereticino.ch/de/grenzgaenger-artikel/caslano-haushalt-2025-ueberschuss/)
 - [Casnate Bernate Verlegung](https://frontaliereticino.ch/de/grenzgaenger-artikel/casnate-bernate-verlegung/)
 - [Casorate Sempione Kiefernzapfen San Tito](https://frontaliereticino.ch/de/grenzgaenger-artikel/casorate-sempione-kiefernzapfen-san-tito/)
@@ -1931,6 +1932,7 @@
 - [Erba Tessin Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/erba-tessin-grenzgaenger/)
 - [Erdbeben Sankt Gallen 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/erdbeben-sankt-gallen-2026/)
 - [Erdbeerfest Camorino Wohltatig](https://frontaliereticino.ch/de/grenzgaenger-artikel/erdbeerfest-camorino-wohltatig/)
+- [Erdrutsch Sementina Verkehr](https://frontaliereticino.ch/de/grenzgaenger-artikel/erdrutsch-sementina-verkehr/)
 - [Erfolg Pharma Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/erfolg-pharma-tessin/)
 - [Erforderliche Dokumente Arbeit Schweiz Grenzgaenger Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/erforderliche-dokumente-arbeit-schweiz-grenzgaenger-tessin/)
 - [Erganzende Therapie Zertifikate Lugano](https://frontaliereticino.ch/de/grenzgaenger-artikel/erganzende-therapie-zertifikate-lugano/)
@@ -2082,6 +2084,7 @@
 - [Fitness Tessin Record 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fitness-tessin-record-2026/)
 - [Fitnessstudio Mitgliedschaften Schweiz Rekord 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/fitnessstudio-mitgliedschaften-schweiz-rekord-2026/)
 - [Flat Tax Im Tuir 25 Der Schweizer Steuern Ab 2027](https://frontaliereticino.ch/de/grenzgaenger-artikel/flat-tax-im-tuir-25-der-schweizer-steuern-ab-2027/)
+- [Fleisch Wein Zoll Mendrisiotto](https://frontaliereticino.ch/de/grenzgaenger-artikel/fleisch-wein-zoll-mendrisiotto/)
 - [Flotilla Aktivisten Werden In Israel Verhort](https://frontaliereticino.ch/de/grenzgaenger-artikel/flotilla-aktivisten-werden-in-israel-verhort/)
 - [Fluechtiger In Como Festgenommen](https://frontaliereticino.ch/de/grenzgaenger-artikel/fluechtiger-in-como-festgenommen/)
 - [Flugplatz Lugano Kosten Anfrage 2025](https://frontaliereticino.ch/de/grenzgaenger-artikel/flugplatz-lugano-kosten-anfrage-2025/)
@@ -3583,6 +3586,7 @@
 - [Monte Lema Bahn Saison 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/monte-lema-bahn-saison-2026/)
 - [Monte Olimpino Tilo Chiasso Como](https://frontaliereticino.ch/de/grenzgaenger-artikel/monte-olimpino-tilo-chiasso-como/)
 - [Monte Olimpino Zugwochenenden](https://frontaliereticino.ch/de/grenzgaenger-artikel/monte-olimpino-zugwochenenden/)
+- [Montegrino Valtravaglia Angriff Verurteilung](https://frontaliereticino.ch/de/grenzgaenger-artikel/montegrino-valtravaglia-angriff-verurteilung/)
 - [Montegrino Valtravaglia Frontalier Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/montegrino-valtravaglia-frontalier-tessin/)
 - [Montescheno Grenzgaenger Tessin Leitfaden](https://frontaliereticino.ch/de/grenzgaenger-artikel/montescheno-grenzgaenger-tessin-leitfaden/)
 - [Montessori Green Food Week 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/montessori-green-food-week-2026/)
@@ -3729,6 +3733,7 @@
 - [Nomine Sims Fehlgeschlagen](https://frontaliereticino.ch/de/grenzgaenger-artikel/nomine-sims-fehlgeschlagen/)
 - [Noranco Diebstahl Garage Festnahmen](https://frontaliereticino.ch/de/grenzgaenger-artikel/noranco-diebstahl-garage-festnahmen/)
 - [Notfall Erde Transformation](https://frontaliereticino.ch/de/grenzgaenger-artikel/notfall-erde-transformation/)
+- [Notfallmanagement Tessin Lombardei](https://frontaliereticino.ch/de/grenzgaenger-artikel/notfallmanagement-tessin-lombardei/)
 - [Novartis Gewinnrueckgang 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/novartis-gewinnrueckgang-2026/)
 - [Novate Mezzola Graubunden](https://frontaliereticino.ch/de/grenzgaenger-artikel/novate-mezzola-graubunden/)
 - [Novita Del 1 August](https://frontaliereticino.ch/de/grenzgaenger-artikel/novita-del-1-august/)
@@ -3765,6 +3770,7 @@
 - [Operatingsaaleinsichtenfrontalieretarincome](https://frontaliereticino.ch/de/grenzgaenger-artikel/operatingsaaleinsichtenfrontalieretarincome/)
 - [Operation Hermes Mehrwertsteuerbetrug 450 Mio Entfuhrungen 11 Mio](https://frontaliereticino.ch/de/grenzgaenger-artikel/operation-hermes-mehrwertsteuerbetrug-450-mio-entfuhrungen-11-mio/)
 - [Operation Trotta 35 Bussen E Bike Tuning E Scooter](https://frontaliereticino.ch/de/grenzgaenger-artikel/operation-trotta-35-bussen-e-bike-tuning-e-scooter/)
+- [Operation Upriver Festnahmen Varese 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/operation-upriver-festnahmen-varese-2026/)
 - [Opfer Elektrokution Bellinzona 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/opfer-elektrokution-bellinzona-2026/)
 - [Opferhilfe 142 Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/opferhilfe-142-tessin-2026/)
 - [Orchestra Le Nove Konzerte Lugano Bellinzona](https://frontaliereticino.ch/de/grenzgaenger-artikel/orchestra-le-nove-konzerte-lugano-bellinzona/)
@@ -5396,7 +5402,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (17203 pages)
+### Other Pages (17211 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -6958,6 +6964,7 @@
 - [Cyber Security Tag Ated Lugano](https://frontaliereticino.ch/de/schweiz-artikel/cyber-security-tag-ated-lugano/)
 - [Cyberrisiken Schweizer Kmu](https://frontaliereticino.ch/de/schweiz-artikel/cyberrisiken-schweizer-kmu/)
 - [Cybersecurity Zuhause Datenzentrum](https://frontaliereticino.ch/de/schweiz-artikel/cybersecurity-zuhause-datenzentrum/)
+- [Cybersicherheit Schweiz Rekord Meldungen](https://frontaliereticino.ch/de/schweiz-artikel/cybersicherheit-schweiz-rekord-meldungen/)
 - [Cyberversicherung Wachstum 2025](https://frontaliereticino.ch/de/schweiz-artikel/cyberversicherung-wachstum-2025/)
 - [Das L Behoerde Kuerze Dauer Im Kanton Uri](https://frontaliereticino.ch/de/schweiz-artikel/das-l-behoerde-kuerze-dauer-im-kanton-uri/)
 - [Das Tessiner Gesundheitswesen Braucht Neue Anreize](https://frontaliereticino.ch/de/schweiz-artikel/das-tessiner-gesundheitswesen-braucht-neue-anreize/)
@@ -7996,6 +8003,7 @@
 - [Maschinenfuhrer Fahrer Locarno](https://frontaliereticino.ch/de/schweiz-artikel/maschinenfuhrer-fahrer-locarno/)
 - [Massimo Balena Schweizer Landbaukalender](https://frontaliereticino.ch/de/schweiz-artikel/massimo-balena-schweizer-landbaukalender/)
 - [Massimo Boldi Krankenhaus](https://frontaliereticino.ch/de/schweiz-artikel/massimo-boldi-krankenhaus/)
+- [Mastercard Zahlungen Ohne Internet](https://frontaliereticino.ch/de/schweiz-artikel/mastercard-zahlungen-ohne-internet/)
 - [Mazzone Klima Bundesrat](https://frontaliereticino.ch/de/schweiz-artikel/mazzone-klima-bundesrat/)
 - [Mc 27 Ausstellung Lugano 2026](https://frontaliereticino.ch/de/schweiz-artikel/mc-27-ausstellung-lugano-2026/)
 - [Medacta Umsatzwachstum Pietro](https://frontaliereticino.ch/de/schweiz-artikel/medacta-umsatzwachstum-pietro/)
@@ -8004,12 +8012,14 @@
 - [Mehr Als 80 Der Diebstahle In Der Schweiz Haben Einen Auslandischen Pass](https://frontaliereticino.ch/de/schweiz-artikel/mehr-als-80-der-diebstahle-in-der-schweiz-haben-einen-auslandischen-pass/)
 - [Mehr Als Barometer Kof Ueber Erwartete Zeichen Positiv Fuer Die Wirtschaft](https://frontaliereticino.ch/de/schweiz-artikel/mehr-als-barometer-kof-ueber-erwartete-zeichen-positiv-fuer-die-wirtschaft/)
 - [Mehr Verantwortung Fur Bankfuhrungskrafte](https://frontaliereticino.ch/de/schweiz-artikel/mehr-verantwortung-fur-bankfuhrungskrafte/)
+- [Mehrwertsteuer Referendum 2026 Erhohung Fur Die 13 Rente](https://frontaliereticino.ch/de/schweiz-artikel/mehrwertsteuer-referendum-2026-erhohung-fur-die-13-rente/)
 - [Meinungen Tram Zug Lugano](https://frontaliereticino.ch/de/schweiz-artikel/meinungen-tram-zug-lugano/)
 - [Melide Stadtzentrum Renovierung](https://frontaliereticino.ch/de/schweiz-artikel/melide-stadtzentrum-renovierung/)
 - [Mem Branchen Unternehmen Erholungssignale](https://frontaliereticino.ch/de/schweiz-artikel/mem-branchen-unternehmen-erholungssignale/)
 - [Mercato Affitti Canton Bern](https://frontaliereticino.ch/de/schweiz-artikel/mercato-affitti-canton-bern/)
 - [Micasa Schweizer Investoren Schliessen Filialen](https://frontaliereticino.ch/de/schweiz-artikel/micasa-schweizer-investoren-schliessen-filialen/)
 - [Micasa Vier Filialen 2027](https://frontaliereticino.ch/de/schweiz-artikel/micasa-vier-filialen-2027/)
+- [Midterm Usa Abstimmung Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/midterm-usa-abstimmung-schweiz/)
 - [Miete Basel Landschaft Miete Mietrecht](https://frontaliereticino.ch/de/schweiz-artikel/miete-basel-landschaft-miete-mietrecht/)
 - [Miete Freiburg Einspruch Mietzins](https://frontaliereticino.ch/de/schweiz-artikel/miete-freiburg-einspruch-mietzins/)
 - [Miete Glarus 2026](https://frontaliereticino.ch/de/schweiz-artikel/miete-glarus-2026/)
@@ -8369,6 +8379,7 @@
 - [Rhein Duerre Schweizer Wirtschaft](https://frontaliereticino.ch/de/schweiz-artikel/rhein-duerre-schweizer-wirtschaft/)
 - [Rhein Schiffbarkeit Zukunft Alarm](https://frontaliereticino.ch/de/schweiz-artikel/rhein-schiffbarkeit-zukunft-alarm/)
 - [Rhein Trockenheit Schweiz Logistik](https://frontaliereticino.ch/de/schweiz-artikel/rhein-trockenheit-schweiz-logistik/)
+- [Ricardo Offengelegte Konten](https://frontaliereticino.ch/de/schweiz-artikel/ricardo-offengelegte-konten/)
 - [Richemont Montblanc Stellenabbau](https://frontaliereticino.ch/de/schweiz-artikel/richemont-montblanc-stellenabbau/)
 - [Rickli Nimmt Zeit Bundeskandidatur](https://frontaliereticino.ch/de/schweiz-artikel/rickli-nimmt-zeit-bundeskandidatur/)
 - [Rita Fuhrer Bundesrat](https://frontaliereticino.ch/de/schweiz-artikel/rita-fuhrer-bundesrat/)
@@ -8439,6 +8450,7 @@
 - [Schwei Er Frontalier Tessin Honorar Anforderungen](https://frontaliereticino.ch/de/schweiz-artikel/schwei-er-frontalier-tessin-honorar-anforderungen/)
 - [Schweinefleisch Export In China](https://frontaliereticino.ch/de/schweiz-artikel/schweinefleisch-export-in-china/)
 - [Schweisser Grenzgaenger Tessin Leitfaden](https://frontaliereticino.ch/de/schweiz-artikel/schweisser-grenzgaenger-tessin-leitfaden/)
+- [Schweiz Abstimmung Kriegsmaterialexport 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-abstimmung-kriegsmaterialexport-2026/)
 - [Schweiz Abstimmung Politische Ergebnisse](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-abstimmung-politische-ergebnisse/)
 - [Schweiz Arbeitslosengeld Grenzgaenger Quadri Motion](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-arbeitslosengeld-grenzgaenger-quadri-motion/)
 - [Schweiz Arbeitslosenquote Sinkt Zweiten Quartal 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweiz-arbeitslosenquote-sinkt-zweiten-quartal-2026/)
@@ -8583,6 +8595,7 @@
 - [Schweizer Ki Arbeitsmarkt](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-ki-arbeitsmarkt/)
 - [Schweizer Klima Konsum Umfrage](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-klima-konsum-umfrage/)
 - [Schweizer Konjunktur September Analysten](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-konjunktur-september-analysten/)
+- [Schweizer Konsum September](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-konsum-september/)
 - [Schweizer Konsumentenvertrauen September](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-konsumentenvertrauen-september/)
 - [Schweizer Konsumwachstum Verlangsamt Sich](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-konsumwachstum-verlangsamt-sich/)
 - [Schweizer Krankenhaeuser Pfleger Flucht Jahr](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-krankenhaeuser-pfleger-flucht-jahr/)
@@ -8639,6 +8652,7 @@
 - [Schweizer Wirtschaft Analysten September](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-wirtschaft-analysten-september/)
 - [Schweizer Wirtschaft Beschleunigung Frontalieri](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-wirtschaft-beschleunigung-frontalieri/)
 - [Schweizer Wirtschaft Q2 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-wirtschaft-q2-2026/)
+- [Schweizer Wirtschaft Sinkendes Vertrauen](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-wirtschaft-sinkendes-vertrauen/)
 - [Schweizer Wirtschaft Wachstum Q2 2026](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-wirtschaft-wachstum-q2-2026/)
 - [Schweizer Wirtschaft Wachstum Trimester](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-wirtschaft-wachstum-trimester/)
 - [Schweizer Wohnerlaubnisse](https://frontaliereticino.ch/de/schweiz-artikel/schweizer-wohnerlaubnisse/)
@@ -8718,6 +8732,7 @@
 - [Snb Zinssaetze Ubs](https://frontaliereticino.ch/de/schweiz-artikel/snb-zinssaetze-ubs/)
 - [Snl Alternativvertrag Mitarbeiter](https://frontaliereticino.ch/de/schweiz-artikel/snl-alternativvertrag-mitarbeiter/)
 - [Snl Ricorso Lago Maggiore](https://frontaliereticino.ch/de/schweiz-artikel/snl-ricorso-lago-maggiore/)
+- [Solarinitiative Ohne Bewilligung Gescheitert](https://frontaliereticino.ch/de/schweiz-artikel/solarinitiative-ohne-bewilligung-gescheitert/)
 - [Solothurn Arbeitsmarkt Sektoren Verdienstniveaus](https://frontaliereticino.ch/de/schweiz-artikel/solothurn-arbeitsmarkt-sektoren-verdienstniveaus/)
 - [Solothurn Einbuergerung Anforderungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/solothurn-einbuergerung-anforderungen-verfahren/)
 - [Solothurn Erbschaft Schenkung Saetze](https://frontaliereticino.ch/de/schweiz-artikel/solothurn-erbschaft-schenkung-saetze/)
@@ -8984,7 +8999,6 @@
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-9/)
 - [Thurgau Einbuergerung Voraussetzungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/thurgau-einbuergerung-voraussetzungen-verfahren/)
 - [Thurgau Miete Mietrecht Schlichtung](https://frontaliereticino.ch/de/schweiz-artikel/thurgau-miete-mietrecht-schlichtung/)
 - [Tilo Arbeiten Was Andert](https://frontaliereticino.ch/de/schweiz-artikel/tilo-arbeiten-was-andert/)
@@ -9283,7 +9297,6 @@
 - [Maerz 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/maerz-2026/)
 - [Mai 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/mai-2026/)
 - [September 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/september-2026/)
-- [Woche 29 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-29-2026/)
 - [Woche 30 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-30-2026/)
 - [Woche 31 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-31-2026/)
 - [Woche 32 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-32-2026/)
@@ -9295,6 +9308,7 @@
 - [Woche 38 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-38-2026/)
 - [Woche 39 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-39-2026/)
 - [Woche 40 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-40-2026/)
+- [Woche 41 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-41-2026/)
 - [Tessiner Dialekt](https://frontaliereticino.ch/de/tessiner-dialekt/)
 - [Tfr Abfindung Grenzgaenger Rechner](https://frontaliereticino.ch/de/tfr-abfindung-grenzgaenger-rechner/)
 - [Ueber Uns](https://frontaliereticino.ch/de/ueber-uns/)
