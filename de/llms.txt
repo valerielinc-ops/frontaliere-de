@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22560 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22558 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5402,7 +5402,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (17211 pages)
+### Other Pages (17209 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -8348,6 +8348,7 @@
 - [Ramaggedon Speicherchip Mangel](https://frontaliereticino.ch/de/schweiz-artikel/ramaggedon-speicherchip-mangel/)
 - [Rechtsform In Schwyz Wahlen](https://frontaliereticino.ch/de/schweiz-artikel/rechtsform-in-schwyz-wahlen/)
 - [Referendum Mindestlohn Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/referendum-mindestlohn-schweiz/)
+- [Referendum Nuklear Schweiz 2027](https://frontaliereticino.ch/de/schweiz-artikel/referendum-nuklear-schweiz-2027/)
 - [Referenz Hypothekarzinssatz 1 25 2026](https://frontaliereticino.ch/de/schweiz-artikel/referenz-hypothekarzinssatz-1-25-2026/)
 - [Referenzzins Mieten 2026](https://frontaliereticino.ch/de/schweiz-artikel/referenzzins-mieten-2026/)
 - [Referenzzinssatz Bleibt 1 25 Prozent](https://frontaliereticino.ch/de/schweiz-artikel/referenzzinssatz-bleibt-1-25-prozent/)
@@ -11546,7 +11547,6 @@
 - [Rafael Scholten Wunderbare Kuriositaten 2026 10 22](https://frontaliereticino.ch/de/veranstaltungen/bern/oberhofen-am-thunersee/rafael-scholten-wunderbare-kuriositaten-2026-10-22/)
 - [Ride With Us Mavericks Tribute Band 2026 10 31](https://frontaliereticino.ch/de/veranstaltungen/bern/oberhofen-am-thunersee/ride-with-us-mavericks-tribute-band-2026-10-31/)
 - [Sanja Shane Band 2026 10 24](https://frontaliereticino.ch/de/veranstaltungen/bern/oberhofen-am-thunersee/sanja-shane-band-2026-10-24/)
-- [Oberlangenegg](https://frontaliereticino.ch/de/veranstaltungen/bern/oberlangenegg/)
 - [Victorinox Outdoor Sports Camp 2026 10 05](https://frontaliereticino.ch/de/veranstaltungen/bern/oberlangenegg/victorinox-outdoor-sports-camp-2026-10-05/)
 - [Orpund](https://frontaliereticino.ch/de/veranstaltungen/bern/orpund/)
 - [Rocknroll Tanzparty 2026 11 21](https://frontaliereticino.ch/de/veranstaltungen/bern/orpund/rocknroll-tanzparty-2026-11-21/)
@@ -13371,7 +13371,6 @@
 - [Hallomania Chasse Aux Bonbons En Char Viticole 2026 10 24](https://frontaliereticino.ch/de/veranstaltungen/genf/gy/hallomania-chasse-aux-bonbons-en-char-viticole-2026-10-24/)
 - [Jussy](https://frontaliereticino.ch/de/veranstaltungen/genf/jussy/)
 - [Hallomania Chasse Aux Bonbons En Train Terroir 2026 10 31](https://frontaliereticino.ch/de/veranstaltungen/genf/jussy/hallomania-chasse-aux-bonbons-en-train-terroir-2026-10-31/)
-- [Lancy](https://frontaliereticino.ch/de/veranstaltungen/genf/lancy/)
 - [Le Temps Dun Trajet Se Rapprocher De Lexperience 2026 09 27](https://frontaliereticino.ch/de/veranstaltungen/genf/lancy/le-temps-dun-trajet-se-rapprocher-de-lexperience-2026-09-27/)
 - [Promenade Botanique A Lancy 2026 10 04](https://frontaliereticino.ch/de/veranstaltungen/genf/lancy/promenade-botanique-a-lancy-2026-10-04/)
 - [Rencontre Avec Des Figures Politiques Lanceennes 2026 10 09](https://frontaliereticino.ch/de/veranstaltungen/genf/lancy/rencontre-avec-des-figures-politiques-lanceennes-2026-10-09/)
@@ -13416,7 +13415,6 @@
 - [Nourrir Lhumanite Cest Un Metier Theatre 2027 05 19](https://frontaliereticino.ch/de/veranstaltungen/genf/plan-les-ouates/nourrir-lhumanite-cest-un-metier-theatre-2027-05-19/)
 - [Satigny](https://frontaliereticino.ch/de/veranstaltungen/genf/satigny/)
 - [Happy Dance Gala 2026 11 21](https://frontaliereticino.ch/de/veranstaltungen/genf/satigny/happy-dance-gala-2026-11-21/)
-- [Troinex](https://frontaliereticino.ch/de/veranstaltungen/genf/troinex/)
 - [Demo Crazy Night Rencontres Et Engagement Citoyen 2026 10 09](https://frontaliereticino.ch/de/veranstaltungen/genf/troinex/demo-crazy-night-rencontres-et-engagement-citoyen-2026-10-09/)
 - [Vernier](https://frontaliereticino.ch/de/veranstaltungen/genf/vernier/)
 - [Action Lumieres Vernier 2026 10 27](https://frontaliereticino.ch/de/veranstaltungen/genf/vernier/action-lumieres-vernier-2026-10-27/)
