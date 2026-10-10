@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22570 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22569 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5406,7 +5406,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (17217 pages)
+### Other Pages (17216 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5639,7 +5639,6 @@
 - [Hopital Du Valais](https://frontaliereticino.ch/de/aziende/hopital-du-valais/)
 - [Hopital Fribourgeois Hfr](https://frontaliereticino.ch/de/aziende/hopital-fribourgeois-hfr/)
 - [Hopital Intercantonal De La Broye Hib](https://frontaliereticino.ch/de/aziende/hopital-intercantonal-de-la-broye-hib/)
-- [Hopital Ophtalmique Jules Gonin Fondation Asile Des Aveugles](https://frontaliereticino.ch/de/aziende/hopital-ophtalmique-jules-gonin-fondation-asile-des-aveugles/)
 - [Hopital Riviera Chablais Hrc](https://frontaliereticino.ch/de/aziende/hopital-riviera-chablais-hrc/)
 - [Hornbach](https://frontaliereticino.ch/de/aziende/hornbach/)
 - [Hospice General](https://frontaliereticino.ch/de/aziende/hospice-general/)
