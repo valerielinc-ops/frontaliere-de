@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23005 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23004 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4676,7 +4676,6 @@
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-11/)
 - [Page 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-12/)
-- [Page 13](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-13/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-4/)
@@ -4761,6 +4760,7 @@
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-8/)
 - [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-9/)
 - [Verkehr Und Transport](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/)
+- [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-10/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/verkehr-und-transport/page-4/)
@@ -5408,7 +5408,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (17650 pages)
+### Other Pages (17649 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -8947,7 +8947,6 @@
 - [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-9/)
 - [Energie Und Treibstoff](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-2/)
-- [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-3/)
 - [Familie Und Schule](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-3/)
