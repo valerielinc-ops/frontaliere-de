@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23004 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23005 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5408,7 +5408,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (17649 pages)
+### Other Pages (17650 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5424,6 +5424,7 @@
 - [Arbeit Tessin Kellner](https://frontaliereticino.ch/de/arbeit-tessin-kellner/)
 - [Arbeit Tessin Koch](https://frontaliereticino.ch/de/arbeit-tessin-koch/)
 - [Arbeit Tessin Krankenpfleger](https://frontaliereticino.ch/de/arbeit-tessin-krankenpfleger/)
+- [Arbeit Tessin Logopaede](https://frontaliereticino.ch/de/arbeit-tessin-logopaede/)
 - [Arbeit Tessin Maurer](https://frontaliereticino.ch/de/arbeit-tessin-maurer/)
 - [Arbeit Tessin Metzger](https://frontaliereticino.ch/de/arbeit-tessin-metzger/)
 - [Arbeit Tessin Optiker Optometrist](https://frontaliereticino.ch/de/arbeit-tessin-optiker-optometrist/)
@@ -5576,7 +5577,6 @@
 - [Etat De Fribourg](https://frontaliereticino.ch/de/aziende/etat-de-fribourg/)
 - [Etat De Vaud Administration Cantonale Vaudoise](https://frontaliereticino.ch/de/aziende/etat-de-vaud-administration-cantonale-vaudoise/)
 - [Etavis Ag](https://frontaliereticino.ch/de/aziende/etavis-ag/)
-- [Etavis Grossenbacher Ag](https://frontaliereticino.ch/de/aziende/etavis-grossenbacher-ag/)
 - [Etavis Jag Jakob](https://frontaliereticino.ch/de/aziende/etavis-jag-jakob/)
 - [Etavis Kriegel Co Ag](https://frontaliereticino.ch/de/aziende/etavis-kriegel-co-ag/)
 - [Etavis Kriegel Schaffner Ag](https://frontaliereticino.ch/de/aziende/etavis-kriegel-schaffner-ag/)
@@ -8947,6 +8947,7 @@
 - [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-9/)
 - [Energie Und Treibstoff](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-2/)
+- [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-3/)
 - [Familie Und Schule](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/familie-und-schule/page-3/)
@@ -8959,7 +8960,6 @@
 - [Franken Und Preise](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/)
 - [Page 10](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-11/)
-- [Page 12](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-12/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-4/)
@@ -9022,6 +9022,7 @@
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/wohnen-und-miete/page-9/)
 - [Thurgau Einbuergerung Voraussetzungen Verfahren](https://frontaliereticino.ch/de/schweiz-artikel/thurgau-einbuergerung-voraussetzungen-verfahren/)
 - [Thurgau Miete Mietrecht Schlichtung](https://frontaliereticino.ch/de/schweiz-artikel/thurgau-miete-mietrecht-schlichtung/)
 - [Tilo Arbeiten Was Andert](https://frontaliereticino.ch/de/schweiz-artikel/tilo-arbeiten-was-andert/)
