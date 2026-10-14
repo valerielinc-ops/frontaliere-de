@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23152 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23153 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5410,7 +5410,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (17795 pages)
+### Other Pages (17796 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5435,6 +5435,7 @@
 - [Arbeit Tessin Radiologiefachmann](https://frontaliereticino.ch/de/arbeit-tessin-radiologiefachmann/)
 - [Arbeit Tessin Sachbearbeiter](https://frontaliereticino.ch/de/arbeit-tessin-sachbearbeiter/)
 - [Arbeit Tessin Schweisser](https://frontaliereticino.ch/de/arbeit-tessin-schweisser/)
+- [Automatisiere deine Jobsuche in der Schweiz](https://frontaliereticino.ch/de/arbeitssuche-schweiz-automatisieren/) — Automatisiere deine Jobsuche in der Schweiz: Wir finden passende Stellen und erstellen Bewerbungen nach Mass. Das kann deine Chancen auf ein Vorstellungsgespräc
 - [Laura Bianchi](https://frontaliereticino.ch/de/autoren/laura-bianchi/)
 - [Marco Ferrari](https://frontaliereticino.ch/de/autoren/marco-ferrari/)
 - [Redazione](https://frontaliereticino.ch/de/autoren/redazione/)
