@@ -955,7 +955,7 @@
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4406 pages)
+### Blog Articles (4407 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -4667,6 +4667,7 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/franken-und-preise/page-9/)
 - [G Bewilligung](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
@@ -5409,7 +5410,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (17796 pages)
+### Other Pages (17795 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -8945,7 +8946,6 @@
 - [Page 6](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/schweiz-artikel/themen/arbeit-und-beschaeftigung/page-9/)
 - [Energie Und Treibstoff](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/energie-und-treibstoff/page-3/)
@@ -8961,6 +8961,7 @@
 - [Franken Und Preise](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/)
 - [Page 10](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-11/)
+- [Page 12](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-12/)
 - [Page 2](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/schweiz-artikel/themen/franken-und-preise/page-4/)
@@ -12520,7 +12521,6 @@
 - [Fruhstucksbuffet Im Restaurant Fein Sein 2026 12 13](https://frontaliereticino.ch/de/veranstaltungen/freiburg/plaffeien/fruhstucksbuffet-im-restaurant-fein-sein-2026-12-13/)
 - [Gefuhrte Vollmondwanderung Schwarzsee 2026 11 22](https://frontaliereticino.ch/de/veranstaltungen/freiburg/plaffeien/gefuhrte-vollmondwanderung-schwarzsee-2026-11-22/)
 - [Hammer S Wildbuffet A Discretion Restaurant Fein 2026 10 18](https://frontaliereticino.ch/de/veranstaltungen/freiburg/plaffeien/hammer-s-wildbuffet-a-discretion-restaurant-fein-2026-10-18/)
-- [Prez](https://frontaliereticino.ch/de/veranstaltungen/freiburg/prez/)
 - [Vokalensemble Graindelavoix Be Josquin The Undead 2026 10 13](https://frontaliereticino.ch/de/veranstaltungen/freiburg/prez/vokalensemble-graindelavoix-be-josquin-the-undead-2026-10-13/)
 - [Rue](https://frontaliereticino.ch/de/veranstaltungen/freiburg/rue/)
 - [Foire Dautomne 2026 10 03](https://frontaliereticino.ch/de/veranstaltungen/freiburg/rue/foire-dautomne-2026-10-03/)
