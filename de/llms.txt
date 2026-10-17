@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: German (this file) — also available in Italian (primary), English, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-16
+- **Index Generated**: 2026-10-17
 - **Audience**: Deutschsprachige Grenzgänger, die zwischen Italien und der Schweiz (Tessin, Graubünden, Wallis) pendeln
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 24436 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 24433 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -955,7 +955,7 @@
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4530 pages)
+### Blog Articles (4531 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -4755,6 +4755,7 @@
 - [Familie Und Schule](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-11/)
+- [Page 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-12/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-4/)
@@ -4814,15 +4815,12 @@
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/loehne/page-8/)
 - [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/loehne/page-9/)
 - [Renten Ahv Bvg](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/)
-- [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-10/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-7/)
-- [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-8/)
-- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/renten-ahv-bvg/page-9/)
 - [Sicherheit Und Kriminalitaet](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/sicherheit-und-kriminalitaet/page-11/)
@@ -4860,6 +4858,9 @@
 - [Page 29](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-29/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-3/)
 - [Page 30](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-30/)
+- [Page 31](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-31/)
+- [Page 32](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-32/)
+- [Page 33](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-33/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/steuern/page-6/)
@@ -5533,7 +5534,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (18956 pages)
+### Other Pages (18952 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5628,7 +5629,6 @@
 - [Bps Banca Popolare Di Sondrio Suisse](https://frontaliereticino.ch/de/aziende/bps-banca-popolare-di-sondrio-suisse/)
 - [Brack Alltron Ag](https://frontaliereticino.ch/de/aziende/brack-alltron-ag/)
 - [Breitling](https://frontaliereticino.ch/de/aziende/breitling/)
-- [Buccellati](https://frontaliereticino.ch/de/aziende/buccellati/)
 - [Buhler Group](https://frontaliereticino.ch/de/aziende/buhler-group/)
 - [Burgenstock Hotels Ag](https://frontaliereticino.ch/de/aziende/burgenstock-hotels-ag/)
 - [Burkhalter Technics Ag](https://frontaliereticino.ch/de/aziende/burkhalter-technics-ag/)
@@ -9674,7 +9674,6 @@
 - [Maerz 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/maerz-2026/)
 - [Mai 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/mai-2026/)
 - [September 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/september-2026/)
-- [Woche 30 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-30-2026/)
 - [Woche 31 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-31-2026/)
 - [Woche 32 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-32-2026/)
 - [Woche 33 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-33-2026/)
@@ -9686,6 +9685,7 @@
 - [Woche 39 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-39-2026/)
 - [Woche 40 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-40-2026/)
 - [Woche 41 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-41-2026/)
+- [Woche 42 2026](https://frontaliereticino.ch/de/tessiner-arbeitsmarkt/woche-42-2026/)
 - [Tessiner Dialekt](https://frontaliereticino.ch/de/tessiner-dialekt/)
 - [Tfr Abfindung Grenzgaenger Rechner](https://frontaliereticino.ch/de/tfr-abfindung-grenzgaenger-rechner/)
 - [Ueber Uns](https://frontaliereticino.ch/de/ueber-uns/)
@@ -12500,7 +12500,6 @@
 - [Ausflug Wilde Emme Fuhrung Wildstation Und 2026 06 21](https://frontaliereticino.ch/de/veranstaltungen/bern/utzenstorf/ausflug-wilde-emme-fuhrung-wildstation-und-2026-06-21/)
 - [Saisonabschluss Mit Kurzfuhrungen 2026 10 11](https://frontaliereticino.ch/de/veranstaltungen/bern/utzenstorf/saisonabschluss-mit-kurzfuhrungen-2026-10-11/)
 - [Schlossweihnacht 2026 12 11](https://frontaliereticino.ch/de/veranstaltungen/bern/utzenstorf/schlossweihnacht-2026-12-11/)
-- [Vinelz](https://frontaliereticino.ch/de/veranstaltungen/bern/vinelz/)
 - [Gerhard Tschan Eine Tour Dhorizon 2026 10 16](https://frontaliereticino.ch/de/veranstaltungen/bern/vinelz/gerhard-tschan-eine-tour-dhorizon-2026-10-16/)
 - [Wattenwil](https://frontaliereticino.ch/de/veranstaltungen/bern/wattenwil/)
 - [Herbst Gartenkurs In Wattenwil 2026 10 31](https://frontaliereticino.ch/de/veranstaltungen/bern/wattenwil/herbst-gartenkurs-in-wattenwil-2026-10-31/)
@@ -16157,7 +16156,6 @@
 - [Wine Dine Frankreich Provence 2027 05 22](https://frontaliereticino.ch/de/veranstaltungen/luzern/oberkirch/wine-dine-frankreich-provence-2027-05-22/)
 - [Wine Dine Truffelevent 2026 11 27](https://frontaliereticino.ch/de/veranstaltungen/luzern/oberkirch/wine-dine-truffelevent-2026-11-27/)
 - [22 Rottaler Erntefest 2026 10 03](https://frontaliereticino.ch/de/veranstaltungen/luzern/pfaffnau/22-rottaler-erntefest-2026-10-03/)
-- [Rain](https://frontaliereticino.ch/de/veranstaltungen/luzern/rain/)
 - [The Beauty Of Gemina Veil Of Rain Tour 2026 2026 10 16](https://frontaliereticino.ch/de/veranstaltungen/luzern/rain/the-beauty-of-gemina-veil-of-rain-tour-2026-2026-10-16/)
 - [Kurs Urban Sketching Romoos 15 09 2026 2026 09 15](https://frontaliereticino.ch/de/veranstaltungen/luzern/romoos/kurs-urban-sketching-romoos-15-09-2026-2026-09-15/)
 - [Schenkon](https://frontaliereticino.ch/de/veranstaltungen/luzern/schenkon/)
@@ -17640,7 +17638,6 @@
 - [Balsthal](https://frontaliereticino.ch/de/veranstaltungen/solothurn/balsthal/)
 - [Dlg Theater 2026 Tschingge Ein Stuck Schweiz 2026 10 16](https://frontaliereticino.ch/de/veranstaltungen/solothurn/balsthal/dlg-theater-2026-tschingge-ein-stuck-schweiz-2026-10-16/)
 - [Tag Der Natur Balsthal 2026 10 17](https://frontaliereticino.ch/de/veranstaltungen/solothurn/balsthal/tag-der-natur-balsthal-2026-10-17/)
-- [Bellach](https://frontaliereticino.ch/de/veranstaltungen/solothurn/bellach/)
 - [Museum Movie Night 2026 08 28](https://frontaliereticino.ch/de/veranstaltungen/solothurn/bellach/museum-movie-night-2026-08-28/)
 - [Bettlach](https://frontaliereticino.ch/de/veranstaltungen/solothurn/bettlach/)
 - [Spettacolo Di Magia Magic Monday Con Christoph 2026 10 24](https://frontaliereticino.ch/de/veranstaltungen/solothurn/bettlach/spettacolo-di-magia-magic-monday-con-christoph-2026-10-24/)
@@ -18616,6 +18613,7 @@
 - [Page 3](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-3/)
 - [Page 30](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-30/)
 - [Page 31](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-31/)
+- [Page 32](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-32/)
 - [Page 4](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-4/)
 - [Page 5](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-6/)
@@ -18858,7 +18856,6 @@
 - [I Funghi Del Ticino Conferenza E Mostra 2026 10 01](https://frontaliereticino.ch/de/veranstaltungen/tessin/comano/i-funghi-del-ticino-conferenza-e-mostra-2026-10-01/)
 - [Diese Woche](https://frontaliereticino.ch/de/veranstaltungen/tessin/diese-woche/)
 - [Dieses Wochenende](https://frontaliereticino.ch/de/veranstaltungen/tessin/dieses-wochenende/)
-- [Faido](https://frontaliereticino.ch/de/veranstaltungen/tessin/faido/)
 - [Migros Hiking Sounds 2026 09 13](https://frontaliereticino.ch/de/veranstaltungen/tessin/faido/migros-hiking-sounds-2026-09-13/)
 - [Riparare Invece Di Buttare 2026 10 10](https://frontaliereticino.ch/de/veranstaltungen/tessin/faido/riparare-invece-di-buttare-2026-10-10/)
 - [Una Storia Culturale Del Rischio Presentazione 2026 10 16](https://frontaliereticino.ch/de/veranstaltungen/tessin/faido/una-storia-culturale-del-rischio-presentazione-2026-10-16/)
