@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 24612 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 24615 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -955,7 +955,7 @@
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4565 pages)
+### Blog Articles (4567 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -1701,6 +1701,7 @@
 - [Como Export Schweiz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-export-schweiz-2026/)
 - [Como Fahrradverleih Kostenlos Juni](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-fahrradverleih-kostenlos-juni/)
 - [Como Fai Herbsttage](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-fai-herbsttage/)
+- [Como Familien Demo](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-familien-demo/)
 - [Como Frazione Tavernola Banditi Assaltano Gioielleria E Si Dileguano](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-frazione-tavernola-banditi-assaltano-gioielleria-e-si-dileguano/)
 - [Como Gera Lario Schwimm Rekord](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-gera-lario-schwimm-rekord/)
 - [Como Grenzgaenger Graubuenden](https://frontaliereticino.ch/de/grenzgaenger-artikel/como-grenzgaenger-graubuenden/)
@@ -4554,6 +4555,7 @@
 - [Steuergrenze Kunstwerke Iva Konfiskation Verhaltnisma Igkeit](https://frontaliereticino.ch/de/grenzgaenger-artikel/steuergrenze-kunstwerke-iva-konfiskation-verhaltnisma-igkeit/)
 - [Steuerguthaben 2026 Familie Berechnung Grenzen](https://frontaliereticino.ch/de/grenzgaenger-artikel/steuerguthaben-2026-familie-berechnung-grenzen/)
 - [Steuerguthaben 2026 Single Grenzgaenger](https://frontaliereticino.ch/de/grenzgaenger-artikel/steuerguthaben-2026-single-grenzgaenger/)
+- [Steuerguthaben Familie 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/steuerguthaben-familie-2026/)
 - [Steuergutschrift 2026 Berechnung Grenzen](https://frontaliereticino.ch/de/grenzgaenger-artikel/steuergutschrift-2026-berechnung-grenzen/)
 - [Steuergutschrift 2026 Uber 20km](https://frontaliereticino.ch/de/grenzgaenger-artikel/steuergutschrift-2026-uber-20km/)
 - [Steuergutschrift Fur Tessiner Ausgaben Idea Giovani Centro](https://frontaliereticino.ch/de/grenzgaenger-artikel/steuergutschrift-fur-tessiner-ausgaben-idea-giovani-centro/)
@@ -5568,7 +5570,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (19097 pages)
+### Other Pages (19098 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -7743,6 +7745,7 @@
 - [Glarner Traegt Nationalrat Nieder](https://frontaliereticino.ch/de/schweiz-artikel/glarner-traegt-nationalrat-nieder/)
 - [Glarus Verkehrskarten Zonen Tarife](https://frontaliereticino.ch/de/schweiz-artikel/glarus-verkehrskarten-zonen-tarife/)
 - [Gleiche Studiengebuehren Schweiz Eu](https://frontaliereticino.ch/de/schweiz-artikel/gleiche-studiengebuehren-schweiz-eu/)
+- [Gleiches Einkommen Verschiedene Steuern](https://frontaliereticino.ch/de/schweiz-artikel/gleiches-einkommen-verschiedene-steuern/)
 - [Glencore Australien Boersengang](https://frontaliereticino.ch/de/schweiz-artikel/glencore-australien-boersengang/)
 - [Glencore Produktion Riscrittura](https://frontaliereticino.ch/de/schweiz-artikel/glencore-produktion-riscrittura/)
 - [Glencore Steigert Gewinn Und Umsatz Im Ersten Halbjahr](https://frontaliereticino.ch/de/schweiz-artikel/glencore-steigert-gewinn-und-umsatz-im-ersten-halbjahr/)
