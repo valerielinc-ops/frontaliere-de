@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 24996 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 24999 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -5597,7 +5597,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (19452 pages)
+### Other Pages (19455 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -6270,6 +6270,9 @@
 - [Feiertage Schweiz Italien](https://frontaliereticino.ch/de/feiertage-schweiz-italien/)
 - [Feiertage Tessin](https://frontaliereticino.ch/de/feiertage-tessin/)
 - [Alle](https://frontaliereticino.ch/de/firmen-die-einstellen/alle/)
+- [Page 2](https://frontaliereticino.ch/de/firmen-die-einstellen/alle/page-2/)
+- [Page 3](https://frontaliereticino.ch/de/firmen-die-einstellen/alle/page-3/)
+- [Page 4](https://frontaliereticino.ch/de/firmen-die-einstellen/alle/page-4/)
 - [Franken Euro Kurs](https://frontaliereticino.ch/de/franken-euro-kurs/)
 - [1000 Franken In Euro](https://frontaliereticino.ch/de/franken-euro-kurs/1000-franken-in-euro/)
 - [10000 Franken In Euro](https://frontaliereticino.ch/de/franken-euro-kurs/10000-franken-in-euro/)
