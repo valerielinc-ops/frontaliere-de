@@ -955,7 +955,7 @@
 - [Page Index 8](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/de/jobs-in-zurich/alle/page-index-9/)
 
-### Blog Articles (4594 pages)
+### Blog Articles (4595 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -4804,6 +4804,7 @@
 - [Page 6](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/arbeit-und-beschaeftigung/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/arbeit-und-beschaeftigung/page-7/)
 - [Page 8](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/arbeit-und-beschaeftigung/page-8/)
+- [Page 9](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/arbeit-und-beschaeftigung/page-9/)
 - [Energie Und Treibstoff](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/energie-und-treibstoff/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/energie-und-treibstoff/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/energie-und-treibstoff/page-3/)
@@ -5597,7 +5598,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (19455 pages)
+### Other Pages (19454 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -5688,7 +5689,6 @@
 - [Bobst](https://frontaliereticino.ch/de/aziende/bobst/)
 - [Bosch Thermotechnik Ag](https://frontaliereticino.ch/de/aziende/bosch-thermotechnik-ag/)
 - [Bossard Group](https://frontaliereticino.ch/de/aziende/bossard-group/)
-- [Botschi Ag Feuer Luft Wasser](https://frontaliereticino.ch/de/aziende/botschi-ag-feuer-luft-wasser/)
 - [Bps Banca Popolare Di Sondrio Suisse](https://frontaliereticino.ch/de/aziende/bps-banca-popolare-di-sondrio-suisse/)
 - [Brack Alltron Ag](https://frontaliereticino.ch/de/aziende/brack-alltron-ag/)
 - [Breitling](https://frontaliereticino.ch/de/aziende/breitling/)
