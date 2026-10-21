@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: German (this file) — also available in Italian (primary), English, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-20
+- **Index Generated**: 2026-10-21
 - **Audience**: Deutschsprachige Grenzgänger, die zwischen Italien und der Schweiz (Tessin, Graubünden, Wallis) pendeln
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -1678,6 +1678,7 @@
 - [Circolo Albate Wiedereroffnung 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/circolo-albate-wiedereroffnung-2026/)
 - [Circolo Krankenhaus Varese Parkplatz 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/circolo-krankenhaus-varese-parkplatz-2026/)
 - [Cirimido Grenzgaenger Tessin Arbeit](https://frontaliereticino.ch/de/grenzgaenger-artikel/cirimido-grenzgaenger-tessin-arbeit/)
+- [Cisl Umfrage Grenzganger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/cisl-umfrage-grenzganger-2026/)
 - [Civate Grenzgaenger Tessin Arbeit](https://frontaliereticino.ch/de/grenzgaenger-artikel/civate-grenzgaenger-tessin-arbeit/)
 - [Claudio Simonetti Monsieur Peur](https://frontaliereticino.ch/de/grenzgaenger-artikel/claudio-simonetti-monsieur-peur/)
 - [Cnc Betriebsleiter Frontalier Tessin Gehalt Anforderungen](https://frontaliereticino.ch/de/grenzgaenger-artikel/cnc-betriebsleiter-frontalier-tessin-gehalt-anforderungen/)
@@ -4831,7 +4832,6 @@
 - [Familie Und Schule](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-11/)
-- [Page 12](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-12/)
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/familie-und-schule/page-4/)
@@ -4853,7 +4853,6 @@
 - [Page 2](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-2/)
 - [Page 3](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-3/)
 - [Page 4](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-4/)
-- [Page 5](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/g-bewilligung/page-5/)
 - [Gesundheit Krankenkasse](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/)
 - [Page 10](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-10/)
 - [Page 11](https://frontaliereticino.ch/de/grenzgaenger-artikel/themen/gesundheit-krankenkasse/page-11/)
@@ -5428,6 +5427,7 @@
 - [Whistleblower Zurich Grenzgaenger 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/whistleblower-zurich-grenzgaenger-2026/)
 - [White Hash In Varese Beschlagnahmt](https://frontaliereticino.ch/de/grenzgaenger-artikel/white-hash-in-varese-beschlagnahmt/)
 - [Whp Belohnt Unternehmen Tessin 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/whp-belohnt-unternehmen-tessin-2026/)
+- [Wicht Anfrage Regionale Schutzklausel](https://frontaliereticino.ch/de/grenzgaenger-artikel/wicht-anfrage-regionale-schutzklausel/)
 - [Wie Geht Es Mit Der Grenzoeconomie Zum Kanton Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wie-geht-es-mit-der-grenzoeconomie-zum-kanton-tessin/)
 - [Wie Viel Erhaelt Ein Cnc Betrieb Im Kanton Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wie-viel-erhaelt-ein-cnc-betrieb-im-kanton-tessin/)
 - [Wie Viel Erhoeht Ein Ergotherapeut Am Tessin](https://frontaliereticino.ch/de/grenzgaenger-artikel/wie-viel-erhoeht-ein-ergotherapeut-am-tessin/)
@@ -8833,6 +8833,7 @@
 - [Rueckkehr In Die Schweiz Ohne Arbeitslosigkeit](https://frontaliereticino.ch/de/schweiz-artikel/rueckkehr-in-die-schweiz-ohne-arbeitslosigkeit/)
 - [Ruecktritt Guy Parmelin 2026](https://frontaliereticino.ch/de/schweiz-artikel/ruecktritt-guy-parmelin-2026/)
 - [Ruegsegger Bundesrat Kandidat](https://frontaliereticino.ch/de/schweiz-artikel/ruegsegger-bundesrat-kandidat/)
+- [Rundschreiben 221 Kinderabzug 2027](https://frontaliereticino.ch/de/schweiz-artikel/rundschreiben-221-kinderabzug-2027/)
 - [Ruppen Prueft Kandidatur Bundesrat](https://frontaliereticino.ch/de/schweiz-artikel/ruppen-prueft-kandidatur-bundesrat/)
 - [Russisch Im Lugano Geduld Ist Gefragt](https://frontaliereticino.ch/de/schweiz-artikel/russisch-im-lugano-geduld-ist-gefragt/)
 - [Sac Huetten Reservierungsgebuehr Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/sac-huetten-reservierungsgebuehr-schweiz/)
@@ -12151,7 +12152,6 @@
 - [Ungerwax Un Concerto Commentato 2026 10 13](https://frontaliereticino.ch/de/veranstaltungen/bern/interlaken/ungerwax-un-concerto-commentato-2026-10-13/)
 - [Volksschlager Nacht 2026 10 17](https://frontaliereticino.ch/de/veranstaltungen/bern/interlaken/volksschlager-nacht-2026-10-17/)
 - [Walter Und Christine Blatti Im Schlosskeller 2026 11 15](https://frontaliereticino.ch/de/veranstaltungen/bern/interlaken/walter-und-christine-blatti-im-schlosskeller-2026-11-15/)
-- [Iseltwald](https://frontaliereticino.ch/de/veranstaltungen/bern/iseltwald/)
 - [Vortrag Uber Die Wechseljahre 2026 10 20](https://frontaliereticino.ch/de/veranstaltungen/bern/iseltwald/vortrag-uber-die-wechseljahre-2026-10-20/)
 - [Ittigen](https://frontaliereticino.ch/de/veranstaltungen/bern/ittigen/)
 - [Shrizz N Maze Feat Greg Boyer 2026 10 30](https://frontaliereticino.ch/de/veranstaltungen/bern/ittigen/shrizz-n-maze-feat-greg-boyer-2026-10-30/)
@@ -16382,7 +16382,6 @@
 - [Helga Schneider Ich Weiss 2027 05 08](https://frontaliereticino.ch/de/veranstaltungen/luzern/buchrain/helga-schneider-ich-weiss-2027-05-08/)
 - [Diese Woche](https://frontaliereticino.ch/de/veranstaltungen/luzern/diese-woche/)
 - [Dieses Wochenende](https://frontaliereticino.ch/de/veranstaltungen/luzern/dieses-wochenende/)
-- [Ebikon](https://frontaliereticino.ch/de/veranstaltungen/luzern/ebikon/)
 - [Flohmarkt 2026 10 10](https://frontaliereticino.ch/de/veranstaltungen/luzern/ebikon/flohmarkt-2026-10-10/)
 - [Oktoberfest Ebikon 2026 10 10](https://frontaliereticino.ch/de/veranstaltungen/luzern/ebikon/oktoberfest-ebikon-2026-10-10/)
 - [Winter Qi Gong Inseli 2026 10 20](https://frontaliereticino.ch/de/veranstaltungen/luzern/ebikon/winter-qi-gong-inseli-2026-10-20/)
@@ -19243,6 +19242,7 @@
 - [Page 4](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-4/)
 - [Page 40](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-40/)
 - [Page 41](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-41/)
+- [Page 42](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-42/)
 - [Page 5](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-7/)
