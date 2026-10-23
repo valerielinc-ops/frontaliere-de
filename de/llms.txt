@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: German (this file) — also available in Italian (primary), English, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-22
+- **Index Generated**: 2026-10-23
 - **Audience**: Deutschsprachige Grenzgänger, die zwischen Italien und der Schweiz (Tessin, Graubünden, Wallis) pendeln
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -6933,6 +6933,7 @@
 - [Angestellte Schweiz Aumento 2027](https://frontaliereticino.ch/de/schweiz-artikel/angestellte-schweiz-aumento-2027/)
 - [Anhorung Windenergie Konzept Schweiz](https://frontaliereticino.ch/de/schweiz-artikel/anhorung-windenergie-konzept-schweiz/)
 - [Anleitung Betriebseroffnung Basel Landschaft](https://frontaliereticino.ch/de/schweiz-artikel/anleitung-betriebseroffnung-basel-landschaft/)
+- [Anpassung Hinterbliebenen Invalidenrenten 2027](https://frontaliereticino.ch/de/schweiz-artikel/anpassung-hinterbliebenen-invalidenrenten-2027/)
 - [Anstieg Der Hypothekarzinsen Im Dritten Quartal 2024](https://frontaliereticino.ch/de/schweiz-artikel/anstieg-der-hypothekarzinsen-im-dritten-quartal-2024/)
 - [Antara Tantra Festival In Lenk Die Neuen Regeln](https://frontaliereticino.ch/de/schweiz-artikel/antara-tantra-festival-in-lenk-die-neuen-regeln/)
 - [Anti G7 Demonstration Einsatzmassnahme Rechtmaessig](https://frontaliereticino.ch/de/schweiz-artikel/anti-g7-demonstration-einsatzmassnahme-rechtmaessig/)
@@ -16105,7 +16106,6 @@
 - [Westernkurs Mit Julie Hossmann 2026 10 17](https://frontaliereticino.ch/de/veranstaltungen/graubunden/scuol/westernkurs-mit-julie-hossmann-2026-10-17/)
 - [Seewis Im Prattigau](https://frontaliereticino.ch/de/veranstaltungen/graubunden/seewis-im-prattigau/)
 - [Dankstell Ein Moment Des Innahltens 2026 09 27](https://frontaliereticino.ch/de/veranstaltungen/graubunden/seewis-im-prattigau/dankstell-ein-moment-des-innahltens-2026-09-27/)
-- [Sils Im Domleschg](https://frontaliereticino.ch/de/veranstaltungen/graubunden/sils-im-domleschg/)
 - [Bike Treff 2026 08 06](https://frontaliereticino.ch/de/veranstaltungen/graubunden/sils-im-domleschg/bike-treff-2026-08-06/)
 - [Rennvelo Treff 2026 08 10](https://frontaliereticino.ch/de/veranstaltungen/graubunden/sils-im-domleschg/rennvelo-treff-2026-08-10/)
 - [Sils Im Engadin Segl](https://frontaliereticino.ch/de/veranstaltungen/graubunden/sils-im-engadin-segl/)
@@ -16577,7 +16577,6 @@
 - [Tanzweekend 2026 10 16](https://frontaliereticino.ch/de/veranstaltungen/luzern/fluhli/tanzweekend-2026-10-16/)
 - [Theater Deeply In Love 2026 09 25](https://frontaliereticino.ch/de/veranstaltungen/luzern/fluhli/theater-deeply-in-love-2026-09-25/)
 - [Yoga Sphere Retreat 2026 11 06](https://frontaliereticino.ch/de/veranstaltungen/luzern/fluhli/yoga-sphere-retreat-2026-11-06/)
-- [Gisikon](https://frontaliereticino.ch/de/veranstaltungen/luzern/gisikon/)
 - [Wild Wine Goldenits 2026 10 22](https://frontaliereticino.ch/de/veranstaltungen/luzern/gisikon/wild-wine-goldenits-2026-10-22/)
 - [Greppen](https://frontaliereticino.ch/de/veranstaltungen/luzern/greppen/)
 - [Castagna Chilbi Greppen 2026 10 25](https://frontaliereticino.ch/de/veranstaltungen/luzern/greppen/castagna-chilbi-greppen-2026-10-25/)
@@ -19431,6 +19430,7 @@
 - [Page 41](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-41/)
 - [Page 42](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-42/)
 - [Page 43](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-43/)
+- [Page 44](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-44/)
 - [Page 5](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-5/)
 - [Page 6](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-6/)
 - [Page 7](https://frontaliereticino.ch/de/veranstaltungen/tessin/archiv/page-7/)
