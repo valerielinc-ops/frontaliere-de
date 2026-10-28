@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 39655 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 39657 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -3046,7 +3046,6 @@
 - [Apotheker](https://frontaliereticino.ch/de/jobs-im-tessin/apotheker/)
 - [Apotheker 80 Eoc Ente Ospedaliero Cantonale Bellinzona](https://frontaliereticino.ch/de/jobs-im-tessin/apotheker-80-eoc-ente-ospedaliero-cantonale-bellinzona/)
 - [Apotheker 90 Eoc Ente Ospedaliero Cantonale Bellinzona](https://frontaliereticino.ch/de/jobs-im-tessin/apotheker-90-eoc-ente-ospedaliero-cantonale-bellinzona/)
-- [Apotheker Farmacia Internazionale Dr Merloni Chiasso](https://frontaliereticino.ch/de/jobs-im-tessin/apotheker-farmacia-internazionale-dr-merloni-chiasso/)
 - [Application Ingenieur Delvitech Sa Mendrisio](https://frontaliereticino.ch/de/jobs-im-tessin/application-ingenieur-delvitech-sa-mendrisio/)
 - [Apprendista Carrozziere A Verniciatore Trice Afc M F Estate 2027 Amag Lugano](https://frontaliereticino.ch/de/jobs-im-tessin/apprendista-carrozziere-a-verniciatore-trice-afc-m-f-estate-2027-amag-lugano/)
 - [Apprendista Impiegata O Di Commercio Con Maturita Integrata Raiffeisen Biasca](https://frontaliereticino.ch/de/jobs-im-tessin/apprendista-impiegata-o-di-commercio-con-maturita-integrata-raiffeisen-biasca/)
@@ -3255,6 +3254,7 @@
 - [Fahrer Schwere Fahrzeuge Betonmischer Pemsa Bellinzona](https://frontaliereticino.ch/de/jobs-im-tessin/fahrer-schwere-fahrzeuge-betonmischer-pemsa-bellinzona/)
 - [Fahrerfahrzeuge Pesanti Pemsa Lugano](https://frontaliereticino.ch/de/jobs-im-tessin/fahrerfahrzeuge-pesanti-pemsa-lugano/)
 - [Familienrentenberater Junior 3a 3b Hybrid Convit Holding Gmbh Via Al Mulino 22a 6814 Cadempino](https://frontaliereticino.ch/de/jobs-im-tessin/familienrentenberater-junior-3a-3b-hybrid-convit-holding-gmbh-via-al-mulino-22a-6814-cadempino/)
+- [Farmacista Farmacia Internazionale Dr Merloni Chiasso](https://frontaliereticino.ch/de/jobs-im-tessin/farmacista-farmacia-internazionale-dr-merloni-chiasso/)
 - [Finanzen Accounting Integration Spezialist Damiani Group Mendrisio](https://frontaliereticino.ch/de/jobs-im-tessin/finanzen-accounting-integration-spezialist-damiani-group-mendrisio/)
 - [Finanzen Master Data Spezialist Business Partner Ermenegildo Zegna Group Stabio](https://frontaliereticino.ch/de/jobs-im-tessin/finanzen-master-data-spezialist-business-partner-ermenegildo-zegna-group-stabio/)
 - [Firmenkundenberater Raiffeisen Savosa](https://frontaliereticino.ch/de/jobs-im-tessin/firmenkundenberater-raiffeisen-savosa/)
@@ -22340,7 +22340,7 @@
 - [Zweithebamme Geburtshaus Spital Buelach Bulach](https://frontaliereticino.ch/de/jobs-in-zurich/zweithebamme-geburtshaus-spital-buelach-bulach/)
 - [Zweitpraktikum Studium Soziale Arbeit Mindestens 9 Monate Kantonale Verwaltung Zurich Zurich](https://frontaliereticino.ch/de/jobs-in-zurich/zweitpraktikum-studium-soziale-arbeit-mindestens-9-monate-kantonale-verwaltung-zurich-zurich/)
 
-### Blog Articles (4494 pages)
+### Blog Articles (4495 pages)
 
 - [Grenzgaenger Artikel](https://frontaliereticino.ch/de/grenzgaenger-artikel/)
 - [1 Mai 2026 Tessin Gewerkschaften Udc Initiative](https://frontaliereticino.ch/de/grenzgaenger-artikel/1-mai-2026-tessin-gewerkschaften-udc-initiative/)
@@ -23046,6 +23046,7 @@
 - [Chiasso Scoperta Enti Primo Intervento](https://frontaliereticino.ch/de/grenzgaenger-artikel/chiasso-scoperta-enti-primo-intervento/)
 - [Chiasso Stadtplanung Telekommunikation](https://frontaliereticino.ch/de/grenzgaenger-artikel/chiasso-stadtplanung-telekommunikation/)
 - [Chiasso Verhaftungen Fahrraddiebstahl 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/chiasso-verhaftungen-fahrraddiebstahl-2026/)
+- [Chiasso Via Motta Arbeitsplaetze](https://frontaliereticino.ch/de/grenzgaenger-artikel/chiasso-via-motta-arbeitsplaetze/)
 - [Chiasso Wirtschaftswert Aggregation](https://frontaliereticino.ch/de/grenzgaenger-artikel/chiasso-wirtschaftswert-aggregation/)
 - [Chiasso Zoll Wartezeiten](https://frontaliereticino.ch/de/grenzgaenger-artikel/chiasso-zoll-wartezeiten/)
 - [Chiasso Zollverkehr 2026](https://frontaliereticino.ch/de/grenzgaenger-artikel/chiasso-zollverkehr-2026/)
@@ -26882,7 +26883,7 @@
 - [Tredicesima](https://frontaliereticino.ch/de/grenzgaenger-glossar/tredicesima/)
 - [Wechselkurs](https://frontaliereticino.ch/de/grenzgaenger-glossar/wechselkurs/)
 
-### Other Pages (12826 pages)
+### Other Pages (12827 pages)
 
 - [De](https://frontaliereticino.ch/de/)
 - [Api Status](https://frontaliereticino.ch/de/api-status/)
@@ -30429,6 +30430,7 @@
 - [Schwyz Lohne Arbeitsmarkt Bildung](https://frontaliereticino.ch/de/schweiz-artikel/schwyz-lohne-arbeitsmarkt-bildung/)
 - [Scientifica Festival Zuerich Forschung](https://frontaliereticino.ch/de/schweiz-artikel/scientifica-festival-zuerich-forschung/)
 - [Sconti Farmaci Vigilanza Poco Efficace De](https://frontaliereticino.ch/de/schweiz-artikel/sconti-farmaci-vigilanza-poco-efficace-de/)
+- [Sechs Massnahmen Gesundheitskosten](https://frontaliereticino.ch/de/schweiz-artikel/sechs-massnahmen-gesundheitskosten/)
 - [Seco Arbeitslosigkeit Juni 2024](https://frontaliereticino.ch/de/schweiz-artikel/seco-arbeitslosigkeit-juni-2024/)
 - [Seco Arbeitsmarkt Juli 2026](https://frontaliereticino.ch/de/schweiz-artikel/seco-arbeitsmarkt-juli-2026/)
 - [Seco Berufliche Chancen](https://frontaliereticino.ch/de/schweiz-artikel/seco-berufliche-chancen/)
