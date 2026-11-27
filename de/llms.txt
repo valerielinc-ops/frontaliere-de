@@ -224,15 +224,15 @@ A: Vergleichen Sie das konkrete Angebot nach Steuern, Versicherung, Pendel- und 
 ## Page Index (Auto-Generated Summary)
 
 - **Index Generated**: 2026-11-27
-- **Pages in this language**: 47531
+- **Pages in this language**: 47747
 - **Tax & Salary Calculators**: 459 pages
 - **Service Comparators**: 9 pages
 - **Tax & Pension**: 1 pages
 - **Practical Guides**: 20 pages
 - **Life in Ticino**: 334 pages
 - **Statistics**: 10 pages
-- **Job Board**: 25129 pages
+- **Job Board**: 25230 pages
 - **Blog pages, hubs and archives**: 4448 pages
 - **Glossary**: 42 pages
-- **Other Pages**: 17079 pages
+- **Other Pages**: 17194 pages
 - **Full URL index**: [/llms-index.txt](https://frontaliereticino.ch/llms-index.txt)
